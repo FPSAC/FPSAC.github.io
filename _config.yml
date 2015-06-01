@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            FPSAC / SFCA
 tagline:          'Formal Power Series and Algebraic Combinatorics'
-description:      'International conference series on Formal Power Series and Algebraic Combinatorics<br>Séries Formelles et Combinatoire Algébrique'
+description:      'International conference series on Formal Power Series and Algebraic Combinatorics'
 url:              http://fpsac.org
 baseurl:          /
 
