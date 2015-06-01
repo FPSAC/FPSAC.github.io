@@ -7,20 +7,23 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            FPSAC / SFCA
+tagline:          'Formal Power Series and Algebraic Combinatorics'
+description:      'International conference series on Formal Power Series and Algebraic Combinatorics<br>Séries Formelles et Combinatoire Algébrique'
+url:              http://fpsac.org
 baseurl:          /
 
+# About/contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'The FPSAC executive committee'
+  url:            http://fpsac.org/
+  email:          executive-office-fpsac@services.cnrs.fr
 
 paginate:         5
+paginate_path:       "/news/page:num/"
 
 # Custom vars
-version:          2.1.0
+version:          0.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/FPSAC/FPSAC.github.io
