@@ -4,9 +4,11 @@ Repository holding the sources of the FPSAC.org website (aka FPSAC.github.io)
 
 # Summary
 
-This website is hosted as a [github page](https://pages.github.com/).
-In short, is built statically from plain text files with a wiki like
-syntax ([Markdown](http://en.wikipedia.org/wiki/Markdown)) using
+The (upcoming) FPSAC website is hosted as a
+[github page](https://pages.github.com/).
+In short, is built statically from
+plain text files with a wiki like syntax
+([Markdown](http://en.wikipedia.org/wiki/Markdown)) using
 [Jekyll](http://jekyllrb.com/). It is meant to eventually replace
 [fpsac.org](http://fpsac.org/).
 
@@ -23,11 +25,11 @@ Here are the main files of interest:
 
 Sources of the news and blog posts:
 
-- [_post/](_post/)
+- [_posts/](_posts/)
 
 Sources of the conference descriptions:
 
-- [_conf/](_conf/)
+- [_confs/](_confs/)
 
 # Main design goals
 
