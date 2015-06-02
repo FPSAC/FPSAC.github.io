@@ -54,20 +54,24 @@ Sources of the conference descriptions:
 
 # Technology
 
-The site is statically generated automatically (using Jekyll) from a
-set of plain text files with a wiki-like syntax (Markdown). The files
-are managed by the version control system git. Data is stored as text
-and easy to edit.
+The site is statically generated automatically (using
+[Jekyll](http://jekyllrb.com/)) from a set of plain text files with a
+wiki-like syntax
+([Markdown](http://en.wikipedia.org/wiki/Markdown)). The files are
+managed by the version control system
+[git](https://git-scm.com/). Data is stored as plain text as well and
+easy to edit.
 
 # Hosting service
 
 The site is hosted by github; I (Nicolas) am not a big fan of
 outsourcing stuff out on the clould. However the site holds no private
-information, github imposes no ownership transfer, and we could move
-away from it rather transparently if needed. So that should be ok. And
-this offers a comfortable service (high availability, account
-management, smooth integration, web editing with automatic site
-rebuild).
+information,
+[github imposes no ownership transfer](https://help.github.com/articles/github-terms-of-service/),
+and we could move away from it rather transparently if needed. So that
+should be ok. And this offers a comfortable service (high
+availability, account management, smooth integration, web editing with
+automatic site rebuild).
 
 I still need to decide where to put the local clones of the official
 web sites. I am currently considering to just use another git
