@@ -11,7 +11,7 @@ title:            FPSAC / SFCA
 tagline:          'Formal Power Series and Algebraic Combinatorics'
 description:      'International conference series on Formal Power Series and Algebraic Combinatorics'
 url:              http://fpsac.org
-baseurl:          /
+baseurl:          ''
 
 # About/contact
 author:
