@@ -27,3 +27,7 @@ version:          0.1.0
 
 github:
   repo:           https://github.com/FPSAC/FPSAC.github.io
+
+collections:
+  confs:
+    output: true

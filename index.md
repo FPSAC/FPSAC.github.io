@@ -18,8 +18,10 @@ Algébrique), running since 1988.
 
 ## Upcoming conferences
 
-- [SFCA/FPSAC'16](http://sites.google.com/site/fpsac2016/): Vancouver, Canada, 2016
-- [SFCA/FPSAC'15](http://fpsac.combinatorics.kr/): Daejeon, South Korea, July 6 to 10, 2015
+{% for post in site.posts %}
+{{ post.date | date_to_string }}
+: [{{ post.title }}]({{ site.baseurl}}{{ post.url }})
+{% endfor %}
 
 ## [All conferences](conf)
 

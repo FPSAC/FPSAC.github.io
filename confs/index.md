@@ -5,8 +5,11 @@ title: Conferences
 
 ## Upcoming conferences
 
-- [SFCA/FPSAC'16](http://sites.google.com/site/fpsac2016/): Vancouver, Canada, 2016
-- [SFCA/FPSAC'15](http://fpsac.combinatorics.kr/): Daejeon, South Korea, July 6 to 10, 2015
+<ul>
+  {% for conf in site.confs %}
+  <li><a href="{{ conf.url }}">FPSAC'{{conf.year}}</a>: {{conf.town}} ({{conf.country}}), {{conf.dates}}</li>
+  {% endfor %}
+</ul>
 
 ## Past conferences
 
