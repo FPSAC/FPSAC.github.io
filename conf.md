@@ -5,12 +5,12 @@ title: Conferences
 
 ## Upcoming conferences
 
-- [SFCA/FPSAC'16](https://sites.google.com/site/fpsac2016/): Vancouver, Canada, 2016
-- [SFCA/FPSAC'15](https://fpsac.combinatorics.kr/): Daejeon, South Korea, July 6 to 10, 2015
+- [SFCA/FPSAC'16](http://sites.google.com/site/fpsac2016/): Vancouver, Canada, 2016
+- [SFCA/FPSAC'15](http://fpsac.combinatorics.kr/): Daejeon, South Korea, July 6 to 10, 2015
 
 ## Past conferences
 
-- [SFCA/FPSAC'14](https://sites.google.com/site/fpsac2014/): Chicago, USA, June 29 to July 3, 2014
+- [SFCA/FPSAC'14](http://sites.google.com/site/fpsac2014/): Chicago, USA, June 29 to July 3, 2014
 - [SFCA/FPSAC'13](http://www.liafa.univ-paris-diderot.fr/fpsac13): Paris, France, June 24 to 28, 2013
 - [SFCA/FPSAC'12](FPSAC12/fpsac12.html): Nagoya, Japon, July 30 to August 3, 2012
 - [SFCA/FPSAC'11](FPSAC11/fpsac11.html): Reykjavik, Iceland, June 13 to 17, 2011 (205 participants)
