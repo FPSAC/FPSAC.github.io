@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">FPSAC'{{ page.year }}: {{ page.town }}</h1>
+
+  <center>
+    <strong>
+    <big>
+    The {{ page.number }} international conference on<br>
+    Formal Power Series and Algebraic Combinatorics<br>
+    </big>
+    {%if page.institution %}{{ page.institution }}, {% endif %}
+    {{ page.town }}, ({{page.country}})<br>
+    {{ page.dates }}
+    </strong>
+  </center>
+
+  <a href="{{ page.site }}">Official site</a>  /
+  <a href="FPSAC/{{ page.year }}">local copy</a>
+
+  <h2>Invited speakers</h2>
+
+  {% include person_list.html persons=page.invited_speakers %}
+
+  <h2>Program Committee</h2>
+
+  {% include person_list.html persons=page.program_committee %}
+
+  <h2>Organizing Committee</h2>
+
+  {% include person_list.html persons=page.organizing_committee %}
+
+
+  {{ content }}
+</div>
