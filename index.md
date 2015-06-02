@@ -18,10 +18,11 @@ Algébrique), running since 1988.
 
 ## Upcoming conferences
 
-{% for post in site.posts %}
-{{ post.date | date_to_string }}
-: [{{ post.title }}]({{ site.baseurl}}{{ post.url }})
-{% endfor %}
+<ul>
+  {% for conf in site.confs %}
+  <li><a href="{{ conf.url }}">FPSAC'{{conf.year}}</a>: {{conf.town}} ({{conf.country}}), {{conf.dates}}</li>
+  {% endfor %}
+</ul>
 
 ## [All conferences](conf)
 
