@@ -1,13 +1,26 @@
 ---
 layout: page
 title: Permanent Executive Committee
+
+executive_commitee:
+- name: Nantel Bergeron
+  affiliation: York, Canada
+- name: Alain Goupil
+  affiliation: Trois Rivières, Canada
+- name: Christian Krattenthaler
+  affiliation: Wien, Austria
+- name: Jennifer Morse
+  affiliation: Philadelphia, USA
+- name: Jean-Yves Thibon
+  affiliation: Paris, France
+- name: Nicolas M. Thiéry
+  affiliation: Orsay, France
+  url: http://Nicolas.Thiery.name/
+- name: Ole Warnaar
+  affiliation: Brisbane, Australia
+- name: Mike Zabrocki
+  affiliation: Toronto, Canada
 ---
 
-- Nantel Bergeron (York, Canada)
-- Alain Goupil (Trois Rivières, Canada)
-- Christian Krattenthaler (Wien, Austria)
-- Jennifer Morse (Philadelphia, USA)
-- Jean-Yves Thibon (Paris, France)
-- [Nicolas M. Thiéry](http://Nicolas.Thiery.name/) (Orsay, France)
-- Ole Warnaar (Brisbane, Australia)
-- Mike Zabrocki (Toronto, Canada)
+  {% include person_list.html persons=page.executive_commitee %}
+
