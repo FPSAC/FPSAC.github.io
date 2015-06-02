@@ -6,7 +6,7 @@ title: Conferences
 ## Upcoming conferences
 
 <ul>
-  {% for conf in site.confs %}
+  {% for conf in site.confs reversed %}
   <li><a href="{{ conf.url }}">FPSAC'{{conf.year}}</a>: {{conf.town}} ({{conf.country}}), {{conf.dates}}</li>
   {% endfor %}
 </ul>
