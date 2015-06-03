@@ -7,11 +7,21 @@ title: Conferences
 
 <ul>
   {% for conf in site.confs reversed %}
+  {% if conf.year >= site.year %}
   <li><a href="{{ conf.url }}">FPSAC'{{conf.year}}</a>: {{conf.town}} ({{conf.country}}), {{conf.dates}}</li>
+  {% endif %}
   {% endfor %}
 </ul>
 
 ## Past conferences
+
+<ul>
+  {% for conf in site.confs reversed %}
+  {% if conf.year < site.year %}
+  <li><a href="{{ conf.url }}">FPSAC'{{conf.year}}</a>: {{conf.town}} ({{conf.country}}), {{conf.dates}}</li>
+  {% endif %}
+  {% endfor %}
+</ul>
 
 - [SFCA/FPSAC'14](http://sites.google.com/site/fpsac2014/): Chicago, USA, June 29 to July 3, 2014
 - [SFCA/FPSAC'13](http://www.liafa.univ-paris-diderot.fr/fpsac13): Paris, France, June 24 to 28, 2013
