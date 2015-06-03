@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Permanent Executive Committee
+title: Executive Office
 
-executive_commitee:
+executive_office:
   - name: Nantel Bergeron
     affiliation: York, Canada
   - name: Alain Goupil
@@ -22,5 +22,6 @@ executive_commitee:
     affiliation: Toronto, Canada
 ---
 
-{% include person_list.html persons=page.executive_commitee %}
+{% include person_list.html persons=page.executive_office %}
 
+Contact: executive-office-fpsac&#64;services.cnrs.fr
