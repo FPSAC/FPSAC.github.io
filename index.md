@@ -21,7 +21,7 @@ Algébrique), running since 1988.
 ## Upcoming conferences
 
 <ul>
-  {% for conf in site.confs reversed %}
+  {% for conf in site.confs %}
   <li><a href="{{ conf.url }}">FPSAC'{{conf.year}}</a>: {{conf.town}} ({{conf.country}}), {{conf.dates}}</li>
   {% endfor %}
 </ul>
