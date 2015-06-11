@@ -1,12 +1,12 @@
 ---
 layout: conf
-year: 13
+year: 2013
 number: 25th
 institution: LIAFA
-url: http://www.liafa.univ-paris-diderot.fr/fpsac13/
+url: http://www.liafa.univ-paris-diderot.fr/
 town: Paris
 country: France
-dates: June 24 to 28, 2013
+dates: June 24 - 28
 site: http://www.liafa.univ-paris-diderot.fr/fpsac13/
 best_student_paper: Michael Chmutov
 best_paper: Lionel Pournin
@@ -112,4 +112,3 @@ organizing_committee:
 <li><A HREF="SITE2013/posters.html">List of posters</A>
 <li><A HREF="SITE2013/participants.html">List of participants</A>
 <li><A HREF="SITE2013/proceedings.html">Local proceedings</A>
-

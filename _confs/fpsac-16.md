@@ -1,11 +1,11 @@
 ---
 layout: conf
-year: 16
+year: 2016
 number: 28th
 institution:
 town: Vancouver
 country: British Columbia, Canada
-dates: July 4 - 8 2016
+dates: July 4 - 8
 site: https://sites.google.com/site/fpsac2016/
 
 invited_speakers:

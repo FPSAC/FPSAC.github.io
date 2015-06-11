@@ -1,0 +1,127 @@
+---
+layout: conf
+year: 2006
+number: 18th
+institution: 
+town: San Diego
+country: California, USA
+dates: June 19 - 23
+site: http://garsia.math.yorku.ca/fpsac06/
+icon: USA.gif
+best_poster: Janvier Nzeutchap
+participants: 150
+
+invited_speakers:
+- name: Marge Bayer
+  url: http://www.math.ku.edu/~bayer/
+  institution: <a href="http://www.math.ku.edu/index.html">University of Kansas</a>
+- name: Fan Chung
+  url: http://math.ucsd.edu/~fan/
+  institution: <a href="http://www.math.ucsd.edu/">UC San Diego</a>
+- name: Jim Haglund
+  url: http://www.math.ohio-state.edu/people/display/display.php?ID=2420
+  institution: <a href="http://www.math.ohio-state.edu/">Ohio State University</a>
+- name: Seok-Jin Kang
+  url: http://www.genealogy.math.ndsu.nodak.edu/html/id.phtml?id=26479
+  institution:               (<a href="http://www.snu.ac.kr:6060/sc_sne_c/sc_sne_c_c/sc_sne_c_cc/1173662_3677.jsp">Seoul National University</a>
+- name: Tom Koornwinder
+  url: http://staff.science.uva.nl/~thk/
+  institution: <a href="http://www.science.uva.nl/english/home.cfm">Universiteit van Amsterdam</a>
+- name: Nigel Ray
+  url: http://www.ma.man.ac.uk/~nige/
+  institution: <a href="http://www.maths.manchester.ac.uk/">University of Manchester</a>
+- name: Bruce Sagan
+  url: http://www.math.msu.edu/~sagan/
+  institution: <a href="http://www.math.msu.edu/">Michigan State University</a>
+- name: Michelle Wachs
+  url: http://www.math.miami.edu/~wachs/
+  institution: <a href="http://www.math.miami.edu/">University of Miami</a>
+
+program_committee:
+- name: Fran&ccedil;ois Bergeron
+  url: http://bergeron.math.uqam.ca/page_anglais.html
+  institution: <a href="http://www.math.uqam.ca/">UQAM</a>
+  role: chair
+- name: Jeff Remmel
+  url: http://www.math.ucsd.edu/~remmel/
+  institution: <a href="http://www.math.ucsd.edu/">UC San Diego</a>
+  role: cochair
+- name: Nantel Bergeron
+  url: http://www.math.yorku.ca/bergeron/
+  institution: <a href="http://www.math.yorku.ca/">York University</a>
+- name: Mikl&oacute;s B&oacute;na
+  url: http://www.math.ufl.edu/~bona/
+  institution: <a href="http://www.math.ufl.edu/">University of Florida</a>
+- name: Bill Chen
+  url: http://www.billchen.org/
+  institution: <a href="http://www.combinatorics.cn/">Nankai University</a>
+- name: Joseph Kung
+  url: http://www.math.unt.edu/faculty/kung.shtml
+  institution: <a href="http://www.math.unt.edu/">University of North Texas</a>
+- name: Roberto Mantaci
+  url: http://www.liafa.jussieu.fr/web9/equiprech/fichepers_en.php?id=43
+  institution: <a href="http://www.liafa.jussieu.fr/">Universit&eacute; Paris 7</a>
+- name: Jennifer Morse
+  url: http://www.math.miami.edu/~morsej/
+  institution: <a href="http://www.math.miami.edu/">University of Miami</a>
+- name: Rosa Orellana
+  url: http://www.math.dartmouth.edu/~orellana/
+  institution: <a href="http://www.math.dartmouth.edu/">Dartmouth College</a>
+- name: Andrew Rechnitzer
+  url: http://www.ms.unimelb.edu.au/~andrewr/front_page.html
+  institution: <a href="http://www.ms.unimelb.edu.au/">University of Melbourne</a>
+- name: Manfred Schocker
+  url: http://www-maths.swan.ac.uk/staff/ms/
+  institution: <a href="http://www-maths.swan.ac.uk/">University of Wales Swansea</a>
+- name: Hugh Thomas
+  url: http://erdos.math.unb.ca/~hugh/
+  institution: <a href="http://www.math.unb.ca/">University of New Brunswick</a>
+- name: Mike Zabrocki
+  url: http://garsia.math.yorku.ca:16080/~zabrocki/
+  institution: <a href="http://www.math.yorku.ca/">York University</a>
+
+organizing_committee:
+- name: Nantel Bergeron
+  url: http://www.math.yorku.ca/bergeron/
+  institution: <a href="http://www.math.yorku.ca/">York University</a>
+- name: Sara Faridi
+  url: http://www.lacim.uqam.ca/~faridi/
+  institution: <a href="http://www.mathstat.dal.ca/">Dalhousie University</a>
+- name: Christophe Hohlweg
+  url: http://www.fields.utoronto.ca/~chohlweg/
+  institution: <a href="http://www.fields.utoronto.ca/">The Fields Institute</a>
+- name: Isaiah Lankham
+  url: http://www.math.ucdavis.edu/~issy/
+  institution: <a href="http://www.math.ucdavis.edu/">UC Davis</a>
+- name: Marni Mishna
+  url: http://www.math.sfu.ca/~mmishna/
+  institution: <a href="http://www.math.sfu.ca/">Simon Fraser University</a>
+- name: Rosa Orellana
+  url: http://www.math.dartmouth.edu/~orellana/
+  institution: <a href="http://www.math.dartmouth.edu/">Dartmouth College</a>
+- name: Andrew Rechnitzer
+  url: http://www.ms.unimelb.edu.au/~andrewr/front_page.html
+  institution: <a href="http://www.ms.unimelb.edu.au/">University of Melbourne</a>
+- name: Tom Roby
+  url: http://www.math.uconn.edu/~troby/
+  institution: <a href="http://www.math.uconn.edu/">University of Connecticut</a>
+- name: Mercedes Rosas
+  url: http://www.ma.usb.ve/~mrosas/
+  institution: <a href="http://www-en.us.es/">Universidad de Sevilla</a>
+- name: Jeff Remmel
+  url: http://www.math.ucsd.edu/~remmel/
+  institution: <a href="http://www.math.ucsd.edu/">UC San Diego</a>
+  role: cochair
+- name: Mike Zabrocki
+  url: http://garsia.math.yorku.ca:16080/~zabrocki/
+  institution: <a href="http://www.math.yorku.ca/">York University</a>
+  role: cochair
+
+---
+# Papers, posters and software demonstrations
+
+- <A HREF="contrib_papers.html">List of papers</A><BR>
+- <A HREF="contrib_posters.html">List of posters</A><BR>
+- <A HREF="contrib_software.html">Software demonstrations</A><BR>
+- <A HREF="SITE06/papers/fpsac06_proceedings.pdf">The complete conference proceedings in a pdf file</A><BR>
+- <A HREF="SITE06/en/program.html">Conference program</A> (with talk presentations)

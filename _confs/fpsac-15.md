@@ -1,11 +1,11 @@
 ---
 layout: conf
-year: 15
+year: 2015
 number: 27th
 institution: KAIST
 town: Daejeon
 country: South Korea
-dates: July 6 to 10, 2015
+dates: July 6 - 10
 site: http://fpsac.combinatorics.kr/
 
 invited_speakers:

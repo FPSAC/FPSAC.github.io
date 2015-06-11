@@ -33,4 +33,4 @@ collections:
     output: true
 
 # The current year (fpsac's >= <year> will be mentionned in the upcoming conference list)
-year: 15
+year: 2015

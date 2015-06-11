@@ -23,7 +23,7 @@ Algébrique), running since 1988.
 <ul>
   {% for conf in site.confs %}
   {% if conf.year >= site.year %}
-  <li><a href="{{ conf.url }}">FPSAC'{{conf.year}}</a>: {{conf.town}} ({{conf.country}}), {{conf.dates}}</li>
+  <li><a href="{{ conf.url }}">FPSAC'{{conf.year}}</a>: {{conf.town}} ({{conf.country}}), {{conf.dates}}, {{conf.year}}</li>
   {% endif %}
   {% endfor %}
 </ul>

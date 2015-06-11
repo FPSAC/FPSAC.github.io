@@ -1,6 +1,6 @@
 ---
 layout: conf
-year: 17
+year: 2017
 number: 29th
 institution:
 town: London
