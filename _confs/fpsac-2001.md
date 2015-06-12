@@ -13,88 +13,88 @@ participants: 150
 
 invited_speakers:
 - name: Sanjeev Arora
-  institution: USA
+  affiliation: USA
 - name: Imre Bárány
-  institution: Hungary/England
+  affiliation: Hungary/England
 - name: Mireille Bousquet-Mélou
-  institution: France
+  affiliation: France
 - name: Omar Foda
-  institution: Australia
+  affiliation: Australia
 - name: Robin Forman
-  institution: USA
+  affiliation: USA
 - name: Gil Kalai
-  institution: Israel
+  affiliation: Israel
 - name: William T. Trotter
-  institution: USA
+  affiliation: USA
 - name: Michèle Vergne
-  institution: France
+  affiliation: France
 - name: Herbert Wilf
-  institution: USA
+  affiliation: USA
 
 program_committee:
 - name: H. Barcelo
-  institution: Arizona State University, USA
+  affiliation: Arizona State University, USA
   role: chair
 - name: R. Bédard
-  institution: Canada
+  affiliation: Canada
 - name: L. Carini
-  institution: Italie
+  affiliation: Italie
 - name: R. Cori
-  institution: France
+  affiliation: France
 - name: M. Delest
-  institution: France
+  affiliation: France
 - name: A. Denise
-  institution: France
+  affiliation: France
 - name: A. Duval
-  institution: USA
+  affiliation: USA
 - name: I. Gessel
-  institution: USA
+  affiliation: USA
 - name: A. Goupil
-  institution: Canada
+  affiliation: Canada
 - name: A.J. Guttmann
-  institution: Australia
+  affiliation: Australia
 - name: P. Haxell
-  institution: Canada
+  affiliation: Canada
 - name: T. Hibi
-  institution: Japan
+  affiliation: Japan
 - name: M. Mendez
-  institution: Venezuela
+  affiliation: Venezuela
 - name: S. Onn
-  institution: Israel
+  affiliation: Israel
 - name: A. Ram
-  institution: USA
+  affiliation: USA
 - name: D. Stanton
-  institution: USA
+  affiliation: USA
 - name: L. Verde-Star
-  institution: Canada/Mexique
+  affiliation: Canada/Mexique
 - name: M. Wachs
-  institution: USA
+  affiliation: USA
 - name: T. Walsh
-  institution: Canada
+  affiliation: Canada
 - name: V. Welker
-  institution: Germany
+  affiliation: Germany
   role: chair
 - name: D. Welsh
-  institution: United Kingdom
+  affiliation: United Kingdom
 
 organizing_committee:
 - name: H. Barcelo
-  institution: Arizona State University, USA
+  affiliation: Arizona State University, USA
   role: chair
 - name: M. Delest
-  institution: France
+  affiliation: France
 - name: J.M. Fédou
-  institution: France
+  affiliation: France
 - name: D. J. Grabiner
-  institution: USA
+  affiliation: USA
 - name: G. Hurlbert
-  institution: USA
+  affiliation: USA
 - name: P. Leroux
-  institution: Canada
+  affiliation: Canada
 - name: D. Stanton
-  institution: USA
+  affiliation: USA
 - name: V. Welker
-  institution: Germany
+  affiliation: Germany
 
 ---
 # Papers

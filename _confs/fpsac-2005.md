@@ -13,92 +13,92 @@ participants: 198
 
 invited_speakers:
 - name: Christine Bessenrodt
-  institution: Universitat Hannover, Germany
+  affiliation: Universitat Hannover, Germany
 - name: Corrado De Concini
-  institution: University of Rome, Italy
+  affiliation: University of Rome, Italy
 - name: Ronald King
-  institution: University of Southampton, UK
+  affiliation: University of Southampton, UK
 - name: Renzo Pinzani
-  institution: University of Florence, Italy
+  affiliation: University of Florence, Italy
 - name: Jeff Remmel
-  institution: University of California, San Diego, USA
+  affiliation: University of California, San Diego, USA
 
 program_committee:
 - name: Christos Athanasiadis
-  institution: Greece
+  affiliation: Greece
 - name: Hélène Barcelo
-  institution: USA
+  affiliation: USA
 - name: Francois Bergeron
-  institution: Canada
+  affiliation: Canada
 - name: Sara Billey
-  institution: USA
+  affiliation: USA
 - name: Francesco Brenti
-  institution: Italy
+  affiliation: Italy
 - name: Luisa Carini
-  institution: Italy
+  affiliation: Italy
   role: chair
 - name: Bill Chen
-  institution: China
+  affiliation: China
 - name: Alain Goupil
-  institution: Canada
+  affiliation: Canada
 - name: Takayuki Hibi
-  institution: Japan
+  affiliation: Japan
 - name: Anatol Kirillov
-  institution: Russia
+  affiliation: Russia
 - name: Christian Krattenthaler
-  institution: France
+  affiliation: France
 - name: Alain Lascoux
-  institution: France
+  affiliation: France
 - name: Svante Linusson
-  institution: Sweden
+  affiliation: Sweden
 - name: Jennifer Morse
-  institution: USA
+  affiliation: USA
 - name: Marc Noy
-  institution: Spain
+  affiliation: Spain
 - name: Jorn Olsson
-  institution: Denmark
+  affiliation: Denmark
 - name: Arun Ram
-  institution: USA
+  affiliation: USA
 - name: Domenico Senato
-  institution: Italy
+  affiliation: Italy
 - name: Volker Strehl
-  institution: Germany
+  affiliation: Germany
 - name: Jean-Yves Thibon
   role: cochair
-  institution: France
+  affiliation: France
 - name: Helge Tverberg
-  institution: Norway
+  affiliation: Norway
 - name: Michelle Wachs
-  institution: USA
+  affiliation: USA
 - name: Volkmar Welker
-  institution: Germany
+  affiliation: Germany
 - name: Mike Zabrocki
-  institution: Canada
+  affiliation: Canada
 
 organizing_committee:
 - name: Hélène Barcelo
-  institution: USA
+  affiliation: USA
 - name: Luisa Carini
-  institution: Italy
+  affiliation: Italy
   role: chair
 - name: Vincenzo De Filippis
-  institution: Italy
+  affiliation: Italy
 - name: Maylis Delest
-  institution: France
+  affiliation: France
 - name: Jean-Marc Fédou
-  institution: France
+  affiliation: France
 - name: Alain Goupil
-  institution: Canada
+  affiliation: Canada
 - name: Enzo Maria Li Marzi
-  institution: Italy
+  affiliation: Italy
 - name: Filippo Mignosi
-  institution: Italy
+  affiliation: Italy
 - name: Jennifer Morse
-  institution: USA
+  affiliation: USA
 - name: Gaetana Restuccia
-  institution: Italy
+  affiliation: Italy
 - name: Jean-Yves Thibon
-  institution: France
+  affiliation: France
 
 ---
 

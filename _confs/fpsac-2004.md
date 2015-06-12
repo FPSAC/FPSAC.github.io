@@ -13,78 +13,78 @@ participants: 150
 
 invited_speakers:
 - name: Norman Biggs
-  institution: United Kingdom
+  affiliation: United Kingdom
 - name: Louis Billera
-  institution: USA
+  affiliation: USA
 - name: Sara Billey
-  institution: USA
+  affiliation: USA
 - name: Takayuki Hibi
-  institution: Japan
+  affiliation: Japan
 - name: Allen Knutson
-  institution: USA
+  affiliation: USA
 - name: Jean-Louis Loday
-  institution: France
+  affiliation: France
 - name: Robin Pemantle
-  institution: USA
+  affiliation: USA
 - name: Anne Schilling
-  institution: USA
+  affiliation: USA
 
 program_committee:
 - name: Jonathan Borwein
-  institution: Canada
+  affiliation: Canada
   role: chair
 - name: Mike Atkinson
-  institution: Canada
+  affiliation: Canada
 - name: Nantel Bergeron
-  institution: Canada
+  affiliation: Canada
 - name: Luisa Carini
-  institution: Italie
+  affiliation: Italie
 - name: William Chen
-  institution: Chine
+  affiliation: Chine
 - name: Sylvie Corteel
-  institution: France
+  affiliation: France
 - name: Ira Gessel
-  institution: USA
+  affiliation: USA
 - name: Ian Goulden
-  institution: Canada
+  affiliation: Canada
 - name: Michael Joswig
-  institution: Germany
+  affiliation: Germany
 - name: Martin Klazar
-  institution: Hongrie
+  affiliation: Hongrie
 - name: Christian Krattenthaler
-  institution: France
+  affiliation: France
 - name: Gilbert Labelle
-  institution: Canada
+  affiliation: Canada
 - name: Soichi Okada
-  institution: Japon
+  affiliation: Japon
 - name: Margaret Readdy
-  institution: USA
+  affiliation: USA
 - name: Frank Sottile
-  institution: USA
+  affiliation: USA
 - name: Einar Steingrimsson
-  institution: Sweden
+  affiliation: Sweden
 - name: Julian West
-  institution: Canada
+  affiliation: Canada
 - name: Stephanie van Willigenburg
-  institution: Canada
+  affiliation: Canada
   role: chair
 
 organizing_committee:
 - name: Julian West
-  institution: Malaspina, Victoria, Canada
+  affiliation: Malaspina, Victoria, Canada
   role: chair
 - name: Nantel Bergeron
-  institution: Canada
+  affiliation: Canada
 - name: Luis Goddyn
-  institution: Canada
+  affiliation: Canada
 - name: Marni Mishna
-  institution: France
+  affiliation: France
 - name: Tom Roby 
-  institution: Canada
+  affiliation: Canada
 - name: Frank Ruskey
-  institution: Canada
+  affiliation: Canada
 - name: Stephanie van Willigenburg
-  institution: Canada
+  affiliation: Canada
 
 ---
 

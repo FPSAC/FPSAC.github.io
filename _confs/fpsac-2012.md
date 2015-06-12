@@ -9,86 +9,86 @@ dates: July 30 - August 3
 site: http://www.math.nagoya-u.ac.jp/fpsac12/
 icon: Japan.gif
 best_student_paper: Joel Lewis, Yan Zhang
-participants: 
+participants: 192
 
 invited_speakers:
 - name: Alexei Borodin
-  institution: Massachusetts Institute of Technology, U.S.A.
+  affiliation: Massachusetts Institute of Technology, U.S.A.
 - name: Gil Kalai
-  institution: Hebrew University, Israel
+  affiliation: Hebrew University, Israel
 - name: Manuel Kauers
-  institution: Johannes Kepler Universität, Austria
+  affiliation: Johannes Kepler Universität, Austria
 - name: Rinat Kedem
-  institution: University of Illinois at Urbana-Champaign, U.S.A.
+  affiliation: University of Illinois at Urbana-Champaign, U.S.A.
 - name: Thomas Lam
-  institution: University of Michigan, U.S.A.
+  affiliation: University of Michigan, U.S.A.
 - name: Hjalmar Rosengren
-  institution: Chalmers University of Technology / University of Gothenburg, Sweden
+  affiliation: Chalmers University of Technology / University of Gothenburg, Sweden
 - name: Catharina Stroppel
-  institution: Universität Bonn, Germany
+  affiliation: Universität Bonn, Germany
 - name: Hiroaki Terao
-  institution: Hokkaido University, Japan
+  affiliation: Hokkaido University, Japan
 
 program_committee:
 - name: Hiro-Fumi Yamada
-  institution: Okayama University, Japan
+  affiliation: Okayama University, Japan
   role: chair
 - name: Nantel Bergeron
-  institution: York University, Canada
+  affiliation: York University, Canada
   role: cochair
 - name: Susumu Ariki
-  institution: Osaka University, Japan
+  affiliation: Osaka University, Japan
 - name: Jean-Christophe Aval
-  institution: Université Bordeaux 1, France
+  affiliation: Université Bordeaux 1, France
 - name: Christine Bessenrodt
-  institution: Leibniz Universität Hannover, Germany
+  affiliation: Leibniz Universität Hannover, Germany
 - name: Francesco Brenti
-  institution: Università di Roma ?Tor Vergata?, Italy
+  affiliation: Università di Roma ?Tor Vergata?, Italy
 - name: Sylvie Corteel
-  institution: Université Paris Diderot 7, France
+  affiliation: Université Paris Diderot 7, France
 - name: Michael Drmota
-  institution: Technische Universität Wien, Austria
+  affiliation: Technische Universität Wien, Austria
 - name: Mariko Hagita
-  institution: Ochanomizu University, Japan
+  affiliation: Ochanomizu University, Japan
 - name: Florent Hivert
-  institution: Université Paris-Sud 11, France
+  affiliation: Université Paris-Sud 11, France
 - name: Jim Haglund
-  institution: University of Pennsylvania, U.S.A.
+  affiliation: University of Pennsylvania, U.S.A.
 - name: Dongsu Kim
-  institution: Korea Advanced Institute of Science and Technology, Korea
+  affiliation: Korea Advanced Institute of Science and Technology, Korea
 - name: Jeremy Martin
-  institution: University of Kansas, U.S.A.
+  affiliation: University of Kansas, U.S.A.
 - name: Satoshi Murai
-  institution: Yamaguchi University, Japan
+  affiliation: Yamaguchi University, Japan
 - name: Arun Ram
-  institution: University of Melbourne, Australia
+  affiliation: University of Melbourne, Australia
 - name: Andrew Rechnitzer
-  institution: University of British Columbia, Canada
+  affiliation: University of British Columbia, Canada
 - name: Gilles Schaeffer
-  institution: École Polytechnique, France
+  affiliation: École Polytechnique, France
 - name: Piotr &#x015a;niady
-  institution: University of Wroclaw, Poland
+  affiliation: University of Wroclaw, Poland
 - name: Dennis Stanton
-  institution: University of Minnesota, U.S.A.
+  affiliation: University of Minnesota, U.S.A.
 - name: Kai Meng Tan
-  institution: National University of Singapore, Singapore
+  affiliation: National University of Singapore, Singapore
 - name: David Wagner
-  institution: University of Waterloo, Canada
+  affiliation: University of Waterloo, Canada
 
 organizing_committee:
 - name: Soichi Okada
-  institution: Nagoya University, Japan
+  affiliation: Nagoya University, Japan
   role: chair
 - name: Susanna Fishel
-  institution: Arizona State University, U.S.A.
+  affiliation: Arizona State University, U.S.A.
 - name: Masao Ishikawa
-  institution: University of the Ryukyus, Japan
+  affiliation: University of the Ryukyus, Japan
 - name: Christian Krattenthaler
-  institution: Universität Wien, Austria
+  affiliation: Universität Wien, Austria
 - name: Hiroshi Mizukawa
-  institution: National Defense Academy, Japan
+  affiliation: National Defense Academy, Japan
 - name: Sho Matsumoto
-  institution: Nagoya University, Japan
+  affiliation: Nagoya University, Japan
 
 ---
 

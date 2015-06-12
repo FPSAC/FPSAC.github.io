@@ -2,7 +2,7 @@
 layout: conf
 year: 2003
 number: 15th
-institution: Linköping University
+affiliation: Linköping University
 town: Linköping
 country: Sweden
 dates: June 23 - 27
@@ -13,83 +13,83 @@ participants: 150
 
 invited_speakers:
 - name: Imre Bárány
-  institution: Hungary
+  affiliation: Hungary
 - name: Fan Chung
-  institution: USA
+  affiliation: USA
 - name: Johan Håstad
-  institution: Sweden
+  affiliation: Sweden
 - name: Olle Häggström
-  institution: Sweden
+  affiliation: Sweden
 - name: Alain Lascoux
-  institution: France
+  affiliation: France
 - name: Pierre Leroux
-  institution: Canada
+  affiliation: Canada
 - name: Isabella Novik
-  institution: USA
+  affiliation: USA
 - name: Ron Shamir
-  institution: Israel
+  affiliation: Israel
 - name: Richard Stanley
-  institution: USA
+  affiliation: USA
 
 program_committee:
 - name: Kimmo Eriksson
-  institution: Sweden
+  affiliation: Sweden
   role: chair
 - name: Anders Björner
-  institution: Sweden
+  affiliation: Sweden
   role: cochair
 - name: Svante Linusson
-  institution: Sweden
+  affiliation: Sweden
 - name: Ron Adin
-  institution: Israel
+  affiliation: Israel
 - name: Jörgen Backelin
-  institution: Sweden
+  affiliation: Sweden
 - name: Hélène Barcelo
-  institution: USA
+  affiliation: USA
 - name: Francois Bergeron
-  institution: Canada
+  affiliation: Canada
 - name: Norman Biggs
-  institution: England
+  affiliation: England
 - name: Ian Goulden
-  institution: Canada
+  affiliation: Canada
 - name: Guoniu Han
-  institution: France
+  affiliation: France
 - name: Masao Ishikawa
-  institution: Japan
+  affiliation: Japan
 - name: Jean Christophe Novelli
-  institution: France
+  affiliation: France
 - name: Dennis Stanton
-  institution: USA
+  affiliation: USA
 - name: Einar Steingrimsson
-  institution: Sweden
+  affiliation: Sweden
 - name: Bob Sulanke
-  institution: USA
+  affiliation: USA
 - name: Helge Tverberg
-  institution: Norway
+  affiliation: Norway
 - name: Volkmar Welker
-  institution: Germany
+  affiliation: Germany
 - name: Julian West
-  institution: Canada
+  affiliation: Canada
 - name: Staphanie van Willigenburg
-  institution: Canada
+  affiliation: Canada
 - name: Günter Ziegler
-  institution: Germany
+  affiliation: Germany
 
 organizing_committee:
 - name: Svante Linusson
-  institution: Sweden
+  affiliation: Sweden
   role: chair
 - name: Hélène Barcelo
-  institution: USA
+  affiliation: USA
 - name: Art Duval
-  institution: USA
+  affiliation: USA
 - name: Jonna Gill
-  institution: Sweden
+  affiliation: Sweden
 - name: Johan Wästlund
-  institution: Sweden
+  affiliation: Sweden
 - name: Erik Ouchterlony
-  institution: Sweden
+  affiliation: Sweden
 - name: Johan Thapper
-  institution: Sweden
+  affiliation: Sweden
 
 ---

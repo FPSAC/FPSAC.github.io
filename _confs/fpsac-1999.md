@@ -13,91 +13,91 @@ participants: 152
 
 invited_speakers:
 - name: George Andrews
-  institution: USA
+  affiliation: USA
 - name: Miquel Angel Fiol
-  institution: Spain
+  affiliation: Spain
 - name: Claire Kenyon
-  institution: France
+  affiliation: France
 - name: Victor Neuman-Lara
-  institution: Mexico
+  affiliation: Mexico
 - name: Cheryl Praeger
-  institution: Australia
+  affiliation: Australia
 - name: Arun Ram
-  institution: USA
+  affiliation: USA
 - name: Dominic Welsh
-  institution: United Kingdom
+  affiliation: United Kingdom
 - name: Jean-Bernard Zuber
-  institution: France
+  affiliation: France
 
 program_committee:
 - name: Gert Almkvist
-  institution: Sweden
+  affiliation: Sweden
 - name: Helene Barcelo
-  institution: USA
+  affiliation: USA
 - name: Fran&#231;ois Bergeron
-  institution: Canada
+  affiliation: Canada
 - name: Robert Cori
-  institution: France
+  affiliation: France
   role: chair
 - name: Jean-Marc F&eacute;dou
-  institution: France
+  affiliation: France
 - name: Kazuhizo Koike
-  institution: Japan
+  affiliation: Japan
 - name: Conrado Mart&iacute;nez
-  institution: Spain
+  affiliation: Spain
 - name: Alexander Mikhalev
-  institution: Russia
+  affiliation: Russia
 - name: Marc Noy
-  institution: Spain
+  affiliation: Spain
 - name: Peter Paule
-  institution: Austria
+  affiliation: Austria
 - name: Renzo Pinzani
-  institution: Italy
+  affiliation: Italy
 - name: Oriol Serra
-  institution: Spain
+  affiliation: Spain
   role: chair
 - name: Rodica Simion
-  institution: USA
+  affiliation: USA
 - name: Dennis Stanton
-  institution: USA
+  affiliation: USA
 - name: Sheila Sundaram
-  institution: USA
+  affiliation: USA
 - name: Jean-Yves Thibon
-  institution: France
+  affiliation: France
 - name: Volkmar Welker
-  institution: Germany
+  affiliation: Germany
 - name: Nick Wormald
-  institution: Australia
+  affiliation: Australia
 - name: Jiang Zeng
-  institution: France
+  affiliation: France
 
 organizing_committee:
 - name: Josep M. Brunat
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 - name: Maylis Delest
-  institution: U. de Bordeaux, France
+  affiliation: U. de Bordeaux, France
 - name: Pilar Esqu&eacute;
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 - name: Ferran Hurtado
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 - name: Conrado Mart&iacute;nez
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 - name: Montserrat Maureso
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 - name: Antonio Montes
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 - name: Merc&egrave; Mora
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 - name: Marc Noy
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
   role: chair
   mail: noy@grec.ma2.upc.es
 - name: Jos&eacute; Luis Ruiz
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 - name: Carlos Seara
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 - name: Oriol Serra
-  institution: UPC, Barcelona
+  affiliation: UPC, Barcelona
 
 ---
 # Papers, posters and software demonstrations

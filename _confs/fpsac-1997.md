@@ -11,73 +11,73 @@ participants: 140
 
 invited_speakers:
 - name: Martin Aigner
-  institution: Berlin
+  affiliation: Berlin
 - name: Jonathan Borwein
-  institution: Canada
+  affiliation: Canada
 - name: Andreas Dress
-  institution: Germany
+  affiliation: Germany
 - name: Tony Guttmann
-  institution: Australia
+  affiliation: Australia
 - name: Mark Haiman
-  institution: USA
+  affiliation: USA
 - name: M. Kashiwara
-  institution: Japan
+  affiliation: Japan
 - name: Michel Mend&egrave;s-France
-  institution: France
+  affiliation: France
 - name: Rodica Simion
-  institution: USA
+  affiliation: USA
 - name: Anatoly Vershik
-  institution: Russia
+  affiliation: Russia
 
 program_committee:
 - name: Nantel Bergeron
-  institution: Canada
+  affiliation: Canada
 - name: Fransesco Brenti
-  institution: Italy
+  affiliation: Italy
 - name: Mireille Bousquet-M&eacute;lou
-  institution: France
+  affiliation: France
 - name: David Bressoud
-  institution: USA
+  affiliation: USA
 - name: Omar Foda
-  institution: Australia
+  affiliation: Australia
 - name: Serguei Fomin
-  institution: USA, Russia
+  affiliation: USA, Russia
 - name: Ian Goulden
-  institution: Canada
+  affiliation: Canada
 - name: T. Kepka
-  institution: Tchechia
+  affiliation: Tchechia
 - name: Sergei Kerov
-  institution: Russia
+  affiliation: Russia
 - name: Christian Krattenthaler
-  institution: Austria
+  affiliation: Austria
 - name: Bernard Leclerc
-  institution: France
+  affiliation: France
 - name: Marc Noy
-  institution: Spain
+  affiliation: Spain
 - name: Peter Paule
-  institution: Austria
+  affiliation: Austria
   role: chair
 - name: Marko Petkovsek
-  institution: Slovenia
+  affiliation: Slovenia
 - name: Victor Reiner
-  institution: USA
+  affiliation: USA
 - name: Jeff Remmel
-  institution: USA
+  affiliation: USA
 - name: Christophe Reutenauer
-  institution: Canada
+  affiliation: Canada
 - name: Bruno Salvy
-  institution: France
+  affiliation: France
 - name: Volker Strehl
-  institution: Germany
+  affiliation: Germany
   role: chair
 - name: Itaru Terada
-  institution: Japan
+  affiliation: Japan
 - name: Dominic Welsh
-  institution: England
+  affiliation: England
 
 organizing_committee:
 - name: Christian Krattenthaler
-  institution: Austria
+  affiliation: Austria
   url: http://radon.mat.univie.ac.at/People/kratt
   role: chair
 

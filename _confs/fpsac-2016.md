@@ -2,7 +2,7 @@
 layout: conf
 year: 2016
 number: 28th
-institution:
+affiliation:
 town: Vancouver
 country: British Columbia, Canada
 dates: July 4 - 8

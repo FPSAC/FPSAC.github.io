@@ -53,11 +53,11 @@ program_committee:
   - name: James Haglund
     url: http://www.math.upenn.edu/~jhaglund/
     affiliation: University of Pennsylvania, USA
-    role: co-chair
+    role: cochair
   - name: Christian Krattenthaler
     url: http://www.mat.univie.ac.at/~kratt/
     affiliation: Universität Wien, Austria
-  - name: target="_blank">Joseph Kung
+  - name: Joseph Kung
     url: https://math.unt.edu/faculty/joseph-kung
     affiliation: University of North Texas, USA
   - name: Kyungyong Lee
@@ -93,7 +93,7 @@ program_committee:
   - name: Jiang Zeng
     url: http://math.univ-lyon1.fr/~zeng/
     affiliation: Université Claude Bernard Lyon 1, France
-    role: co-chair
+    role: cochair
 
 organizing_committee:
   - name: Sergi Elizalde

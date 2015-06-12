@@ -10,70 +10,70 @@ participants: 130
 
 invited_speakers:
 - name:  Noga Alon
-  institution: Israel
+  affiliation: Israel
 - name:  R.J. Baxter
-  institution: Melbourne, Australia
+  affiliation: Melbourne, Australia
 - name:  Francesco Brenti
-  institution: Perugia, Italy
+  affiliation: Perugia, Italy
 - name:  D. Jackson
-  institution: Waterloo, Canada
+  affiliation: Waterloo, Canada
 - name:  Bernard Leclerc
-  institution: Caen, France
+  affiliation: Caen, France
 - name:  Victor Reiner
-  institution: USA
+  affiliation: USA
 - name:  Michelle Wachs
-  institution: Miami, USA
+  affiliation: Miami, USA
 - name:  Günter Ziegler
-  institution: Germany
+  affiliation: Germany
 
 program_committee:
 - name:  Helena Barcelo
-  institution: USA
+  affiliation: USA
 - name: Laura Chihara
-  institution: USA
+  affiliation: USA
   url: http://home.earthlink.net/~lmchihara
 - name:  Jean-Marc Fédou
-  institution: France
+  affiliation: France
 - name:  Ira Gessel
-  institution: USA
+  affiliation: USA
 - name:  J. Goldman
-  institution: USA
+  affiliation: USA
 - name:  Ian Goulden
-  institution: Canada
+  affiliation: Canada
 - name:  Antony Guttmann
-  institution: Australia
+  affiliation: Australia
 - name:  Christian Krattenthaler
-  institution: Austria
+  affiliation: Austria
 - name:  Gilbert Labelle
-  institution: Canada
+  affiliation: Canada
 - name:  Pierre Leroux
-  institution: Canada
+  affiliation: Canada
 - name:  A. Morris
-  institution: England
+  affiliation: England
 - name:  S. Okada
-  institution: Japon
+  affiliation: Japon
 - name:  Peter Paule
-  institution: Austria
+  affiliation: Austria
 - name:  Jeff Remmel
-  institution: USA
+  affiliation: USA
 - name:  Bruce E. Sagan
-  institution: USA
+  affiliation: USA
 - name:  Dennis Stanton
-  institution: USA
+  affiliation: USA
   role: chair
 - name:  Sheila Sundaram
-  institution: USA
+  affiliation: USA
 - name:  Volkmar Welker
-  institution: Germany
+  affiliation: Germany
 - name:  Jiang Zeng
-  institution: France
+  affiliation: France
 
 organizing_committee:
 - name:  Dennis Stanton
-  institution: USA
+  affiliation: USA
   role: chair
 - name:  Dennis White
-  institution: USA
+  affiliation: USA
   role: chair
 
 ---

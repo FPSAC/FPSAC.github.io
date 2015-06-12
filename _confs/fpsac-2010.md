@@ -12,97 +12,97 @@ participants: 210
 
 invited_speakers:
 - name: Bill Chen
-  institution: Nankai University, China
+  affiliation: Nankai University, China
 - name: Persi Diaconis
-  institution: Stanford University, USA
+  affiliation: Stanford University, USA
 - name: Alicia Dickenstein
-  institution: Universidad de Buenos Aires, Argentina
+  affiliation: Universidad de Buenos Aires, Argentina
 - name: Joseph Gubeladze
-  institution: San Francisco State University, USA
+  affiliation: San Francisco State University, USA
 - name: Florent Hivert
-  institution: Université de Rouen, France
+  affiliation: Université de Rouen, France
 - name: Tara Holm
-  institution: Cornell University, USA
+  affiliation: Cornell University, USA
 - name: Jon McCammond
-  institution: University of California, Santa Barbara, USA
+  affiliation: University of California, Santa Barbara, USA
 - name: Ileana Streinu
-  institution: Smith College, USA
+  affiliation: Smith College, USA
 - name: Peter Winkler
-  institution: Dartmouth College, USA
+  affiliation: Dartmouth College, USA
 
 program_committee:
 - name: Sara Billey
-  institution: University of Washington, USA
+  affiliation: University of Washington, USA
   role: cochair
 - name: Vic Reiner
-  institution: University of Minnesota, USA
+  affiliation: University of Minnesota, USA
   role: cochair
 - name: Michael Albert
-  institution: University of Otago, New Zealand
+  affiliation: University of Otago, New Zealand
 - name: Francesco Brenti
-  institution: Universita' di Roma "Tor Vergata", Italy
+  affiliation: Universita' di Roma "Tor Vergata", Italy
 - name: Sylvie Corteel
-  institution: Université Paris XI, France
+  affiliation: Université Paris XI, France
 - name: Sergi Elizalde
-  institution: Dartmouth College, USA
+  affiliation: Dartmouth College, USA
 - name: Dmitry Feichtner-Kozlov
-  institution: Universität Bremen, Germany
+  affiliation: Universität Bremen, Germany
 - name: Ira Gessel
-  institution: Brandeis University, USA
+  affiliation: Brandeis University, USA
 - name: Curtis Greene
-  institution: Haverford College, USA
+  affiliation: Haverford College, USA
 - name: Jim Haglund
-  institution: University of Pennsilvania, USA
+  affiliation: University of Pennsilvania, USA
 - name: Sam Hsiao
-  institution: Bard College, USA
+  affiliation: Bard College, USA
 - name: Jakob Jonsson
-  institution: KTH, Sweden
+  affiliation: KTH, Sweden
 - name: Gil Kalai
-  institution: Hebrew University, Israel
+  affiliation: Hebrew University, Israel
 - name: Carly Klivans
-  institution: University of Chicago, USA
+  affiliation: University of Chicago, USA
 - name: Fu Liu
-  institution: University of California, Davis, USA
+  affiliation: University of California, Davis, USA
 - name: Soichi Okada
-  institution: Nagoya University, Japan
+  affiliation: Nagoya University, Japan
 - name: Julian Pfeifle
-  institution: Universitat Politècnica de Catalunya, Spain
+  affiliation: Universitat Politècnica de Catalunya, Spain
 - name: Alexander Postnikov
-  institution: Massachusetts Institute of Technology, USA
+  affiliation: Massachusetts Institute of Technology, USA
 - name: David Speyer
-  institution: Massachusetts Institute of Technology, USA
+  affiliation: Massachusetts Institute of Technology, USA
 - name: Volkmar Welker
-  institution: Philipps-Universität Marburg, Germany
+  affiliation: Philipps-Universität Marburg, Germany
 - name: Alex Yong
-  institution: University of Illinois at Urbana-Champaign, USA
+  affiliation: University of Illinois at Urbana-Champaign, USA
 - name: Mike Zabrocki
-  institution: York University, Canada
+  affiliation: York University, Canada
 
 organizing_committee:
 - name: Federico Ardila
-  institution: San Francisco State University, USA
+  affiliation: San Francisco State University, USA
   role: cochair
 - name: Matthias Beck
-  institution: San Francisco State University, USA
+  affiliation: San Francisco State University, USA
   role: cochair
 - name: Nantel Bergeron
-  institution: York University, Canada
+  affiliation: York University, Canada
 - name: Thomas Bliem
-  institution: San Francisco State University, USA and Universität zu Köln, Germany
+  affiliation: San Francisco State University, USA and Universität zu Köln, Germany
 - name: Tristram Bogart
-  institution: San Francisco State University, USA and Queen's University, Canada
+  affiliation: San Francisco State University, USA and Queen's University, Canada
 - name: Serkan Hosten
-  institution: San Francisco State University, USA
+  affiliation: San Francisco State University, USA
 - name: Brant Jones
-  institution: University of California, Davis, USA
+  affiliation: University of California, Davis, USA
 - name: Fu Liu
-  institution: University of California, Davis, USA
+  affiliation: University of California, Davis, USA
 - name: Peter McNamara
-  institution: Bucknell University, USA
+  affiliation: Bucknell University, USA
 - name: Ellen Veomett
-  institution: California State University, East Bay, USA
+  affiliation: California State University, East Bay, USA
 - name: Mike Zabrocki
-  institution: York University, Canada
+  affiliation: York University, Canada
 
 ---
 

@@ -10,15 +10,15 @@ participants: 30
 
 program_committee:
 - name:   Gérard Jacob
-  institution: France
+  affiliation: France
   role: chair
 - name:   Christophe Reutenauer
-  institution: Canada
+  affiliation: Canada
   role: chair
 
 organizing_committee:
 - name:   Gérard Jacob
-  institution: France
+  affiliation: France
   role: chair
 
 ---

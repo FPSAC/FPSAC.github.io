@@ -10,73 +10,73 @@ participants: 160
 
 invited_speakers:
 - name:  Anders Bj&#246;rner
-  institution: Stockholm, Sweden
+  affiliation: Stockholm, Sweden
 - name:  R. Charney
-  institution: USA
+  affiliation: USA
 - name:  Maylis Delest
-  institution: Bordeaux I, France
+  affiliation: Bordeaux I, France
 - name:  Phil Hanlon
-  institution: USA
+  affiliation: USA
 - name:  D. Jackson
-  institution: Canada
+  affiliation: Canada
 - name:  Gill Kalai
-  institution: Israel
+  affiliation: Israel
 - name:  Sergei Kerov
-  institution: Russia
+  affiliation: Russia
 - name:  Christophe Reutenauer
-  institution: UQAM, Canada
+  affiliation: UQAM, Canada
 - name:  Sheila Sundaram
-  institution: USA
+  affiliation: USA
 
 program_committee:
 - name:  Helena Barcelo
-  institution: USA
+  affiliation: USA
 - name:  Elena Barcucci
-  institution: Florence, Italy
+  affiliation: Florence, Italy
 - name:  M. Bayer
-  institution: USA
+  affiliation: USA
 - name:  Fran&ccedil;ois Bergeron
-  institution: UQAM, Canada
+  affiliation: UQAM, Canada
 - name:  Jean Berstel
-  institution: Paris 6, France
+  affiliation: Paris 6, France
 - name:  Louis Billera
-  institution: Cornell, USA
+  affiliation: Cornell, USA
 - name:  Lynn Butler
-  institution: USA
+  affiliation: USA
 - name:  Jacques D&eacute;sarm&eacute;nien
-  institution: Marne-la-Vall&eacute;e, France
+  affiliation: Marne-la-Vall&eacute;e, France
 - name:  Ira Gessel
-  institution: Brandeis, USA
+  affiliation: Brandeis, USA
 - name:  Dominique Gouyou-Beauchamps
-  institution: Orsay, France
+  affiliation: Orsay, France
 - name:  Curtis Greene
-  institution: Haverford, USA
+  affiliation: Haverford, USA
 - name:  Laurent Habsieger
-  institution: Bordeaux I, France
+  affiliation: Bordeaux I, France
 - name:  P. Hell
-  institution: Canada
+  affiliation: Canada
 - name:  Axel Kerber
-  institution: Bayreuth, Germany
+  affiliation: Bayreuth, Germany
 - name:  C. Lee
-  institution: USA
+  affiliation: USA
 - name:  Jeff Remmel
-  institution: San Diego, USA
+  affiliation: San Diego, USA
 - name:  Rodica Simion
-  institution: Washington, USA
+  affiliation: Washington, USA
   role: chair
   mail: simion@math.gwu.edu
 - name:  Richard P. Stanley
-  institution: MIT, USA
+  affiliation: MIT, USA
 - name:  Volkmar Welker
-  institution: Germany
+  affiliation: Germany
 - name:  Doron Zeilberger
-  institution: Philadelphia, USA
+  affiliation: Philadelphia, USA
 - name:  Günter Ziegler
-  institution: Germany
+  affiliation: Germany
 
 organizing_committee:
 - name:  Rodica Simion
-  institution: Washington, USA
+  affiliation: Washington, USA
   role: chair
   mail: simion@math.gwu.edu
 

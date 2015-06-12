@@ -13,83 +13,83 @@ participants: 130
 
 invited_speakers:
 - name: Marcelo Aguíar
-  institution: Texas A&M, USA
+  affiliation: Texas A&M, USA
 - name: Michael Albert
-  institution: University of Otago, New Zealand
+  affiliation: University of Otago, New Zealand
 - name: Jonathan Brundan
-  institution: University of Oregon, USA
+  affiliation: University of Oregon, USA
 - name: Dmitry Feichtner-Kozlov
-  institution: Universität Bremen, Germany
+  affiliation: Universität Bremen, Germany
 - name: Ian Grojnowski
-  institution: University of Cambridge, UK
+  affiliation: University of Cambridge, UK
 - name: Alexander Postnikov
-  institution: MIT, USA
+  affiliation: MIT, USA
 - name: María Ronco
-  institution: Universidad de Valparaiso, Chile
+  affiliation: Universidad de Valparaiso, Chile
 - name: Carla Savage
-  institution: North Carolina State University, USA
+  affiliation: North Carolina State University, USA
 
 program_committee:
 - name: Bruce Sagan
-  institution: Michigan State University, USA
+  affiliation: Michigan State University, USA
   role: chair
 - name: Christian Krattenthaler
-  institution: Universität Wien, Austria
+  affiliation: Universität Wien, Austria
   role: cochair
 - name: Federico Ardila
-  institution: San Francisco State University, USA
+  affiliation: San Francisco State University, USA
 - name: Jean-Christophe Aval
-  institution: Université Bordeaux 1, France
+  affiliation: Université Bordeaux 1, France
 - name: Christine Bessenrodt
-  institution: Universität Hannover, Germany
+  affiliation: Universität Hannover, Germany
 - name: Xun Dong
-  institution: University of Miami, USA
+  affiliation: University of Miami, USA
 - name: Susanna Fishel
-  institution: Arizona State University, USA
+  affiliation: Arizona State University, USA
 - name: Sergey Fomin
-  institution: University of Michigan, USA
+  affiliation: University of Michigan, USA
 - name: Patricia Hersh
-  institution: Indiana University, USA
+  affiliation: Indiana University, USA
 - name: Ronald King
-  institution: University of Southampton, UK
+  affiliation: University of Southampton, UK
 - name: Luc Lapointe
-  institution: Universidad de Talca, Chile
+  affiliation: Universidad de Talca, Chile
 - name: Jeremy Lovejoy
-  institution: Université Denis Diderot, France
+  affiliation: Université Denis Diderot, France
 - name: Jeremy Martin
-  institution: University of Kansas, USA
+  affiliation: University of Kansas, USA
 - name: Jean-Christophe Novelli
-  institution: Université de Marne-la-Vallée, France
+  affiliation: Université de Marne-la-Vallée, France
 - name: Frédéric Patras
-  institution: Université de Nice, France
+  affiliation: Université de Nice, France
 - name: Peter Paule
-  institution: Universität Linz, Austria
+  affiliation: Universität Linz, Austria
 - name: Nathan Reading
-  institution: North Carolina State University, USA
+  affiliation: North Carolina State University, USA
 - name: Bruno Salvy
-  institution: INRIA, France
+  affiliation: INRIA, France
 - name: Mark Shimozono
-  institution: Virginia Tech University, USA
+  affiliation: Virginia Tech University, USA
 - name: Einar Steingrímsson
-  institution: Reykjavik University, Iceland
+  affiliation: Reykjavik University, Iceland
 - name: Itaru Terada
-  institution: University of Tokyo, Japan
+  affiliation: University of Tokyo, Japan
 
 organizing_committee:
 - name: Federico Ardila
-  institution: San Francisco State University, USA
+  affiliation: San Francisco State University, USA
 - name: Hélène Barcelo
-  institution: Arizona State University, USA
+  affiliation: Arizona State University, USA
 - name: María Ines Icaza
-  institution: Universidad de Talca, Chile
+  affiliation: Universidad de Talca, Chile
 - name: Christian Krattenthaler
-  institution: Universität Wien, Austria
+  affiliation: Universität Wien, Austria
   role: cochair
 - name: Luc Lapointe
-  institution: Universidad de Talca, Chile
+  affiliation: Universidad de Talca, Chile
   role: chair
 - name: Jennifer Morse
-  institution: Drexel University, USA
+  affiliation: Drexel University, USA
 
 ---
 

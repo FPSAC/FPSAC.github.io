@@ -1,15 +1,7 @@
 <ul>
   {% for person in include.persons %}
   <li>
-    {% if person.url %}
-    <a href="{{person.url}}">{{person.name}}</a>
-    {% else %}
-    {{person.name}}
-    {% endif %}
-    {% if person.role %}
-    <b>({{person.role}})</b>
-    {% endif %}
-    : {{person.affiliation}}
+    {% if person.url %}<a href="{{person.url}}">{{person.name}}</a>{% else %}{{person.name}}{% endif %}{% if person.role %} <b>({{person.role}})</b>{% endif %}{% if person.affiliation %}: {{person.affiliation}}{% endif %}
   </li>
   {% endfor %}
 </ul>

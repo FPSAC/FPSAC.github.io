@@ -10,86 +10,86 @@ participants: 205
 
 invited_speakers:
 - name:  Didier Arquès
-  institution: Marne-la-Vallée, France
+  affiliation: Marne-la-Vallée, France
 - name:  Ira Gessel
-  institution: USA
+  affiliation: USA
 - name:  Ian Goulden
-  institution: Waterloo, Canada
+  affiliation: Waterloo, Canada
 - name:  Curtis Greene
-  institution: Haverford, USA
+  affiliation: Haverford, USA
 - name:  I.G. Macdonald
-  institution: England
+  affiliation: England
 - name:  Dennis Stanton
-  institution: Minneapolis, USA
+  affiliation: Minneapolis, USA
 - name:  Andrei V. Zelevinsky
-  institution: USA
+  affiliation: USA
 
 program_committee:
 - name:  Robert Bédard
-  institution: UQAM, Canada
+  affiliation: UQAM, Canada
 - name:  Fran&ccedil;ois Bergeron
-  institution: UQAM, Canada
+  affiliation: UQAM, Canada
 - name:  Gérard Duchamp
-  institution: Rouen, France
+  affiliation: Rouen, France
 - name:  Philippe Flajolet
-  institution: INRIA; France
+  affiliation: INRIA; France
 - name:  Dominique Foata
-  institution: Strasbourg, France
+  affiliation: Strasbourg, France
 - name:  Serguei Fomin
-  institution: MIT; USA
+  affiliation: MIT; USA
 - name:  Antony J. Guttmann
-  institution: Melbourne, Australia
+  affiliation: Melbourne, Australia
 - name:  Phil Hanlon
-  institution: USA
+  affiliation: USA
 - name:  Fran&ccedil;ois Jaeger
-  institution: Grenoble, France
+  affiliation: Grenoble, France
 - name:  Adalbert Kerber
-  institution: Bayreuth, Germany
+  affiliation: Bayreuth, Germany
 - name:  Kazuhizo Koiké
-  institution: Japon
+  affiliation: Japon
 - name:  Bernard Leclerc
-  institution: Paris 7, France
+  affiliation: Paris 7, France
 - name:  Antonio Mach&iacute;
-  institution: Rome, Italia
+  affiliation: Rome, Italia
 - name:  Alan O. Morris
-  institution: England
+  affiliation: England
 - name:  Jean-Guy Penaud
-  institution: Bordeaux, France
+  affiliation: Bordeaux, France
 - name:  Giuseppe Pirillo
-  institution: Firenze, Italia
+  affiliation: Firenze, Italia
 - name:  Volker Strehl
-  institution: Erlangen, Germany
+  affiliation: Erlangen, Germany
 - name:  Sheila Sundaram
-  institution: USA
+  affiliation: USA
 - name:  Jean-Yves Thibon
-  institution: Marne-la-Vallée
+  affiliation: Marne-la-Vallée
   role: chair
 - name:  Dennis White
-  institution: USA
+  affiliation: USA
 
 organizing_committee:
 - name:  Maxime Crochemore
-  institution: Marne-la-Vallée, France
+  affiliation: Marne-la-Vallée, France
 - name:  Maylis Delest
-  institution: Bordeaux, France
+  affiliation: Bordeaux, France
 - name:  Jacques Désarménien
-  institution: Marne-la-Vallée;
+  affiliation: Marne-la-Vallée;
   role: chair
   url: http://www-igm.univ-mlv.fr/~desar
 - name:  Gérard Duchamp
-  institution: Rouen, France
+  affiliation: Rouen, France
 - name:  Dominique Gouyou-Beauchamp
-  institution: Orsay; France
+  affiliation: Orsay; France
 - name:  Daniel Krob
-  institution: Paris, France
+  affiliation: Paris, France
 - name:  Alain Lascoux
-  institution: Paris; France
+  affiliation: Paris; France
 - name:  Bernard Leclerc
-  institution: Paris 7, France
+  affiliation: Paris 7, France
 - name:  Pierre-André Picon
-  institution: Marne-la-Vallée, France
+  affiliation: Marne-la-Vallée, France
 - name:  Jean-Yves Thibon
-  institution: Marne-la-Vallée, France
+  affiliation: Marne-la-Vallée, France
 
 ---
 # Papers

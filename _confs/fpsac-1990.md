@@ -12,20 +12,20 @@ invited_speakers:
 
 program_committee:
 - name:   G&eacute;rard Duchamp
-  institution: Rouen, France
+  affiliation: Rouen, France
   role: chair
 - name:   G&eacute;rard Jacob
-  institution: Lille, France
+  affiliation: Lille, France
 - name:   Daniel Krob
-  institution: Rouen, France
+  affiliation: Rouen, France
   role: chair
 
 organizing_committee:
 - name:   G&eacute;rard Duchamp
-  institution: Rouen, France
+  affiliation: Rouen, France
   role: chair
 - name:   Daniel Krob
-  institution: Rouen, France
+  affiliation: Rouen, France
   role: chair
 
 ---

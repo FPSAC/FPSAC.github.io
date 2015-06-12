@@ -10,47 +10,47 @@ participants: 110
 
 invited_speakers:
 - name: Pierre Cartier
-  institution: Paris, France
+  affiliation: Paris, France
 - name: Philippe Flajolet
-  institution: Rocquencourt, France
+  affiliation: Rocquencourt, France
 - name: Gaston Gonnet
-  institution: Waterloo, Canada
+  affiliation: Waterloo, Canada
 - name: Gilbert Labelle
-  institution: Montréal, Canada
+  affiliation: Montréal, Canada
 - name: Doron Zeilberger
-  institution: Philadelphia, USA
+  affiliation: Philadelphia, USA
 
 program_committee:
 - name: Jean Berstel
-  institution: Paris, France
+  affiliation: Paris, France
 - name: Robert Cori
-  institution: Bordeaux, France
+  affiliation: Bordeaux, France
 - name: Maylis Delest
-  institution: Bordeaux, France
+  affiliation: Bordeaux, France
   role: chair
 - name: Gérard Duchamp
-  institution: Rouen, France
+  affiliation: Rouen, France
 - name: Gérard Jacob
-  institution: Lille, France
+  affiliation: Lille, France
 - name: Daniel Krob
-  institution: Paris, France
+  affiliation: Paris, France
 - name: Pierre Leroux
-  institution: Montréal, Canada
+  affiliation: Montréal, Canada
 - name: Michel Mend&egrave;s-France
-  institution: Bordeaux, France
+  affiliation: Bordeaux, France
 - name: Christophe Reutenauer
-  institution: Montréal, Canada
+  affiliation: Montréal, Canada
 - name: Volker Strehl
-  institution: Erlangen, Germany
+  affiliation: Erlangen, Germany
 - name: Xavier Viennot
-  institution: Bordeaux, France
+  affiliation: Bordeaux, France
 
 organizing_committee:
 - name: Maylis Delest
-  institution: Bordeaux, France
+  affiliation: Bordeaux, France
   role: chair
 - name: Gérard Duchamp
-  institution: Rouen, France
+  affiliation: Rouen, France
 
 ---
 # Papers

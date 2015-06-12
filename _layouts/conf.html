@@ -3,25 +3,61 @@ layout: default
 ---
 
 <div class="page">
+
   <h1 class="page-title">FPSAC'{{ page.year }}: {{ page.town }}</h1>
 
   <center>
     <strong>
-    <big>
-    The {{ page.number }} international conference on<br>
-    Formal Power Series and Algebraic Combinatorics<br>
-    </big>
-    {%if page.institution %}{{ page.institution }}, {% endif %}
-    {{ page.town }}, ({{page.country}})<br>
-    {{ page.dates }} {{page.year}}
+      <big>
+        The {{ page.number }} international conference on<br>
+        Formal Power Series and Algebraic Combinatorics<br>
+      </big>
+      {%if page.institution %}{{ page.institution }}, {% endif %}
+      {{ page.town }} ({{page.country}})<br>
+      {{ page.dates }} {{page.year}}<br><br>
+
+      {% comment %}
+        The following are on a single line just to avoid a space before
+        the comma separating the names
+      {% endcomment %}
+
+      Chair of the program committee:
+      {% assign first = true %}
+      {% for person in page.program_committee %}{% if person.role == 'chair' or person.role == 'cochair' %}{% unless first %}, {% endunless %}{{ person.name }}{% assign first = false %}{% endif %}{% endfor %}<br>
+
+      Chair of the organizing committee:
+      {% assign first = true %}
+      {% for person in page.organizing_committee %}{% if person.role == 'chair' or person.role == 'cochair' %}{% unless first %}, {% endunless %}{{ person.name }}{% assign first = false %}{% endif %}{% endfor %}<br>
     </strong>
   </center>
 
-  <h2><a href="{{ page.site }}">{{page.town}} web site</a> and <a href="http://fpsac.org/FPSAC{{ page.year }}/fpsac{{ page.year }}.html">local copy</a></h2>
+  <h2>Web site: {%if page.site %}
+        <a href="{{ page.site }}">hosted at {{page.town}}</a> and
+      {% endif %}
+      <a href="http://fpsac.org/FPSAC{{ page.year }}/fpsac{{ page.year }}.html">local copy</a>
+  </h2>
+
+  {% comment %} Previous / Next FPSAC {% endcomment %}
+  {% for conf in site.confs %}
+    {% assign diff = conf.year | minus: page.year %}
+    {% if diff == -1 or diff == 1 %}
+      {%if diff == -1 %}
+        Previous:
+      {% else %}
+        Next:
+      {% endif %}
+      <a href="{{ conf.url }}">FPSAC'{{ conf.year }}: {{conf.town}}</a>
+    {% endif %}
+  {% endfor %}
 
   <h2>Invited speakers</h2>
 
   {% include person_list.html persons=page.invited_speakers %}
+
+  {%if page.best_student_paper %}
+    <h2>Best student paper</h2>
+    {% include person_list.html persons=page.best_student_paper %}
+  {% endif %}
 
   <h2>Program Committee</h2>
 
@@ -30,7 +66,6 @@ layout: default
   <h2>Organizing Committee</h2>
 
   {% include person_list.html persons=page.organizing_committee %}
-
 
   {{ content }}
 </div>

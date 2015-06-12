@@ -13,105 +13,105 @@ participants: 120
 
 invited_speakers:
 - name: P. Di Francesco
-  institution: France
+  affiliation: France
 - name: G.P. Egorychev
-  institution: Russia
+  affiliation: Russia
 - name: M. Hazewinkel
-  institution: The Netherlands
+  affiliation: The Netherlands
 - name: O. Kharlampovitch
-  institution: Canada
+  affiliation: Canada
 - name: A.A. Nechaev
-  institution: Russia
+  affiliation: Russia
 - name: J. Propp
-  institution: USA
+  affiliation: USA
 - name: M. Shimozono
-  institution: USA
+  affiliation: USA
 - name: S. Zvonkin
-  institution: France
+  affiliation: France
 
 program_committee:
 - name: S.A. Abramov
-  institution: Russia
+  affiliation: Russia
 - name: S. Ariki
-  institution: Japan
+  affiliation: Japan
 - name: N. Bergeron
-  institution: Canada
+  affiliation: Canada
 - name: C. Bessenrodt
-  institution: Germany
+  affiliation: Germany
 - name: L.A. Bokut
-  institution: Russia
+  affiliation: Russia
 - name: M. Bousquet-Mélou
-  institution: France
+  affiliation: France
 - name: T. Guttmann
-  institution: Australia
+  affiliation: Australia
 - name: D. Krob
-  institution: LIAFA, France
+  affiliation: LIAFA, France
   role: chochair
 - name: G. Labelle
-  institution: Canada
+  affiliation: Canada
 - name: A.A. Mikhalev
-  institution: MSU, Russia and Hong Kong
+  affiliation: MSU, Russia and Hong Kong
   role: chair
   mail: SASHA@SUBMATHS.hku.hk
 - name: A.V. Mikhalev
-  institution: Russia
+  affiliation: Russia
 - name: A. Odlysko
-  institution: USA
+  affiliation: USA
 - name: M. Petkovsek
-  institution: Slovenia
+  affiliation: Slovenia
 - name: R. Pinzani
-  institution: Italy
+  affiliation: Italy
 - name: D. Rawlings
-  institution: USA
+  affiliation: USA
 - name: B. Sagan
-  institution: USA
+  affiliation: USA
 - name: V. Strehl
-  institution: Germany
+  affiliation: Germany
 - name: S. Sundaram
-  institution: USA
+  affiliation: USA
 - name: M. Wachs
-  institution: USA
+  affiliation: USA
 - name: H. F. Yamada
-  institution: Japan
+  affiliation: Japan
 - name: J. Zeng
-  institution: France
+  affiliation: France
 
 organizing_committee:
 - name: M. Delest
-  institution: Labri, France
+  affiliation: Labri, France
 - name: G. Duchamp
-  institution: Univ. de Rouen, France
+  affiliation: Univ. de Rouen, France
 - name: M. Espie
-  institution: France
+  affiliation: France
 - name: S.T. Glavatsky
-  institution: MSU, Russia
+  affiliation: MSU, Russia
 - name: D. Krob
-  institution: Univ Paris 7, France
+  affiliation: Univ Paris 7, France
 - name: V.N. Latyshev
-  institution: MSU, Russia
+  affiliation: MSU, Russia
 - name: P. Leroux
-  institution: UQAM, Canada
+  affiliation: UQAM, Canada
 - name: R. Mantaci
-  institution: France
+  affiliation: France
 - name: V.T. Markov
-  institution: MSU, Russia
+  affiliation: MSU, Russia
 - name: A.A. Mikhalev
-  institution: HKU, Hong Kong- MSU, Russia
+  affiliation: HKU, Hong Kong- MSU, Russia
   role: chair
 - name: J.C. Novelli
-  institution: France
+  affiliation: France
 - name: C. Precetti
-  institution: France
+  affiliation: France
 - name: G.B. Shabat
-  institution: MSU, Russia
+  affiliation: MSU, Russia
 - name: A.B. Ugolnikov
-  institution: Russia
+  affiliation: Russia
 - name: M.V. Zaicev
-  institution: MSU, Russia
+  affiliation: MSU, Russia
 - name: A.A. Zolotykh
-  institution: MSU, Russia
+  affiliation: MSU, Russia
 - name: K.A. Zubrilin
-  institution: MSU, Russia
+  affiliation: MSU, Russia
 
 ---
 # Papers, posters and software demonstrations

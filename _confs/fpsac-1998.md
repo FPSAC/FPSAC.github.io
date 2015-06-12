@@ -13,80 +13,80 @@ participants: 145
 
 invited_speakers:
 - name: Georgia Benkart
-  institution: USA
+  affiliation: USA
 - name: Peter Cameron
-  institution: England
+  affiliation: England
 - name: Patrick Dehornoy
-  institution: France
+  affiliation: France
 - name: Bernard Derrida
-  institution: France
+  affiliation: France
 - name: Persi Diaconis
-  institution: USA
+  affiliation: USA
 - name: Chris Godsil
-  institution: Canada
+  affiliation: Canada
 - name: Ken Ono
-  institution: USA
+  affiliation: USA
 - name: Jean-Yves Thibon
-  institution: France
+  affiliation: France
 - name: Bernd Sturmfels
-  institution: USA
+  affiliation: USA
 
 program_committee:
 - name: Nantel Bergeron
-  institution: Canada
+  affiliation: Canada
 - name: Sara Billey
-  institution: USA
+  affiliation: USA
 - name: Fransesco Brenti
-  institution: Italy
+  affiliation: Italy
 - name: Robert Cori
-  institution: France
+  affiliation: France
 - name: Serge Dulucq
-  institution: France
+  affiliation: France
 - name: Kimmo Eriksson
-  institution: Sweeden
+  affiliation: Sweeden
 - name: Omar Foda
-  institution: Australia
+  affiliation: Australia
 - name: Sergey Fomin
-  institution: USA, Russia
+  affiliation: USA, Russia
 - name: Ian Goulden
-  institution: Waterloo, Canada
+  affiliation: Waterloo, Canada
   role: chair
 - name: Ira Gessel
-  institution: USA
+  affiliation: USA
 - name: Curtis Greene
-  institution: USA
+  affiliation: USA
 - name: Angele Hamel
-  institution: New Zeland
+  affiliation: New Zeland
 - name: Dongsu Kim
-  institution: Korea
+  affiliation: Korea
 - name: Christian Krattenthaler
-  institution: Austria
+  affiliation: Austria
 - name: Daniel Krob
-  institution: France
+  affiliation: France
 - name: Marc Noy
-  institution: Spain
+  affiliation: Spain
 - name: Victor Reiner
-  institution: USA
+  affiliation: USA
 - name: Jef Remmel
-  institution: USA
+  affiliation: USA
 - name: Chistophe Reutenauer
-  institution: Canada
+  affiliation: Canada
 - name: Bruno Salvy
-  institution: France
+  affiliation: France
 - name: Frank Sottile
-  institution: Toronto, Canada
+  affiliation: Toronto, Canada
 - name: Terry Visentin
-  institution: Winnipeg, Canada
+  affiliation: Winnipeg, Canada
 - name: Michelle Wachs
-  institution: USA
+  affiliation: USA
 - name: Hiro-Fumi Yamada
-  institution: Japan
+  affiliation: Japan
 - name: G&uuml;nter Ziegler
-  institution: Germany
+  affiliation: Germany
 
 organizing_committee:
 - name: Nantel Bergeron
-  institution: Canada
+  affiliation: Canada
   role: chair
 
 ---

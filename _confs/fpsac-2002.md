@@ -13,82 +13,82 @@ participants: 115
 
 invited_speakers:
 - name: Hélène Barcelo
-  institution: Tempe
+  affiliation: Tempe
 - name: Jan de Gier
-  institution: Canberra
+  affiliation: Canberra
 - name: Philippe Di Francesco
-  institution: Paris
+  affiliation: Paris
 - name: Peter Forrester
-  institution: Melbourne
+  affiliation: Melbourne
 - name: Christian Krattenthaler
-  institution: Vienna
+  affiliation: Vienna
 - name: Brendan McKay
-  institution: Canberra
+  affiliation: Canberra
 - name: Thomas Prellberg
-  institution: Clausthal
+  affiliation: Clausthal
 - name: Alan Sokal
-  institution: New York
+  affiliation: New York
 - name: Ole Warnaar
-  institution: Melbourne
+  affiliation: Melbourne
 - name: David Wilson
-  institution: Microsoft Research
+  affiliation: Microsoft Research
 
 program_committee:
 - name: Susumu Ariki
-  institution: Kyoto
+  affiliation: Kyoto
 - name: Sara Billey
-  institution: MIT
+  affiliation: MIT
 - name: Maylis Delest
-  institution: Bordeaux
+  affiliation: Bordeaux
 - name: Art Duval
-  institution: Texas - El Paso
+  affiliation: Texas - El Paso
 - name: Omar Foda
-  institution: Melbourne
+  affiliation: Melbourne
   role: chair
 - name: Sergey Fomin
-  institution: Michigan
+  affiliation: Michigan
 - name: Vesselin Gasharov
-  institution: Cornell
+  affiliation: Cornell
 - name: Tony Guttmann
-  institution: Melbourne
+  affiliation: Melbourne
   role: chair
 - name: Angele Hamel
-  institution: Wilfrid Laurier
+  affiliation: Wilfrid Laurier
 - name: Ron King
-  institution: Southampton
+  affiliation: Southampton
 - name: Gilbert Labelle
-  institution: UQAM
+  affiliation: UQAM
 - name: Jean-Christophe Novelli
-  institution: Lille
+  affiliation: Lille
 - name: Renzo Pinzani
-  institution: Florence
+  affiliation: Florence
 - name: Andrew Rechnitzer
-  institution: Toronto
+  affiliation: Toronto
 - name: Frank Sottile
-  institution: Mass.
+  affiliation: Mass.
 - name: Itaru Terada
-  institution: Tokyo
+  affiliation: Tokyo
 - name: Jean-Yves Thibon
-  institution: Marne-la-Vallée
+  affiliation: Marne-la-Vallée
 - name: Dominic Welsh
-  institution: Oxford
+  affiliation: Oxford
 - name: Trevor Welsh
-  institution: Melbourne
+  affiliation: Melbourne
 - name: Nick Wormald
-  institution: Melbourne
+  affiliation: Melbourne
 
 organizing_committee:
 - name: Nantel Bergeron
-  institution: Toronto
+  affiliation: Toronto
 - name: Richard Brak
-  institution: Melbourne
+  affiliation: Melbourne
 - name: Catherine Greenhill
-  institution: Melbourne
+  affiliation: Melbourne
 - name: Tony Guttmann
-  institution: Melbourne
+  affiliation: Melbourne
   role: chair
 - name: Aleks Owczarek
-  institution: Melbourne
+  affiliation: Melbourne
 
 ---
 # Papers, posters and software demonstrations
