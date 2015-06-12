@@ -22,9 +22,12 @@ Algébrique), running since 1988.
 
 <ul>
   {% for conf in site.confs %}
-  {% if conf.year >= site.year %}
-  <li><a href="{{ conf.url }}">FPSAC'{{conf.year}}</a>: {{conf.town}} ({{conf.country}}), {{conf.dates}}, {{conf.year}}</li>
-  {% endif %}
+    {% if conf.year >= site.year %}
+      <li><a href="{{ conf.url }}">FPSAC'{{conf.year | modulo:100 }}</a>: {{conf.town}} ({{conf.country}}),
+        {% if conf.dates %} {{conf.dates}}, {% endif %}
+        {{conf.year}}
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
