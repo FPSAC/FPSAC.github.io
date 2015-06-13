@@ -1,10 +1,10 @@
 =============================================================================
-Repository holding the sources of the FPSAC.org website (aka FPSAC.github.io)
+Repository holding the sources of the (upcoming) FPSAC.org website (aka FPSAC.github.io)
 =============================================================================
 
 # Summary
 
-The (upcoming) FPSAC website is hosted as a
+The [(upcoming) FPSAC website](http://fpsac.github.io) is hosted as a
 [github page](https://pages.github.com/).
 In short, is built statically from
 plain text files with a wiki like syntax
