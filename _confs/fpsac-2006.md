@@ -4,7 +4,7 @@ year: 2006
 number: 18th
 institution: 
 town: San Diego
-country: California, USA
+country: USA
 dates: June 19 - 23
 site: http://garsia.math.yorku.ca/fpsac06/
 icon: USA.gif
