@@ -3,7 +3,7 @@ layout: conf
 year: 2011
 number: 27th
 institution: Strathclyde Combinatorics Group
-town: Reykjavik
+town: Reykjavík
 country: Iceland
 dates: June 13 - 17
 site: http://combinatorics.cis.strath.ac.uk/fpsac2011/
