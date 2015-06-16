@@ -4,7 +4,7 @@ year: 2000
 number: 12th
 institution: Moscow State University
 town: Moscow
-country: 
+country: Russia
 dates: June 26 - 30
 site: 
 icon: Russia.gif
