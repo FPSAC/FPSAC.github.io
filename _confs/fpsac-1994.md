@@ -3,7 +3,7 @@ layout: conf
 year: 1994
 number: 6th
 institution: University of Rutgers
-town: Rutgers
+town: Piscataway
 country: USA
 dates: May 23 - 27
 participants: 160
