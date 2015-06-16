@@ -4,7 +4,7 @@ year: 2005
 number: 17th
 institution: University of Messina
 town: Taormina
-country: Italia
+country: Italy
 dates: June 20 - 25
 site: http://ww2.unime.it/fpsac05/index2.html
 icon: Italie.gif
