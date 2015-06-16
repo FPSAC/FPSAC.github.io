@@ -4,7 +4,7 @@ year: 2016
 number: 28th
 affiliation:
 town: Vancouver
-country: British Columbia, Canada
+country: Canada
 dates: July 4 - 8
 site: https://sites.google.com/site/fpsac2016/
 
