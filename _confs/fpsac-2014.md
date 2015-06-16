@@ -3,7 +3,7 @@ layout: conf
 year: 2014
 number: 26th
 institution: DePaul University
-town: Chicago, IL
+town: Chicago
 country: USA
 dates: June 29 - July 3
 site: https://sites.google.com/site/fpsac2014/
