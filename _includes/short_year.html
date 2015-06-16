@@ -1,0 +1,11 @@
+{% comment %}
+  Return the last two digits of a year: 14 for 2014, 03 for 2003.
+
+  We would want to use {{ year | slice:2,2 }}, but this filter is not
+  yet available in github's version of Jekyll. So we hack this around.
+
+  Alas this does not work either for now, since {%include%} throws in
+  a newline at the end. So for now we just duplicate this snippet in
+  the two spots where we need it (confs/index.md and _layout/conf.html).
+{% endcomment %}
+{% if include.year >= 2000 and include.year < 2010 %}0{{include.year | modulo:10}}{% else %}{{include.year | modulo:100}}{% endif %}

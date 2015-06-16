@@ -4,7 +4,7 @@ layout: default
 
 <div class="page">
 
-  <h1 class="page-title">FPSAC'{{ page.year }}: {{ page.town }}</h1>
+  <h1 class="page-title">FPSAC'{% if page.year >= 2000 and page.year < 2010 %}0{{page.year | modulo:10}}{% else %}{{page.year | modulo:100}}{% endif %}: {{ page.town }}</h1>
 
   <center>
     <strong>
