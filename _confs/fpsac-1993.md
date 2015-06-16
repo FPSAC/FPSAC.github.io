@@ -4,7 +4,7 @@ year: 1993
 number: 5th
 institution: University of Florence
 town: Firenze
-country: Italia
+country: Italy
 dates: June
 participants: 204
 
