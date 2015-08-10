@@ -11,6 +11,9 @@ executive_office:
     affiliation: Wien, Austria
   - name: Jennifer Morse
     affiliation: Philadelphia, USA
+  - name: Bridget Tenner
+    affiliation: Chicago, USA
+    url: math.depaul.edu/bridget/
   - name: Jean-Yves Thibon
     affiliation: Paris, France
   - name: Nicolas M. Thiéry
