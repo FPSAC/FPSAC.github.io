@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Executive Office
+title: Executive Committee
 
 executive_office:
   - name: Nantel Bergeron
