@@ -36,7 +36,7 @@ program_committee:
 - name:   Philippe Flajolet
   affiliation: Rocquencourt, France
 - name:   G. Hahn
-  affiliation: Montréeal, Canada
+  affiliation: Montréal, Canada
 - name:   D. Jackson
   affiliation: Waterloo, Canada
 - name:   C. Lam
