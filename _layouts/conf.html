@@ -32,9 +32,10 @@ layout: default
   </center>
 
   <h2>Web site: {%if page.site %}
-        <a href="{{ page.site }}">hosted at {{page.town}}</a> and
+        <a href="{{ page.site }}">hosted at {{page.town}}</a> 
+        {% and %}
       {% endif %}
-      <a href="http://fpsac.org/FPSAC{{ page.year }}/fpsac{{ page.year }}.html">local copy</a>
+      {% <a href="http://fpsac.org/FPSAC{{ page.year }}/fpsac{{ page.year }}.html">local copy</a> %}
   </h2>
 
   {% comment %} Previous / Next FPSAC {% endcomment %}
