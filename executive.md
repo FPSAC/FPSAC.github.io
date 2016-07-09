@@ -31,6 +31,6 @@ executive_committee:
     url: http://garsia.math.yorku.ca/~zabrocki/
 ---
 
-{% include person_list.html persons=page.executive_office %}
+{% include person_list.html persons=page.executive_committee %}
 
 Contact: executive-office-fpsac&#64;services.cnrs.fr
