@@ -38,13 +38,13 @@ invited_speakers:
   url: http://www.math.canterbury.ac.nz/%7Em.steel/
 
 program_committee:
-- name: Sylvie Corteel (Co-chair)
+- name: Sylvie Corteel
   affiliation: CNRS / Université Paris Diderot 7 
   role: cochair
-- name: Andrew Rechnitzer (Co-chair)
+- name: Andrew Rechnitzer
   affiliation: University of British Columbia  
   role: cochair
-- name: Anne Schilling (Co-chair)
+- name: Anne Schilling
   affiliation: University of California, Davis
   role: cochair
 - name: Christine Bessenrodt
@@ -93,7 +93,7 @@ program_committee:
   affiliation: University of Queensland
 
 organizing_committee:
-- name: Marni Mishna (Chair)
+- name: Marni Mishna
   affiliation:  Simon Fraser University
   role: chair
 - name: Cedric Chauve
@@ -101,9 +101,9 @@ organizing_committee:
 - name: Julien Courtiel
   affiliation:  University of British Columbia/ PIMS
 - name: Sergi Elizalde
-  affiliation:  Dartmouth College)
+  affiliation:  Dartmouth College
 - name: Eric Fusy
-  affiliation:  CNRS; Polytechnique)
+  affiliation:  CNRS; Polytechnique
 - name: Stephen Melczer
   affiliation:  University of Waterloo / École normale supérieure de Lyon
 - name: Vincent Pilaud
