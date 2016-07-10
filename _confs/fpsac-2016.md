@@ -40,10 +40,13 @@ invited_speakers:
 program_committee:
 - name: Sylvie Corteel (Co-chair)
   affiliation: CNRS / Université Paris Diderot 7 
+  role: cochair
 - name: Andrew Rechnitzer (Co-chair)
   affiliation: University of British Columbia  
+  role: cochair
 - name: Anne Schilling (Co-chair)
   affiliation: University of California, Davis
+  role: cochair
 - name: Christine Bessenrodt
   affiliation: Hannover
 - name: Yvan le Borgne
@@ -90,4 +93,23 @@ program_committee:
   affiliation: University of Queensland
 
 organizing_committee:
+- name: Marni Mishna (Chair)
+  affiliation:  Simon Fraser University
+  role: chair
+- name: Cedric Chauve
+  affiliation:  Simon Fraser University
+- name: Julien Courtiel
+  affiliation:  University of British Columbia/ PIMS
+- name: Sergi Elizalde
+  affiliation:  Dartmouth College)
+- name: Eric Fusy
+  affiliation:  CNRS; Polytechnique)
+- name: Stephen Melczer
+  affiliation:  University of Waterloo / École normale supérieure de Lyon
+- name: Vincent Pilaud
+  affiliation:  CNRS/ École Polytechique
+- name: Andrew Rechnitzer
+  affiliation:  University of British Columbia
+- name: Lily Yen
+  affiliation:  Simon Fraser University / Capilano University
 ---
