@@ -38,6 +38,56 @@ invited_speakers:
   url: http://www.math.canterbury.ac.nz/%7Em.steel/
 
 program_committee:
+- name: Sylvie Corteel (Co-chair)
+  affiliation: CNRS / Université Paris Diderot 7 
+- name: Andrew Rechnitzer (Co-chair)
+  affiliation: University of British Columbia  
+- name: Anne Schilling (Co-chair)
+  affiliation: University of California, Davis
+- name: Christine Bessenrodt
+  affiliation: Hannover
+- name: Yvan le Borgne
+  affiliation: CNRS / Université de Bordeaux
+- name: Mireille Bousquet-Mélou
+  affiliation: CNRS / Université de Bordeaux
+- name: Soojin Cho
+  affiliation: Ajou University
+- name: Eric Fusy
+  affiliation: CNRS/ École polytechique
+- name: Ira Gessel
+  affiliation: Brandeis University
+- name: Tony Guttmann
+  affiliation: University of Melbourne
+- name: Manuel Kauers
+  affiliation: RISC
+- name: Bernard Leclerc
+  affiliation: Universite de Caen
+- name: Svante Linusson
+  affiliation: KTH Royal Institute of Technology
+- name: Peter McNamara
+  affiliation: Bucknell University
+- name: Gregg Musiker
+  affiliation: University of Minnesota
+- name: Philippe Nadeau
+  affiliation: CNRS / Université Lyon 1
+- name: Daniel Panario
+  affiliation: Carleton University
+- name: Greta Panova
+  affiliation: University of Pennsylvania
+- name: Thomas Prellberg
+  affiliation: Queen Mary, University of London
+- name: Dan Romik
+  affiliation: University of California, Davis 
+- name: Mercedes Rosas
+  affiliation: Universidad de Sevilla
+- name: Mark Shimozono
+  affiliation: Virginia Tech
+- name: Bridget Tenner
+  affiliation: DePaul University
+- name: Nicolas Thiery
+  affiliation: Université Paris Sud
+- name: Ole Warnaar
+  affiliation: University of Queensland
 
 organizing_committee:
 ---
