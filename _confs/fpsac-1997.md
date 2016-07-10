@@ -6,7 +6,7 @@ institution: University of Vienna
 town: Vienna
 country: Austria
 dates: July
-site: http://radon.mat.univie.ac.at/People/kratt/fpsac97.html
+site: http://www.mat.univie.ac.at/~kratt/fpsac97.html
 participants: 140
 
 invited_speakers:
