@@ -8,6 +8,7 @@ town: Paris
 country: France
 dates: June 24 - 28
 site: http://www.liafa.univ-paris-diderot.fr/fpsac13/
+proceedings: http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/130
 best_student_paper: Michael Chmutov
 best_paper: Lionel Pournin
 participants: 310

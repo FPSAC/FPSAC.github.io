@@ -37,10 +37,14 @@ layout: default
          {% comment %} and {% endcomment %}
       {% endif %}
       {% comment %} <a href="http://fpsac.org/FPSAC{{ page.year }}/fpsac{{ page.year }}.html">local copy</a> {% endcomment %}
+  </h2>
   {% else %}
         <br>
   {% endif %}
-  </h2>
+
+  {%if page.proceedings %}
+  <h2><a href="{{ page.proceedings }}">Proceedings</a></h2>
+  {% endif %}
 
   {% comment %} Previous / Next FPSAC {% endcomment %}
   {% for conf in site.confs %}
