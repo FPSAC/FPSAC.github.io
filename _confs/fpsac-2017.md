@@ -10,63 +10,120 @@ site: https://sites.google.com/site/fpsac2017/
 
 invited_speakers:
 
-Drew Armstrong (University of Miami, USA)
-Soojin Cho (Ajou University, Seoul, South Korea)
-Maria Chudnovsky (Princeton University, USA)
-Luc Lapointe (Instituto Matematica y Fisica, Talca, Chile)
-Greta Panova (University of Pennsylvania, USA)
-Dan Romik (UC Davis, USA)
-Colva Roney-Dougal (University of St. Andrews, UK)
-Gordon Slade (University of British Columbia, Canada)
-David Speyer (University of Michigan, USA)
+- name: Drew Armstrong
+  affiliation: University of Miami, USA
+- name: Soojin Cho
+  affiliation: Ajou University, Seoul, South Korea
+- name: Maria Chudnovsky
+  affiliation: Princeton University, USA
+- name: Luc Lapointe
+  affiliation: Instituto Matematica y Fisica, Talca, Chile
+- name: Greta Panova
+  affiliation: University of Pennsylvania, USA
+- name: Dan Romik
+  affiliation: UC Davis, USA
+- name: Colva Roney-Dougal
+  affiliation: University of St. Andrews, UK
+- name: Gordon Slade
+  affiliation: University of British Columbia, Canada
+- name: David Speyer
+  affiliation: University of Michigan, USA
 
 program_committee:
 
-Jan De Gier (University of Melbourne, Australia, Co-chair)
-Alex Fink (Queen Mary University of London, UK, Co-chair)
-Monica Vazirani (UC Davis, USA, Co-chair)
-
-Jonah Blasiak (Drexel University, USA)
-Petter Brändén (KTH Royal Institute of Technology, Sweden)
-Francesco Brenti (Università Roma Tor Vergata, Italy)
-Zajj Daugherty (City College of New York, USA)
-Philippe Di Francesco (University of Illinois Urbana-Champaign, USA)
-Tim Garoni (Monash University, Australia)
-Frank Garvan (University of Florida, USA)
-Vadim Gorin (Massachusetts Institute of Technology, USA)
-Steven Klee (Seattle University, USA)
-Matjaž Konvalinka (Univerza v Ljubljana, Slovenia)
-Andrew Kresch (University of Zürich, Switzerland)
-Atsuo Kuniba (University of Tokyo, Japan)
-Jae-Hoon Kwon (Seoul National University, South Korea)
-Seung Jin Lee (Korea Institute for Advanced Study, South Korea)
-Fu Liu (UC Davis, USA)
-Matthew Macauley (Clemson University, USA)
-Jeremy Martin (University of Kansas, USA)
-Isabella Novik (University of Washington, USA)
-Lior Pachter (UC Berkeley, USA)
-Leonid Petrov (University of Virginia, USA)
-Vincent Pilaud (LIX Laboratoire d'Informatique de l'École polytechnique, Paris, France)
-Viviane Pons (Université Paris Sud, France)
-Brendan Rhoades (UC San Diego, USA)
-Christian Stump (Freie Universität Berlin, Germany)
-Greg Warrington (University of Vermont, USA)
-Volkmar Welker (Universität Marburg, Germany)
-Alexander Yong (University of Illinois Urbana-Champaign, USA)
+- name: Jan De Gier
+  affiliation: University of Melbourne, Australia
+  role: cochair
+- name: Alex Fink
+  affiliation: Queen Mary University of London, UK
+  role: cochair
+- name: Monica Vazirani
+  affiliation: UC Davis, USA
+  role: cochair
+- name: Jonah Blasiak
+  affiliation: Drexel University, USA
+- name: Petter Brändén
+  affiliation: KTH Royal Institute of Technology, Sweden
+- name: Francesco Brenti
+  affiliation: Università Roma Tor Vergata, Italy
+- name: Zajj Daugherty
+  affiliation: City College of New York, USA
+- name: Philippe Di Francesco
+  affiliation: University of Illinois Urbana-Champaign, USA
+- name: Tim Garoni
+  affiliation: Monash University, Australia
+- name: Frank Garvan
+  affiliation: University of Florida, USA
+- name: Vadim Gorin
+  affiliation: Massachusetts Institute of Technology, USA
+- name: Steven Klee
+  affiliation: Seattle University, USA
+- name: Matjaž Konvalinka
+  affiliation: Univerza v Ljubljana, Slovenia
+- name: Andrew Kresch
+  affiliation: University of Zürich, Switzerland
+- name: Atsuo Kuniba
+  affiliation: University of Tokyo, Japan
+- name: Jae-Hoon Kwon
+  affiliation: Seoul National University, South Korea
+- name: Seung Jin Lee
+  affiliation: Korea Institute for Advanced Study, South Korea
+- name: Fu Liu
+  affiliation: UC Davis, USA
+- name: Matthew Macauley
+  affiliation: Clemson University, USA
+- name: Jeremy Martin
+  affiliation: University of Kansas, USA
+- name: Isabella Novik
+  affiliation: University of Washington, USA
+- name: Lior Pachter
+  affiliation: UC Berkeley, USA
+- name: Leonid Petrov
+  affiliation: University of Virginia, USA
+- name: Vincent Pilaud
+  affiliation: LIX Laboratoire d'Informatique de l'École polytechnique, Paris, France
+- name: Viviane Pons
+  affiliation: Université Paris Sud, France
+- name: Brendan Rhoades
+  affiliation: UC San Diego, USA
+- name: Christian Stump
+  affiliation: Freie Universität Berlin, Germany
+- name: Greg Warrington
+  affiliation: University of Vermont, USA
+- name: Volkmar Welker
+  affiliation: Universität Marburg, Germany
+- name: Alexander Yong
+  affiliation: University of Illinois Urbana-Champaign, USA
 
 organizing_committee:
 
-Thomas Prellberg (Queen Mary University of London, UK, Chair)
-Matthew Fayers (Queen Mary University of London, UK, Deputy Chair)
-Jennifer Morse (Drexel University, USA, permanent committee liaison)
-Roger Behrend (Cardiff University, UK)
-Peter Cameron (St Andrews University, UK)
-David Ellis (Queen Mary University of London, UK)
-Uwe Grimm (Open University, UK)
-Iain Moffatt (Royal Holloway, University of London, UK)
-Amarpreet Rattan (Birkbeck, University of London, UK)
-Daniel Ueltschi (University of Warwick, UK)
-Mark Walters (Queen Mary University of London, UK)
-Nicholas Beaton (University of Saskatchewan, Canada, conference proceedings editor)
+- name: Thomas Prellberg
+  affiliation: Queen Mary University of London, UK
+  role: chair
+- name: Matthew Fayers
+  affiliation: Queen Mary University of London, UK
+  role: cochair
+- name: Jennifer Morse
+  affiliation: Drexel University, USA
+  role: permanent committee liaison
+- name: Roger Behrend
+  affiliation: Cardiff University, UK
+- name: Peter Cameron
+  affiliation: St Andrews University, UK
+- name: David Ellis
+  affiliation: Queen Mary University of London, UK
+- name: Uwe Grimm
+  affiliation: Open University, UK
+- name: Iain Moffatt
+  affiliation: Royal Holloway, University of London, UK
+- name: Amarpreet Rattan
+  affiliation: Birkbeck, University of London, UK
+- name: Daniel Ueltschi
+  affiliation: University of Warwick, UK
+- name: Mark Walters
+  affiliation: Queen Mary University of London, UK
+- name: Nicholas Beaton
+  affiliation: University of Saskatchewan, Canada
+  role: conference proceedings editor
 
 ---
