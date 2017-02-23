@@ -10,7 +10,7 @@ site: http://inst-mat.utalca.cl/fpsac2008/
 icon: Chile.gif
 best_student_paper:
 - name: Valentin Féray
-  affiliation: École Normale Supérieure
+  affiliation: LIGM, University Paris-Est, Marne-La-Vallée
 participants: 130
 
 invited_speakers:
