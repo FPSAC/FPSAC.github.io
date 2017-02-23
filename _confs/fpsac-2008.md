@@ -8,7 +8,8 @@ country: Chile
 dates: June 23 - 27
 site: http://inst-mat.utalca.cl/fpsac2008/
 icon: Chile.gif
-best_student_paper: Valentin Féray
+best_student_paper:
+- Valentin Féray
 participants: 130
 
 invited_speakers:
