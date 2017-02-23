@@ -68,6 +68,11 @@ layout: default
     {% include person_list.html persons=page.best_student_paper %}
   {% endif %}
 
+  {%if page.best_paper %}
+    <h2>Best paper</h2>
+    {% include person_list.html persons=page.best_paper %}
+  {% endif %}
+
   <h2>Program Committee</h2>
 
   {% include person_list.html persons=page.program_committee %}
