@@ -8,7 +8,8 @@ country: Austria
 dates: July 20 - 24
 site: http://www.risc.uni-linz.ac.at/about/conferences/fpsac2009/
 icon: Austria.gif
-best_student_paper: Guillaume Chapuy
+best_student_paper:
+- name: Guillaume Chapuy
 participants: 198
 
 invited_speakers:

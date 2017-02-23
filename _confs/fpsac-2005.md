@@ -8,7 +8,8 @@ country: Italy
 dates: June 20 - 25
 site: http://ww2.unime.it/fpsac05/index2.html
 icon: Italie.gif
-best_student_paper: Thomas Lam
+best_student_paper:
+- name: Thomas Lam
 participants: 198
 
 invited_speakers:

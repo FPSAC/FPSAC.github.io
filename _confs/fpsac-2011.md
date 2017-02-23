@@ -7,7 +7,8 @@ town: Reykjavík
 country: Iceland
 dates: June 13 - 17
 site: http://combinatorics.cis.strath.ac.uk/fpsac2011/
-best_student_paper: Greta Panova
+best_student_paper:
+- name: Greta Panova
 participants: 205
 
 invited_speakers:

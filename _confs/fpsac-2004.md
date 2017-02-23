@@ -8,7 +8,8 @@ country: Canada
 dates: June 28 - July 2
 site: Canada.gif
 icon: http://www.pims.math.ca/
-best_student_paper: Lauren Williams
+best_student_paper:
+- name: Lauren Williams
 participants: 150
 
 invited_speakers:

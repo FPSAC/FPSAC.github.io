@@ -7,7 +7,8 @@ town: San Francisco
 country: USA
 dates: August 2 - 6
 site: http://math.sfsu.edu/fpsac/
-best_student_paper: Florian Block
+best_student_paper:
+- name: Florian Block
 participants: 210
 
 invited_speakers:

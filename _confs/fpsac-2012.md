@@ -8,7 +8,9 @@ country: Japan
 dates: July 30 - August 3
 site: http://www.math.nagoya-u.ac.jp/fpsac12/
 icon: Japan.gif
-best_student_paper: Joel Lewis, Yan Zhang
+best_student_paper:
+- name: Joel Lewis
+- name: Yan Zhang
 participants: 192
 
 invited_speakers:
