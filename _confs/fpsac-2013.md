@@ -9,8 +9,10 @@ country: France
 dates: June 24 - 28
 site: http://www.liafa.univ-paris-diderot.fr/fpsac13/
 proceedings: http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/130
-best_student_paper: Michael Chmutov
-best_paper: Lionel Pournin
+best_student_paper: 
+- name: Michael Chmutov
+best_paper:
+- name : Lionel Pournin
 participants: 310
 
 invited_speakers:
@@ -78,7 +80,7 @@ program_committee:
   affiliation: DePaul, USA
 - name: Volkmar Welker
   affiliation: Marburg, Germany
-- name: Paul Zinn-Justin
+- name: Paul Zinn -Justin
   affiliation: CNRS Paris 6, France
 
 organizing_committee:
