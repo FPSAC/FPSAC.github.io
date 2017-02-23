@@ -9,7 +9,8 @@ dates: June 23 - 27
 site: http://inst-mat.utalca.cl/fpsac2008/
 icon: Chile.gif
 best_student_paper:
-- Valentin Féray
+- name: Valentin Féray
+  affiliation: École Normale Supérieure
 participants: 130
 
 invited_speakers:
