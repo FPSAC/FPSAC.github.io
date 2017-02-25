@@ -10,7 +10,9 @@ site: http://www.math.nagoya-u.ac.jp/fpsac12/
 icon: Japan.gif
 best_student_paper:
 - name: Joel Lewis
+  affiliation: MIT
 - name: Yan Zhang
+  affiliation: MIT
 participants: 192
 
 invited_speakers:
