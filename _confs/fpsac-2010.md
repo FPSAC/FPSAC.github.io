@@ -9,6 +9,7 @@ dates: August 2 - 6
 site: http://math.sfsu.edu/fpsac/
 best_student_paper:
 - name: Florian Block
+  affiliation: University of Michiagan, Ann arbor
 participants: 210
 
 invited_speakers:
