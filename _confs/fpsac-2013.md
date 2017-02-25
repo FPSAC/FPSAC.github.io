@@ -11,8 +11,10 @@ site: http://www.liafa.univ-paris-diderot.fr/fpsac13/
 proceedings: http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/130
 best_student_paper:
 - name: Michael Chmutov
+  affiliation: University of Michigan, Ann Arbor
 best_paper:
 - name : Lionel Pournin
+  affiliation: LIAFA, Université Paris Diderot
 participants: 310
 
 invited_speakers:
