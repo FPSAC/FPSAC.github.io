@@ -10,7 +10,7 @@ site: http://www.risc.uni-linz.ac.at/about/conferences/fpsac2009/
 icon: Austria.gif
 best_student_paper:
 - name: Guillaume Chapuy
-  affiliation: &Eacute;cole Polytechnique, Paris
+  affiliation: Ecole Polytechnique, Paris
 participants: 198
 
 invited_speakers:
