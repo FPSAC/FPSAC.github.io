@@ -10,6 +10,7 @@ site: http://ww2.unime.it/fpsac05/index2.html
 icon: Italie.gif
 best_student_paper:
 - name: Thomas Lam
+  affiliation: MIT
 participants: 198
 
 invited_speakers:
