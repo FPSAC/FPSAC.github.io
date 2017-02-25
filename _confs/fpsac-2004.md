@@ -10,6 +10,7 @@ site: Canada.gif
 icon: http://www.pims.math.ca/
 best_student_paper:
 - name: Lauren Williams
+  affiliation: MIT
 participants: 150
 
 invited_speakers:
