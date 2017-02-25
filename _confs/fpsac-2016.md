@@ -10,8 +10,8 @@ site: https://sites.google.com/site/fpsac2016/
 best_student_paper:
 - name: Maria Gillespie
   affiliation: University of California at Berkeley
-  - name: Jake Levinson
-    affiliation: University of Michigan, Ann Arbor
+- name: Jake Levinson
+  affiliation: University of Michigan, Ann Arbor
   
 invited_speakers:
 - name: Federico Ardila
