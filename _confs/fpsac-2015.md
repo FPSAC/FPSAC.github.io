@@ -7,7 +7,9 @@ town: Daejeon
 country: South Korea
 dates: July 6 - 10
 site: http://fpsac.combinatorics.kr/
-
+best_student_paper:
+- name: Masaki Watanabe
+  affiliation: University of Tokyo  
 invited_speakers:
   - name: Susumu Ariki
     affiliation: Osaka University, Japan
