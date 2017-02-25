@@ -9,6 +9,7 @@ dates: June 13 - 17
 site: http://combinatorics.cis.strath.ac.uk/fpsac2011/
 best_student_paper:
 - name: Greta Panova
+  affiliation: MIT
 participants: 205
 
 invited_speakers:
