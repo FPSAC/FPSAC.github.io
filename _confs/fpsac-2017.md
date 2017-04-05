@@ -125,7 +125,7 @@ organizing_committee:
 - name: Nicholas Beaton
   affiliation: University of Saskatchewan, Canada
   role: conference proceedings editor
- - name: Sarah Mason
+- name: Sarah Mason
   affiliation: Wake Forest University, USA
   role: funding coordinator
 
