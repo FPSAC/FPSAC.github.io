@@ -14,8 +14,8 @@ invited_speakers:
   affiliation: University of Miami, USA
 - name: Soojin Cho
   affiliation: Ajou University, Seoul, South Korea
-- name: Maria Chudnovsky
-  affiliation: Princeton University, USA
+- name: Kristina Vušković
+  affiliation: University of Leeds, UK
 - name: Luc Lapointe
   affiliation: Instituto Matematica y Fisica, Talca, Chile
 - name: Greta Panova
@@ -125,5 +125,8 @@ organizing_committee:
 - name: Nicholas Beaton
   affiliation: University of Saskatchewan, Canada
   role: conference proceedings editor
+ - name: Sarah Mason
+  affiliation: Wake Forest University, USA
+  role: funding coordinator
 
 ---
