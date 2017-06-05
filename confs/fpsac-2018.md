@@ -15,8 +15,8 @@ invited_speakers:
 
 program_committee:
 
-- name: &Eacute;ric Fusy
-  affiliation: &Eacute;cole Polytechnique, Paris
+- name: Eric Fusy
+  affiliation: Ecole Polytechnique, Paris
   role: co-chair
 - name: Caroline Klivans
   affiliation: Brown University, USA
