@@ -24,16 +24,8 @@ invited_speakers:
   affiliation: University of British Columbia, Canada
 - name: Dan Romik
   affiliation: UC Davis, USA
-<!--
-- name: Colva Roney-Dougal
-  affiliation: University of St. Andrews, UK
--->
 - name: Gordon Slade
   affiliation: University of British Columbia, Canada
-<!--
-- name: David Speyer
-  affiliation: University of Michigan, USA
--->
 
 program_committee:
 
