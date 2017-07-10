@@ -7,6 +7,7 @@ town: London
 country: United Kingdom
 dates: July 9--13
 site: https://sites.google.com/site/fpsac2017/
+participants: 217
 
 invited_speakers:
 
