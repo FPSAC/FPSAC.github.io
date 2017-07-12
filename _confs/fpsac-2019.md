@@ -1,11 +1,11 @@
 ---
 layout: conf
 year: 2019
-number: 31th
-institution:
-town:
-country:
-dates: July ..--..
+number: 31st
+institution: University of Ljubljana
+town: Ljubljana
+country: Slovenia
+dates: July 1--5
 site: 
 
 invited_speakers:
@@ -27,8 +27,8 @@ program_committee:
 
 organizing_committee:
 
-- name:
-  affiliation:
+- name: Matjaž Konvalinka
+  affiliation: University of Ljubljana
   role: chair
 
 
