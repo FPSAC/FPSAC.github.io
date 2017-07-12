@@ -2,7 +2,7 @@
 layout: conf
 year: 2017
 number: 29th
-institution:
+institution: Queen Mary University of London
 town: London
 country: United Kingdom
 dates: July 9--13
