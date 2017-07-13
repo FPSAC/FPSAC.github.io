@@ -39,3 +39,12 @@ broken in the mean time.
 
 ## [All conferences](confs)
 
+## Posters
+
+<div>
+{% for conf in site.confs reversed %}
+  {% if conf.poster %}
+    <a href="{{ conf.url }}"><img class="posterarray" src="{{site.baseurl}}/public/thumbnails/{{conf.poster}}" alt="icon"></a>
+  {% endif %}
+{% endfor %}
+</div>

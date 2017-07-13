@@ -7,7 +7,7 @@ town: Daejeon
 country: South Korea
 dates: July 6 - 10
 site: http://fpsac.combinatorics.kr/
-icon: poster-2015.jpg
+poster: poster-2015.jpg
 
 best_student_paper:
 - name: Masaki Watanabe

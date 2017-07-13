@@ -6,8 +6,8 @@ institution: University of British Columbia, PIMS
 town: Vancouver
 country: Canada
 dates: June 28 - July 2
-site: Canada.gif
-icon: http://www.pims.math.ca/
+site: http://www.pims.math.ca/
+icon: Canada.gif
 best_student_paper:
 - name: Lauren Williams
   affiliation: MIT

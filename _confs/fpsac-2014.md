@@ -7,7 +7,7 @@ town: Chicago
 country: USA
 dates: June 29 - July 3
 site: https://sites.google.com/site/fpsac2014/
-icon: poster-2014.jpg
+poster: poster-2014.jpg
 
 best_student_paper:
 - name: Austin Roberts

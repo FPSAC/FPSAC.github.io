@@ -3,7 +3,8 @@ img.sideicon {
   width: 20%;
 }
 
-body {
-    margin: 0;
-    padding: 0;
+img.posterarray {
+  display: inline;
+  max-height: 6em;
+  vertical-align: middle;
 }
