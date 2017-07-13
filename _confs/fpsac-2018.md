@@ -30,8 +30,12 @@ organizing_committee:
 - name: Sergi Elizalde
   affiliation: Dartmouth College, USA
   role: chair
+- name: Apoorva Khare
+  affiliation: Stanford University, USA / Indian Institute of Science, India
 - name: Sarah Mason
   affiliation: Wake Forest University, USA
+- name: Peter McNamara
+  affiliation: Bucknell University, USA
 - name: Alejandro Morales
   affiliation: UCLA, USA
 - name: Rosa Orellana
