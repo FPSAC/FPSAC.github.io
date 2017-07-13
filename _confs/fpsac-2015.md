@@ -11,7 +11,8 @@ icon: poster-2015.jpg
 
 best_student_paper:
 - name: Masaki Watanabe
-  affiliation: University of Tokyo  
+  affiliation: University of Tokyo
+
 invited_speakers:
   - name: Susumu Ariki
     affiliation: Osaka University, Japan

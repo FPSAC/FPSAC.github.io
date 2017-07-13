@@ -14,7 +14,7 @@ best_student_paper:
   affiliation: University of California at Berkeley
 - name: Jake Levinson
   affiliation: University of Michigan, Ann Arbor
-  
+
 invited_speakers:
 - name: Federico Ardila
   affiliation: San Francisco State University
@@ -46,10 +46,10 @@ invited_speakers:
 
 program_committee:
 - name: Sylvie Corteel
-  affiliation: CNRS / Université Paris Diderot 7 
+  affiliation: CNRS / Université Paris Diderot 7
   role: cochair
 - name: Andrew Rechnitzer
-  affiliation: University of British Columbia  
+  affiliation: University of British Columbia
   role: cochair
 - name: Anne Schilling
   affiliation: University of California, Davis
@@ -87,7 +87,7 @@ program_committee:
 - name: Thomas Prellberg
   affiliation: Queen Mary, University of London
 - name: Dan Romik
-  affiliation: University of California, Davis 
+  affiliation: University of California, Davis
 - name: Mercedes Rosas
   affiliation: Universidad de Sevilla
 - name: Mark Shimozono
