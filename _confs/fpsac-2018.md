@@ -10,8 +10,24 @@ site: https://sites.google.com/view/fpsac2018/
 
 invited_speakers:
 
-- name: TBA
-  affiliation: TBA
+- name: Sami Assaf
+  affiliation: University of Southern California, USA
+- name: Jesús A. De Loera
+  affiliation: University of California, Davis, USA
+- name: Ioana Dumitriu
+  affiliation: University of Washington, USA
+- name: Jang Soo Kim
+  affiliation: Sungkyunkwan University, South Korea
+- name: Diane Maclagan
+  affiliation: University of Warwick, England
+- name: Criel Merino
+  affiliation: Instituto de Matemáticas, UNAM, Mexico
+- name: Gilles Schaeffer
+  affiliation: École Polytechnique, France
+- name: Einar Steingrímsson
+  affiliation: University of Strathclyde, Scotland
+- name: Jan Felipe Van Diejen
+  affiliation: Universidad de Talca, Chile
 
 program_committee:
 
