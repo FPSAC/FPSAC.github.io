@@ -1,0 +1,9 @@
+img.sideicon {
+  float: right;
+  width: 20%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}

@@ -4,6 +4,12 @@ layout: default
 
 <div class="page">
 
+  {% if page.icon %}
+    <a href="{{ page.site }}">
+      <img class="sideicon" src="{{site.baseurl}}/public/thumbnails/{{page.icon}}" alt="icon">
+    </a>
+  {% endif %}
+
   <h1 class="page-title">FPSAC'{% if page.year >= 2000 and page.year < 2010 %}0{{page.year | modulo:10}}{% else %}{{page.year | modulo:100}}{% endif %}: {{ page.town }}</h1>
 
   <center>
@@ -15,21 +21,21 @@ layout: default
       {%if page.institution %}{{ page.institution }}, {% endif %}
       {{ page.town }} ({{page.country}})<br>
       {{ page.dates }} {{page.year}}<br><br>
-
-      {% comment %}
-        The following are on a single line just to avoid a space before
-        the comma separating the names
-      {% endcomment %}
-
-      Chair of the program committee:
-      {% assign first = true %}
-      {% for person in page.program_committee %}{% if person.role == 'chair' or person.role == 'cochair' %}{% unless first %}, {% endunless %}{{ person.name }}{% assign first = false %}{% endif %}{% endfor %}<br>
-
-      Chair of the organizing committee:
-      {% assign first = true %}
-      {% for person in page.organizing_committee %}{% if person.role == 'chair' or person.role == 'cochair' %}{% unless first %}, {% endunless %}{{ person.name }}{% assign first = false %}{% endif %}{% endfor %}<br>
     </strong>
   </center>
+
+  {% comment %} Previous / Next FPSAC {% endcomment %}
+  {% for conf in site.confs %}
+    {% assign diff = conf.year | minus: page.year %}
+    {% if diff == -1 or diff == 1 %}
+      {%if diff == -1 %}
+        Previous:
+      {% else %}
+        Next:
+      {% endif %}
+      <a href="{{ conf.url }}">FPSAC'{{ conf.year }}: {{conf.town}}</a>
+    {% endif %}
+  {% endfor %}
 
   {%if page.site %}
   <h2>Website: {%if page.site %}
@@ -46,18 +52,13 @@ layout: default
   <h2><a href="{{ page.proceedings }}">Proceedings</a></h2>
   {% endif %}
 
-  {% comment %} Previous / Next FPSAC {% endcomment %}
-  {% for conf in site.confs %}
-    {% assign diff = conf.year | minus: page.year %}
-    {% if diff == -1 or diff == 1 %}
-      {%if diff == -1 %}
-        Previous:
-      {% else %}
-        Next:
-      {% endif %}
-      <a href="{{ conf.url }}">FPSAC'{{ conf.year }}: {{conf.town}}</a>
-    {% endif %}
-  {% endfor %}
+  <h2>Chairs of the program committee</h2>
+
+  {% include chair_list.html persons=page.program_committee %}
+
+  <h2>Chairs of the organizing committee</h2>
+
+  {% include chair_list.html persons=page.organizing_committee %}
 
   <h2>Invited speakers</h2>
 

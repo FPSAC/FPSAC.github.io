@@ -1,0 +1,7 @@
+{% comment %}
+  The following are on a single line just to avoid a space before
+  the comma separating the names
+{% endcomment %}
+
+{% assign first = true %}
+  {% for person in include.persons %}{% if person.role == 'chair' or person.role == 'cochair' %}{% unless first %}, {% endunless %}{{ person.name }}{% assign first = false %}{% endif %}{% endfor %}

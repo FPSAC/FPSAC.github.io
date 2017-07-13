@@ -7,6 +7,8 @@ town: Vancouver
 country: Canada
 dates: July 4 - 8
 site: https://sites.google.com/site/fpsac2016/
+icon: poster-2016.jpg
+
 best_student_paper:
 - name: Maria Gillespie
   affiliation: University of California at Berkeley
