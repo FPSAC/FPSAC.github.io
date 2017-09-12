@@ -7,6 +7,7 @@ town: Dartmouth College, Hanover
 country: USA
 dates: July 16--20
 site: https://sites.google.com/view/fpsac2018/
+poster: poster-2018.jpg
 
 invited_speakers:
 
