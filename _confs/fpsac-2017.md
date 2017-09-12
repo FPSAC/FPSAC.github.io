@@ -10,6 +10,10 @@ site: https://sites.google.com/site/fpsac2017/
 poster: poster-2017.jpg
 participants: 217
 
+best_student_paper:
+- name: Gaku Liu
+  affiliation: Massachusetts Institute of Technology
+
 invited_speakers:
 
 - name: Drew Armstrong
