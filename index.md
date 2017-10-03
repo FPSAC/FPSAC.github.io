@@ -13,16 +13,10 @@ Algébrique), running since 1988.
 
 ## News
 
-The new permanent website for FPSAC is up. Local copies of the former
-FPSAC conferences will be reinstated later on; some links may be
-broken in the mean time.
-
-{% comment %}
 {% for post in site.posts %}
 {{ post.date | date_to_string }}
 : [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
-{% endcomment %}
 
 ## Upcoming conferences
 
