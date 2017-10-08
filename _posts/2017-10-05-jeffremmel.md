@@ -11,3 +11,5 @@ and algebraic combinatorics, logic and computer science.
 
 A full obituary will be published by the [UCSD mathematics department](https://math.ucsd.edu/)
 where he was a faculty member since 1974.
+
+An obituary in the [San Diego Union-Tribune](http://www.sandiegouniontribune.com/news/science/sd-me-jeffrey-remmel-20171006-story.html).
