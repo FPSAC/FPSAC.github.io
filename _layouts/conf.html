@@ -56,7 +56,9 @@ layout: default
 
   {% include chair_list.html persons=page.program_committee %}
 
-  <h2>Chairs of the organizing committee</h2>
+
+  {%assign nbcochairs = page.organizing_committee | where:"role","cochair" | size %}
+  <h2>Chair{%if nbcochairs >= 1 %}s{% endif %} of the organizing committee</h2>
 
   {% include chair_list.html persons=page.organizing_committee %}
 
