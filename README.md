@@ -44,7 +44,7 @@ Sources of the conference descriptions:
   layout. This includes in particular the possibility to generate
   automatically some pages from plain data. See e.g.
 
-  https://raw.githubusercontent.com/FPSAC/FPSAC.github.io/master/_confs/15.md
+  https://raw.githubusercontent.com/FPSAC/FPSAC.github.io/master/_confs/fpsac-2015.md
 
   for how each FPSAC is described
 
@@ -72,7 +72,9 @@ availability, account management, smooth integration, web editing with
 automatic site rebuild).
 
 I still need to decide where to put the local clones of the official
-web sites. I am currently considering to just use another git
+web sites. I am currently considering to just use another "large files" git
 repository on github.
 
-Old addresse: 193.55.63.80
+The domain fpsac.org is registered at https://www.gandi.net/.
+
+Old IP address: 193.55.63.80
