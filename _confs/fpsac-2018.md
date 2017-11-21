@@ -34,13 +34,13 @@ program_committee:
 
 - name: Éric Fusy
   affiliation: Ecole Polytechnique, Paris
-  role: co-chair
+  role: cochair
 - name: Caroline Klivans
   affiliation: Brown University, USA
-  role: co-chair
+  role: cochair
 - name: Mike Zabrocki
   affiliation: York University, Canada
-  role: co-chair
+  role: cochair
 - name: Margaret Bayer
   affiliation: University of Kansas
 - name: Carolina Benedetti

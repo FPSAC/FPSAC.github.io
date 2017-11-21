@@ -17,13 +17,13 @@ program_committee:
 
 - name: Sara C. Billey
   affiliation: University of Washington, Seattle, WA, USA
-  role: co-chair
+  role: cochair
 - name: Marko Petkovšek
   affiliation: University of Ljubljana, Slovenia
-  role: co-chair
+  role: cochair
 - name: Günter M. Ziegler
   affiliation: Free University of Berlin, Germany
-  role: co-chair
+  role: cochair
 
 organizing_committee:
 
