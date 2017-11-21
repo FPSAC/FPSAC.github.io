@@ -44,7 +44,7 @@ Sources of the conference descriptions:
   layout. This includes in particular the possibility to generate
   automatically some pages from plain data. See e.g.
 
-        https://raw.githubusercontent.com/FPSAC/FPSAC.github.io/master/_confs/15.md
+  https://raw.githubusercontent.com/FPSAC/FPSAC.github.io/master/_confs/15.md
 
   for how each FPSAC is described
 
