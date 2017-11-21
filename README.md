@@ -1,10 +1,8 @@
-=============================================================================
-Repository holding the sources of the (upcoming) FPSAC.org website (aka FPSAC.github.io)
-=============================================================================
+# Repository holding the sources of the FPSAC.org website (aka FPSAC.github.io)
 
-# Summary
+## Summary
 
-The [(upcoming) FPSAC website](http://fpsac.github.io) is hosted as a
+The [FPSAC website](http://fpsac.github.io) is hosted as a
 [github page](https://pages.github.com/).
 In short, is built statically from
 plain text files with a wiki like syntax
@@ -12,7 +10,7 @@ plain text files with a wiki like syntax
 [Jekyll](http://jekyllrb.com/). It is meant to eventually replace
 [fpsac.org](http://fpsac.org/).
 
-# Getting started
+## Getting started
 
 To edit it this site, just modify the sources and push. Or simply
 click on the "Edit this page" button of each page.
