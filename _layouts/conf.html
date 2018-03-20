@@ -48,8 +48,12 @@ layout: default
         <br>
   {% endif %}
 
-  {%if page.proceedings %}
-  <h2><a href="{{ page.proceedings }}">Proceedings</a></h2>
+  {% if page.proceedings %}
+    <h2>Proceedings: 
+      {% if page.proceedings.url %}<a href="{{ page.proceedings.url }}">{% endif %}
+      {{ page.proceedings.title }}
+      {% if page.proceedings.url %}</a>{% endif %}
+    </h2>
   {% endif %}
 
   <h2>Chairs of the program committee</h2>
