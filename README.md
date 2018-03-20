@@ -1,10 +1,8 @@
-=============================================================================
-Repository holding the sources of the (upcoming) FPSAC.org website (aka FPSAC.github.io)
-=============================================================================
+# Repository holding the sources of the FPSAC.org website (aka FPSAC.github.io)
 
-# Summary
+## Summary
 
-The [(upcoming) FPSAC website](http://fpsac.github.io) is hosted as a
+The [FPSAC website](http://fpsac.github.io) is hosted as a
 [github page](https://pages.github.com/).
 In short, is built statically from
 plain text files with a wiki like syntax
@@ -12,7 +10,7 @@ plain text files with a wiki like syntax
 [Jekyll](http://jekyllrb.com/). It is meant to eventually replace
 [fpsac.org](http://fpsac.org/).
 
-# Getting started
+## Getting started
 
 To edit it this site, just modify the sources and push. Or simply
 click on the "Edit this page" button of each page.
@@ -46,7 +44,7 @@ Sources of the conference descriptions:
   layout. This includes in particular the possibility to generate
   automatically some pages from plain data. See e.g.
 
-        https://raw.githubusercontent.com/FPSAC/FPSAC.github.io/master/_confs/15.md
+  https://raw.githubusercontent.com/FPSAC/FPSAC.github.io/master/_confs/fpsac-2015.md
 
   for how each FPSAC is described
 
@@ -74,7 +72,9 @@ availability, account management, smooth integration, web editing with
 automatic site rebuild).
 
 I still need to decide where to put the local clones of the official
-web sites. I am currently considering to just use another git
+web sites. I am currently considering to just use another "large files" git
 repository on github.
 
-Old addresse: 193.55.63.80
+The domain fpsac.org is registered at https://www.gandi.net/.
+
+Old IP address: 193.55.63.80
