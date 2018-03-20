@@ -29,7 +29,7 @@ Sources of the conference descriptions:
 
 - [_confs/](_confs/)
 
-# Main design goals
+## Main design goals
 
 - Easy collaborative edition by the FPSAC executive committee. This
   means allowing for:
@@ -50,7 +50,7 @@ Sources of the conference descriptions:
 
 - Robustness and ease of migration if needed.
 
-# Technology
+## Technology
 
 The site is statically generated automatically (using
 [Jekyll](http://jekyllrb.com/)) from a set of plain text files with a
@@ -60,7 +60,7 @@ managed by the version control system
 [git](https://git-scm.com/). Data is stored as plain text as well and
 easy to edit.
 
-# Hosting service
+## Hosting service
 
 The site is hosted by github; I (Nicolas) am not a big fan of
 outsourcing stuff out on the clould. However the site holds no private
@@ -78,3 +78,25 @@ repository on github.
 The domain fpsac.org is registered at https://www.gandi.net/.
 
 Old IP address: 193.55.63.80
+
+## Compiling the site locally
+
+For more than the occasional editing, GitHub's editor and preview are
+limited. It can be more comfortable to work locally on one's computer.
+
+Install ruby; on Ubuntu:
+
+    apt install ruby-dev
+
+Clone this repository, and go inside. Install jekyll and dependencies:
+
+    bundle install
+
+Compile the site and serve it locally
+
+    bundle exec jekyll serve -w
+
+The site will be generated in a `_site` sub-directory, and served
+live at <http://localhost:4000/>. Any changes to the sources will
+trigger an automatic recompilation.
+
