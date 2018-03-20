@@ -8,8 +8,12 @@ country: Sweden
 dates: June 23 - 27
 site: http://www.mai.liu.se/fpsac/
 icon: Sweden.gif
-best_student_paper:
 participants: 150
+proceedings:
+  title: hosted at IGM
+  url: http://igm.univ-mlv.fr/~fpsac/FPSAC03/articles.html
+
+best_student_paper:
 
 invited_speakers:
 - name: Imre Bárány

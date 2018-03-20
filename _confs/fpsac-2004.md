@@ -8,10 +8,14 @@ country: Canada
 dates: June 28 - July 2
 site: http://www.pims.math.ca/
 icon: Canada.gif
+participants: 150
+proceedings:
+  title: hosted at IGM
+  url: http://igm.univ-mlv.fr/~fpsac/FPSAC04/articles.html
+
 best_student_paper:
 - name: Lauren Williams
   affiliation: MIT
-participants: 150
 
 invited_speakers:
 - name: Norman Biggs

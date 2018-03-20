@@ -8,8 +8,12 @@ country: China
 dates: July 2 - 6
 site: http://www.fpsac.cn/
 icon: China.gif
-best_student_paper:
 participants: 159
+proceedings:
+  title: hosted at IGM
+  url: http://igm.univ-mlv.fr/~fpsac/FPSAC07/fpsac07.html
+
+best_student_paper:
 
 invited_speakers:
 - name: Bruce C. Berndt

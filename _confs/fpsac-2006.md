@@ -8,8 +8,12 @@ country: USA
 dates: June 19 - 23
 site: http://garsia.math.yorku.ca/fpsac06/
 icon: USA.gif
-best_poster: Janvier Nzeutchap
 participants: 150
+proceedings:
+  title: hosted at IGM
+  url: http://igm.univ-mlv.fr/~fpsac/FPSAC06/contrib_papers.html
+
+best_poster: Janvier Nzeutchap
 
 invited_speakers:
 - name: Marge Bayer
