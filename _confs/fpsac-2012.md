@@ -10,7 +10,7 @@ site: http://www.math.nagoya-u.ac.jp/fpsac12/
 icon: Japan.gif
 participants: 192
 proceedings:
-- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AR
+  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AR
   url: https://dmtcs.episciences.org/volume/view/id/263
 
 best_student_paper:

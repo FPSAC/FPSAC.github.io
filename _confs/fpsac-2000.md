@@ -10,7 +10,7 @@ site:
 icon: Russia.gif
 best_student_paper:
 proceedings:
-- title: Daniel Krob, Alexander A. Mikhalev, Alexander V. Mikhalev (eds.); Springer-Verlag Berlin Heidelberg, 2000
+  title: Daniel Krob, Alexander A. Mikhalev, Alexander V. Mikhalev (eds.); Springer-Verlag Berlin Heidelberg, 2000
   url: http://www.springer.com/de/book/9783540672470
 
 participants: 120

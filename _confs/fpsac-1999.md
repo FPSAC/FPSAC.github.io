@@ -10,7 +10,7 @@ site: http://www-ma2.upc.es/~fpsac99
 icon: Espagne.gif
 participants: 152
 proceedings:
-- title: Discrete Mathematics 246
+  title: Discrete Mathematics 246
   url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/246/issue/1-3
 
 best_student_paper:

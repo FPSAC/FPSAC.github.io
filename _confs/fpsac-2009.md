@@ -10,7 +10,7 @@ site: http://www.risc.uni-linz.ac.at/about/conferences/fpsac2009/
 icon: Austria.gif
 participants: 198
 proceedings:
-- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AK
+  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AK
   url: https://dmtcs.episciences.org/volume/view/id/256
 
 best_student_paper:

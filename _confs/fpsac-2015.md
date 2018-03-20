@@ -10,7 +10,7 @@ site: http://fpsac.combinatorics.kr/
 poster: poster-2015.jpg
 
 proceedings:
-- title: Discrete Mathematics and Theoretical Computer Science Proceedings
+  title: Discrete Mathematics and Theoretical Computer Science Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/285
 
 best_student_paper:

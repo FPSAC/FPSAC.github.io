@@ -9,8 +9,8 @@ dates: August 2 - 6
 site: http://math.sfsu.edu/fpsac/
 participants: 210
 proceedings:
-- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AN
-- url: https://dmtcs.episciences.org/volume/view/id/259
+  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AN
+  url: https://dmtcs.episciences.org/volume/view/id/259
 
 best_student_paper:
 - name: Florian Block

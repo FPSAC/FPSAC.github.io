@@ -9,7 +9,7 @@ dates: June 29 - July 3
 site: https://sites.google.com/site/fpsac2014/
 poster: poster-2014.jpg
 proceedings:
-- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AT
+  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AT
   url: https://dmtcs.episciences.org/volume/view/id/265
 
 best_student_paper:

@@ -10,7 +10,7 @@ site: http://www.math.yorku.ca/bergeron/FPSAC98.html
 icon:
 participants: 145
 proceedings:
-- title: Discrete Mathematics 225
+  title: Discrete Mathematics 225
   url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/225/issue/1
 
 best_student_paper:

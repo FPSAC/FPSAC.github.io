@@ -10,7 +10,7 @@ dates: June 24 - 28
 site: http://www.liafa.univ-paris-diderot.fr/fpsac13/
 participants: 310
 proceedings:
-- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AS
+  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AS
   url: https://dmtcs.episciences.org/volume/view/id/264
 
 best_student_paper:

@@ -9,9 +9,8 @@ dates: July 9--13
 site: https://sites.google.com/site/fpsac2017/
 poster: poster-2017.jpg
 participants: 217
-
 proceedings:
-- title: S\'eminaire Lotharingien de Combinatoire, vol.78B
+  title: Séminaire Lotharingien de Combinatoire, vol.78B
   url: http://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/
 
 best_student_paper:
