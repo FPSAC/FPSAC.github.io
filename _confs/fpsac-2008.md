@@ -8,10 +8,14 @@ country: Chile
 dates: June 23 - 27
 site: http://inst-mat.utalca.cl/fpsac2008/
 icon: Chile.gif
+participants: 130
+proceedings:
+- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AJ
+  url: https://dmtcs.episciences.org/volume/view/id/255
+
 best_student_paper:
 - name: Valentin Féray
   affiliation: LIGM, University Paris-Est, Marne-La-Vallée
-participants: 130
 
 invited_speakers:
 - name: Marcelo Aguíar

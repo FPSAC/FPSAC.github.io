@@ -8,14 +8,17 @@ town: Paris
 country: France
 dates: June 24 - 28
 site: http://www.liafa.univ-paris-diderot.fr/fpsac13/
-proceedings: http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/130
+participants: 310
+proceedings:
+- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AS
+  url: https://dmtcs.episciences.org/volume/view/id/264
+
 best_student_paper:
 - name: Michael Chmutov
   affiliation: University of Michigan, Ann Arbor
 best_paper:
 - name : Lionel Pournin
   affiliation: LIAFA, Université Paris Diderot
-participants: 310
 
 invited_speakers:
 - name: Olivier Bernardi

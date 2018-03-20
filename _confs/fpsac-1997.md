@@ -8,6 +8,9 @@ country: Austria
 dates: July 14-18
 site: http://www.mat.univie.ac.at/~kratt/fpsac97.html
 participants: 140
+proceedings:
+- title: Discrete Mathematics 217
+  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/217/issue/1
 
 invited_speakers:
 - name: Martin Aigner

@@ -8,8 +8,12 @@ country: Spain
 dates: June 7 - 11
 site: http://www-ma2.upc.es/~fpsac99
 icon: Espagne.gif
-best_student_paper:
 participants: 152
+proceedings:
+- title: Discrete Mathematics 246
+  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/246/issue/1-3
+
+best_student_paper:
 
 invited_speakers:
 - name: George Andrews

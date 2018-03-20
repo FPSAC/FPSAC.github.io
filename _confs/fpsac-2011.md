@@ -7,10 +7,14 @@ town: Reykjavík
 country: Iceland
 dates: June 13 - 17
 site: http://combinatorics.cis.strath.ac.uk/fpsac2011/
+participants: 205
+proceedings:
+- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AO
+  url: https://dmtcs.episciences.org/volume/view/id/260
+
 best_student_paper:
 - name: Greta Panova
   affiliation: MIT
-participants: 205
 
 invited_speakers:
 - name: François Bergeron

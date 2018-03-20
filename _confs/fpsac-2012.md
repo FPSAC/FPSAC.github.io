@@ -8,12 +8,16 @@ country: Japan
 dates: July 30 - August 3
 site: http://www.math.nagoya-u.ac.jp/fpsac12/
 icon: Japan.gif
+participants: 192
+proceedings:
+- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AR
+  url: https://dmtcs.episciences.org/volume/view/id/263
+
 best_student_paper:
 - name: Joel Lewis
   affiliation: MIT
 - name: Yan Zhang
   affiliation: MIT
-participants: 192
 
 invited_speakers:
 - name: Alexei Borodin

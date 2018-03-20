@@ -8,8 +8,12 @@ country: Canada
 dates: June
 site: http://www.math.yorku.ca/bergeron/FPSAC98.html
 icon:
-best_student_paper:
 participants: 145
+proceedings:
+- title: Discrete Mathematics 225
+  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/225/issue/1
+
+best_student_paper:
 
 invited_speakers:
 - name: Georgia Benkart

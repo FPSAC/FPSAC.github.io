@@ -7,6 +7,8 @@ town: Piscataway
 country: USA
 dates: May 23 - 27
 participants: 160
+proceedings:
+- title: DIMACS - Series in Discrete Mathematics and Theoretical Computer Science<br>Volume: 24; 1996; 198 pp;
 
 invited_speakers:
 - name:  Anders Bj&#246;rner

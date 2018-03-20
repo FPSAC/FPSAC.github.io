@@ -8,10 +8,14 @@ country: Austria
 dates: July 20 - 24
 site: http://www.risc.uni-linz.ac.at/about/conferences/fpsac2009/
 icon: Austria.gif
+participants: 198
+proceedings:
+- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AK
+  url: https://dmtcs.episciences.org/volume/view/id/256
+
 best_student_paper:
 - name: Guillaume Chapuy
   affiliation: Ecole Polytechnique, Paris
-participants: 198
 
 invited_speakers:
 - name: Alexander Barvinok 
@@ -122,6 +126,3 @@ staff_assistants:
 <li><A HREF="contrib_posters.html">List of posters</A> 
 <li><A HREF="participants.html">List of participants</A>
 <li><A HREF="contrib_software.html">List of software presentations</A> 
-<p></p>
-<li><A HREF="http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/104">Publication of the proceedings at DMTCS Proceedings</A>
-    (see <A HREF="http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/104/showToc">Table of Contents</A>)

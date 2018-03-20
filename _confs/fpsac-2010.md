@@ -7,10 +7,14 @@ town: San Francisco
 country: USA
 dates: August 2 - 6
 site: http://math.sfsu.edu/fpsac/
+participants: 210
+proceedings:
+- title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AN
+- url: https://dmtcs.episciences.org/volume/view/id/259
+
 best_student_paper:
 - name: Florian Block
   affiliation: University of Michiagan, Ann arbor
-participants: 210
 
 invited_speakers:
 - name: Bill Chen
@@ -110,6 +114,3 @@ organizing_committee:
 
 <li><A HREF="contrib_papers_posters.html">List of papers and posters</A>
 <li><A HREF="participants.html">List of participants</A>
-<p></p>
-<li><A HREF="http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/111">Publication of the proceedings at DMTCS Proceedings</A>
-    (see <A HREF="http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/111/showToc">Table of Contents</A>)

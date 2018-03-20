@@ -8,8 +8,12 @@ country: Australia
 dates: July 8 - 12
 site: http://www.fpsac.ms.unimelb.edu.au/
 icon: Australia.gif
-best_student_paper:
 participants: 115
+proceedings:
+- title: Discrete Mathematics 298
+  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/298/issue/1
+
+best_student_paper:
 
 invited_speakers:
 - name: Hélène Barcelo
