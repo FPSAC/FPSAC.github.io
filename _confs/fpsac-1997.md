@@ -5,7 +5,7 @@ number: 9th
 institution: University of Vienna
 town: Vienna
 country: Austria
-dates: July
+dates: July 14-18
 site: http://www.mat.univie.ac.at/~kratt/fpsac97.html
 participants: 140
 
