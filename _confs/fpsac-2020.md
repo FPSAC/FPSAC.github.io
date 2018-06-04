@@ -1,3 +1,4 @@
+---
 layout: conf
 year: 2020
 number: 32nd
@@ -35,3 +36,4 @@ organizing_committee:
   name: Yuval Roichman
   affiliation: Bar Ilan University
   role: cochair
+---
