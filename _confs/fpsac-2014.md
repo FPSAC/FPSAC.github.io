@@ -8,6 +8,11 @@ country: USA
 dates: June 29 - July 3
 site: https://sites.google.com/site/fpsac2014/
 poster: poster-2014.jpg
+invited_talks: 9
+obituary: 1
+# 28
+talks: 5+9+3+5+6
+demos: 1
 proceedings:
   title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AT
   url: https://dmtcs.episciences.org/volume/view/id/265

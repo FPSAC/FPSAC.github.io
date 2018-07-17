@@ -10,8 +10,11 @@ site: https://sites.google.com/view/fpsac2018/
 poster: poster-2018.jpg
 participants: 230
 submissions: 140
+invited_talks: 9
+obituary: 1
 talks: 27
 posters: 72
+demos: 1
 # 69 presented
 
 
