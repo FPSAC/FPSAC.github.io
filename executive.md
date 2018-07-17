@@ -3,9 +3,6 @@ layout: page
 title: Executive Committee
 
 executive_committee:
-  - name: Nantel Bergeron
-    affiliation: York, Canada
-    url: http://www.math.yorku.ca/bergeron/
   - name: Alain Goupil
     affiliation: Trois Rivières, Canada
   - name: Christian Krattenthaler
