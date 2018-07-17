@@ -30,4 +30,4 @@ executive_committee:
 
 {% include person_list.html persons=page.executive_committee %}
 
-Contact: executive-office-fpsac&#64;services.cnrs.fr
+Contact: executive@fpsac.org
