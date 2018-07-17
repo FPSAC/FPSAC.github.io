@@ -8,6 +8,12 @@ country: USA
 dates: July 16--20
 site: https://sites.google.com/view/fpsac2018/
 poster: poster-2018.jpg
+participants: 230
+submissions: 140
+talks: 27
+posters: 72
+# 69 presented
+
 
 invited_speakers:
 

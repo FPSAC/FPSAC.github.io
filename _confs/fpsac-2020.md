@@ -24,7 +24,7 @@ program_committee:
 - name: Yuval Roichman
   affiliation: Bar Ilan University, Ramat-Gan, Israel
   role: cochair
-  name: Michelle Wachs
+- name: Michelle Wachs
   affiliation: University of Miami, USA
   role: cochair
 
@@ -36,4 +36,6 @@ organizing_committee:
   name: Yuval Roichman
   affiliation: Bar Ilan University
   role: cochair
+
+executive_committee_contact: Nicolas M. Thiéry
 ---
