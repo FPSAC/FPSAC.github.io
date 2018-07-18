@@ -3,8 +3,6 @@ layout: page
 title: Executive Committee
 
 executive_committee:
-  - name: Alain Goupil
-    affiliation: Trois Rivières, Canada
   - name: Christian Krattenthaler
     affiliation: Wien, Austria
     url: http://www.mat.univie.ac.at/~kratt/
@@ -14,9 +12,6 @@ executive_committee:
   - name: Bridget Tenner
     affiliation: Chicago, USA
     url: http://math.depaul.edu/bridget/
-  - name: Jean-Yves Thibon
-    affiliation: Paris, France
-    url: http://www-igm.univ-mlv.fr/~jyt/index_en.html
   - name: Nicolas M. Thiéry
     affiliation: Orsay, France
     url: http://Nicolas.Thiery.name/
@@ -26,8 +21,23 @@ executive_committee:
   - name: Mike Zabrocki
     affiliation: Toronto, Canada
     url: http://garsia.math.yorku.ca/~zabrocki/
+
+executive_committee_former:
+  - name: Nantel Bergeron
+    affiliation: York, Canada
+    url: http://www.math.yorku.ca/bergeron/
+  - name: Alain Goupil
+    affiliation: Trois Rivières, Canada
+  - name: Jean-Yves Thibon
+    affiliation: Paris, France
+    url: http://www-igm.univ-mlv.fr/~jyt/index_en.html
+
 ---
 
 {% include person_list.html persons=page.executive_committee %}
 
 Contact: executive-office-fpsac&#64;services.cnrs.fr
+
+## Some of the former members
+
+{% include person_list.html persons=page.executive_committee_former %}
