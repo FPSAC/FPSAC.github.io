@@ -36,7 +36,7 @@ executive_committee_former:
 
 {% include person_list.html persons=page.executive_committee %}
 
-Contact: executive-office-fpsac&#64;services.cnrs.fr
+Contact: executive@fpsac.org
 
 ## Some of the former members
 
