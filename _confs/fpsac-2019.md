@@ -6,7 +6,7 @@ institution: University of Ljubljana
 town: Ljubljana
 country: Slovenia
 dates: July 1--5
-site: 
+site: https://2019.fpsac.org
 
 invited_speakers:
 
