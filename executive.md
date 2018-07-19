@@ -30,7 +30,28 @@ executive_committee_former:
     affiliation: Trois Rivières, Canada
   - name: Jean-Yves Thibon
     affiliation: Paris, France
-    url: http://www-igm.univ-mlv.fr/~jyt/index_en.html
+    url: http://www-igm.univ-mlv.fr/~jyt/
+  - name: Pierre Leroux
+    affiliation: Montréal, Canada
+    url: http://www.lacim.uqam.ca/~leroux/
+  - name: Daniel Krob
+    affiliation: Paris, France
+    url: http://www.lix.polytechnique.fr/~dk/
+  - name: Maylis Delest
+    affiliation: Bordeaux, France
+    url: http://www.labri.u-bordeaux.fr/perso/maylis/
+  - name: Rodica Simion
+    affiliation:  Washington, USA
+    url: https://en.wikipedia.org/wiki/Rodica_Simion
+  - name: Volker Strehl
+    affiliation: Erlangen, Germany
+    url: http://wwwdh.cs.fau.de//en/strehl.html
+  - name: Jean-Marc Fédou
+    affiliation: Nice, France
+    url: http://www.i3s.unice.fr/~fedou/
+  - name: Hélène Barcelo
+    affiliation: Phoenix, Arizona, USA
+    url: https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Barcelo
 
 ---
 
