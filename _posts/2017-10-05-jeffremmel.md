@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News of the death of Jeff Remmel
+title: Death of Jeff Remmel
 ---
 
 It is a sad occassion that we announce that Jeff Remmel passed away on Friday, September 29, 2017.
