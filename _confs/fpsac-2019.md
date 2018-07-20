@@ -9,10 +9,6 @@ dates: July 1--5
 site: http://2019.fpsac.org
 
 invited_speakers:
-
-- name: TBA
-  affiliation: 
-
 - name: Andrej Bauer
   affiliation: University of Ljubljana & IMFM
 - name: Alin Bostan
