@@ -81,13 +81,13 @@ program_committee:
 - name: Armin Straub
   affiliation: University of South Alabama, Mobile, AL, USA
 - name: Vasu Tewari
-  affiliation: University of Washington, Seattle, WA, USA
+  affiliation: University of Pennsylvania, Philadelphia, PA, USA
 - name: Frank Vallentin
   affiliation: University of Cologne, Cologne, Germany
 - name: Larry Wang
   affiliation: Nankai University, Tianjin, China
 - name: Nathan Williams
-  affiliation: University of California, Santa Barbara, CA, USA 
+  affiliation: University of Texas at Dallas, TX, USA
 - name: Russ Woodroofe 
   affiliation: University of Primorska, Koper, Slovenia
 - name: Benjamin Young
