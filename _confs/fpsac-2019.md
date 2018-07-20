@@ -10,9 +10,6 @@ site: http://2019.fpsac.org
 
 invited_speakers:
 
-- name: TBA
-  affiliation: 
-
 - name: Andrej Bauer
   affiliation: University of Ljubljana
 - name: Alin Bostan
@@ -22,7 +19,7 @@ invited_speakers:
 - name: Caroline Klivans
   affiliation: Brown University
 - name: Natasa Przulj
-- affiliation: University College London
+  affiliation: University College London
 - name: Vic Reiner
   affiliation: University of Minnesota
 - name: Sandra Di Rocco
