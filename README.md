@@ -90,7 +90,7 @@ Install ruby; on Ubuntu:
 
 Clone this repository, and go inside. Install jekyll and dependencies:
 
-    bundle install
+    bundle install --path vendor/bundle
 
 Compile the site and serve it locally
 
