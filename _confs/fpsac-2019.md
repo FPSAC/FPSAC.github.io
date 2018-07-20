@@ -62,7 +62,7 @@ program_committee:
   affiliation: University of California, San Diego, CA, USA
 - name: Arnau Padrol
   affiliation: Sorbonne University, Paris, France
-- name: Kyle Peterson
+- name: Kyle Petersen
   affiliation: DePaul University, Chicago, IL, USA
 - name: Kilian Raschel
   affiliation: CNRS, Université François-Rabelais de Tours, France
