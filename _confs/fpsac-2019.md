@@ -52,7 +52,7 @@ program_committee:
   affiliation: Linköping University, Sweden
 - name: Manuel Kauers
   affiliation: Johannes Kepler University Linz, Austria
-- name: Jang-Soo Kim
+- name: Jang Soo Kim
   affiliation: Sungkyunkwan University, Suwon, South Korea
 - name: Christoph Koutschan
   affiliation: Research Institute for Symbolic Computation, Linz, Austria
