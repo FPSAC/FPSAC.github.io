@@ -40,50 +40,58 @@ program_committee:
 - name: Günter M. Ziegler
   affiliation: Free University of Berlin, Germany
   role: cochair
-- name: Axel Hultman
+- name: Arvind Ayyer
   affiliation: Indian Institute of Science, Bengaluru, India
-- name: Manuel Kauers
-  affiliation: University of Queensland, Brisbane, Australia
-- name: Jang-Soo Kim
-  affiliation: Universität Wien, Austria
-- name: Christoph Koutschan
+- name: Olivier Bernardi
+  affiliation: Brandeis University, Waltham, MA, USA
+- name: Ilse Fischer
+  affiliation: University of Vienna, Austria
+- name: Florian Frick
   affiliation: Cornell University, Ithaca, NY, USA
-- name: Marni Mishna
-  affiliation: North Carolina State University, Raleigh, NC, USA
-- name: Jonathan Novak
-  affiliation: University of Washington, Seattle, WA, USA
-- name: Arnau Padrol
+- name: Axel Hultman
   affiliation: Linköping University, Sweden
-- name: Kyle Peterson
-  affiliation: Technischen Universität Berlin, Berlin
-- name: Kilian Raschel
-  affiliation: Johannes Kepler Universität Linz, Austria
-- name: Andrew Rechnitzer
+- name: Manuel Kauers
+  affiliation: Johannes Kepler University Linz, Austria
+- name: Jang-Soo Kim
+  affiliation: Sungkyunkwan University, Suwon, South Korea
+- name: Christoph Koutschan
   affiliation: Research Institute for Symbolic Computation, Linz, Austria
-- name: Bruno Salvy
-  affiliation: Centrum Wiskunde & Informatica, Amsterdam, Netherlands
-- name: Francisco Santos
+- name: Marni Mishna
   affiliation: Simon Fraser University, Burnaby, Canada
-- name: Anne Shepler
+- name: Jonathan Novak
   affiliation: University of California, San Diego, CA, USA
-- name: Jonathan Spreer
+- name: Arnau Padrol
+  affiliation: Mathematics Institute of Jussieu–Paris Rive Gauche, France
+- name: Kyle Peterson
   affiliation: DePaul University, Chicago, IL, USA
-- name: Einar Steingrimsson
+- name: Kilian Raschel
   affiliation: CNRS, Université François-Rabelais de Tours, France
-- name: Armin Straub
-  affiliation: University of Kentucky, Lexington, KY, USA
-- name: Vasu Tewari
+- name: Andrew Rechnitzer
   affiliation: University of British Columbia, Vancouver, Canada
-- name: Frank Vallentin
-  affiliation: École Normale et Supérieure Lyon, France
-- name: Larry Wang
+- name: Bruno Salvy
+  affiliation: École Normale Supérieure Lyon, France
+- name: Francisco Santos
   affiliation: University of Cantabria, Santander, Spain
-- name: Nathan Williams
-  affiliation: University of Waterloo, Canada
-- name: Russ Woodroofe 
+- name: Anne Shepler
+  affiliation: University of North Texas, Denton, TX, USA
+- name: Jonathan Spreer
   affiliation: Free University of Berlin, Germany
-- name: Benjamin Young
+- name: Einar Steingrimsson
   affiliation: University of Strathclyde, Glasgow, UK
+- name: Armin Straub
+  affiliation: University of South Alabama, Mobile, AL, USA
+- name: Vasu Tewari
+  affiliation: University of Washington, Seattle, WA, USA
+- name: Frank Vallentin
+  affiliation: University of Cologne, Cologne, Germany
+- name: Larry Wang
+  affiliation: Nankai University, Tianjin, China
+- name: Nathan Williams
+  affiliation: University of California, Santa Barbara, CA, USA 
+- name: Russ Woodroofe 
+  affiliation: University of Primorska, Koper, Slovenia
+- name: Benjamin Young
+  affiliation: University of Oregon, Eugene, OR, USA
 
 organizing_committee:
 
