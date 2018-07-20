@@ -52,7 +52,7 @@ program_committee:
   affiliation: Linköping University, Sweden
 - name: Manuel Kauers
   affiliation: Johannes Kepler University Linz, Austria
-- name: Jang-Soo Kim
+- name: Jang Soo Kim
   affiliation: Sungkyunkwan University, Suwon, South Korea
 - name: Christoph Koutschan
   affiliation: Research Institute for Symbolic Computation, Linz, Austria
@@ -62,7 +62,7 @@ program_committee:
   affiliation: University of California, San Diego, CA, USA
 - name: Arnau Padrol
   affiliation: Sorbonne University, Paris, France
-- name: Kyle Peterson
+- name: Kyle Petersen
   affiliation: DePaul University, Chicago, IL, USA
 - name: Kilian Raschel
   affiliation: CNRS, Université François-Rabelais de Tours, France
