@@ -21,9 +21,9 @@ Algébrique), running since 1988. [Read more...](about)
 <ul>
   {% for conf in site.confs %}
     {% if conf.year >= site.year %}
-      <li><a href="{{ conf.url }}">FPSAC'{{conf.year | modulo:100 }}</a>: {{conf.town}} ({{conf.country}}),
-        {% if conf.dates %} {{conf.dates}}, {% endif %}
-        {{conf.year}}
+      <li>{% include fpsac.html conf=conf %}:
+        {{conf.town}} ({{conf.country}}),
+        {% if conf.dates %} {{conf.dates}} {% endif %}
       </li>
     {% endif %}
   {% endfor %}

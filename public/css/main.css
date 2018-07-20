@@ -8,3 +8,17 @@ img.posterarray {
   max-height: 6em;
   vertical-align: middle;
 }
+
+
+dl {
+  display: grid;
+  grid-template-columns: max-content auto;
+}
+
+dt {
+  grid-column-start: 1;
+}
+
+dd {
+  grid-column-start: 2;
+}

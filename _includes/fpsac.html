@@ -1,0 +1,6 @@
+{% comment %}
+  {% include fpsac.html conf=conf %}
+
+  Given the metadata for a conference, displays FPSAC'XX with a link to the conference page
+{% endcomment %}
+<a href="{{ include.conf.url }}">FPSAC'{% if include.conf.year >= 2000 and include.conf.year < 2010 %}0{{include.conf.year | modulo:10}}{% else %}{{include.conf.year | modulo:100}}{% endif %}</a>
