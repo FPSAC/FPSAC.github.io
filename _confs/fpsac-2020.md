@@ -10,9 +10,6 @@ site:
 
 invited_speakers:
 
-- name: TBA
-  affiliation: 
-
 program_committee:
 
 - name: Ron Adin
