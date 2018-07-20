@@ -47,7 +47,7 @@ program_committee:
 - name: Ilse Fischer
   affiliation: University of Vienna, Austria
 - name: Florian Frick
-  affiliation: Cornell University, Ithaca, NY, USA
+  affiliation: Carnegie Mellon University, Pittsburgh, PA, USA
 - name: Axel Hultman
   affiliation: Linköping University, Sweden
 - name: Manuel Kauers
@@ -61,7 +61,7 @@ program_committee:
 - name: Jonathan Novak
   affiliation: University of California, San Diego, CA, USA
 - name: Arnau Padrol
-  affiliation: Mathematics Institute of Jussieu–Paris Rive Gauche, France
+  affiliation: Sorbonne University, Paris, France
 - name: Kyle Peterson
   affiliation: DePaul University, Chicago, IL, USA
 - name: Kilian Raschel
