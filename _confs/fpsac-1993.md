@@ -9,13 +9,13 @@ dates: June
 participants: 204
 
 invited_speakers:
-- name:  Fran&ccedil;ois Bergeron
-  affiliation: Montr&eacute;al, Canada
+- name:  François Bergeron
+  affiliation: Montréal, Canada
 - name:  Robert Cori
   affiliation: Bordeaux, France
 - name:  Michel Fliess
   affiliation: Orsay, France
-- name:  C. Itzykson &#134
+- name:  C. Itzykson
   affiliation: Saclay, France
 - name:  Andrew Odlyzko
   affiliation: Bell Laboratories, USA
@@ -32,7 +32,7 @@ program_committee:
 - name:  A. Barlotti
   affiliation: Florence, Italy
   role: cochair
-- name:  Anders Bj&#246;rner
+- name:  Anders Björner
   affiliation: Stockolm, Sweden
 - name:  Maylis Delest
   affiliation: Bordeaux, France
@@ -50,7 +50,7 @@ program_committee:
 - name:  C. Lam
   affiliation: Concordia, USA
 - name:  Pierre Leroux
-  affiliation: Montr&eacute;al, Canada
+  affiliation: Montréal, Canada
 - name:  S. Mohanty
   affiliation: McMaster, USA
 - name:  Antonio Restivo
@@ -62,7 +62,7 @@ program_committee:
 - name:  Volker Strehl
   affiliation: Erlangen, Germany
 - name:  Jean-Yves Thibon
-  affiliation: Marne-la-Vall&eacute;e, France
+  affiliation: Marne-la-Vallée, France
 - name:  Doron Zeilberger
   affiliation: Philadelphia, USA
 
