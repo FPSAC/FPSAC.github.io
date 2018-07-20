@@ -5,7 +5,7 @@ number: 1st
 institution: University of Lille
 town: Lille
 country: France
-dates: December
+dates: December 12--13
 participants: 30
 
 program_committee:

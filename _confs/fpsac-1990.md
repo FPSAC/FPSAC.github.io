@@ -5,7 +5,7 @@ number: 2nd
 institution: University of Paris
 town: Paris
 country: France
-dates: April
+dates: April 3--4
 participants: 25
 
 invited_speakers:
