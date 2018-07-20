@@ -22,4 +22,4 @@ organizing_committee:
   role: chair
 
 ---
-# Papers
+# [Abstracts](/archive/fpsac-1988/abstracts.pdf)

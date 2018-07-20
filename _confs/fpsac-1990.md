@@ -29,6 +29,8 @@ organizing_committee:
   role: chair
 
 ---
+# [Abstracts](/archive/fpsac-1990/abstracts.pdf)
+
 # Papers
 
 - <A HREF="articles.html">List of papers</A>
