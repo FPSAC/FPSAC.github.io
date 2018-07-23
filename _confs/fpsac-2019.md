@@ -55,7 +55,7 @@ program_committee:
 - name: Jang Soo Kim
   affiliation: Sungkyunkwan University, Suwon, South Korea
 - name: Christoph Koutschan
-  affiliation: Research Institute for Symbolic Computation, Linz, Austria
+  affiliation: Austrian Academy of Sciences, Linz, Austria
 - name: Marni Mishna
   affiliation: Simon Fraser University, Burnaby, Canada
 - name: Jonathan Novak
@@ -65,11 +65,11 @@ program_committee:
 - name: Kyle Petersen
   affiliation: DePaul University, Chicago, IL, USA
 - name: Kilian Raschel
-  affiliation: CNRS, Université François-Rabelais de Tours, France
+  affiliation: CNRS, University of Tours, France
 - name: Andrew Rechnitzer
   affiliation: University of British Columbia, Vancouver, Canada
 - name: Bruno Salvy
-  affiliation: École Normale Supérieure Lyon, France
+  affiliation: INRIA and École Normale Supérieure de Lyon, France, France
 - name: Francisco Santos
   affiliation: University of Cantabria, Santander, Spain
 - name: Anne Shepler
