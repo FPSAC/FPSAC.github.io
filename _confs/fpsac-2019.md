@@ -76,7 +76,7 @@ program_committee:
   affiliation: University of North Texas, Denton, TX, USA
 - name: Jonathan Spreer
   affiliation: Free University of Berlin, Germany
-- name: Einar Steingrimsson
+- name: Einar Steingrímsson
   affiliation: University of Strathclyde, Glasgow, UK
 - name: Armin Straub
   affiliation: University of South Alabama, Mobile, AL, USA
