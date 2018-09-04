@@ -19,7 +19,7 @@ invited_speakers:
   affiliation: The Ohio State University
 - name: Caroline Klivans
   affiliation: Brown University
-- name: Natasa Przulj
+- name: Nataša Pržulj
   affiliation: University College London
 - name: Vic Reiner
   affiliation: University of Minnesota
@@ -98,7 +98,24 @@ organizing_committee:
 - name: Matjaž Konvalinka
   affiliation: University of Ljubljana, Slovenia
   role: chair
-
-executive_committee_contact: Ole Warnaar
+  
+- name: Nicholas Beaton
+  affiliation: University of Melbourne
+  
+- name: Roger Behrend
+  affiliation: University of Cardiff
+  
+- name: Joel Lewis 
+  affiliation: The George Washington University
+ 
+- name: Sarah Mason
+  affiliation: Wake Forest University
+  
+- name: Martin Milanič
+  affiliation: University of Primorska
+  
+- name: Ole Warnaar
+  affiliation: The University of Queensland
+  role: executive_committee_contact
 
 ---
