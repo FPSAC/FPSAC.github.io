@@ -116,6 +116,6 @@ organizing_committee:
   
 - name: Ole Warnaar
   affiliation: The University of Queensland
-  role: executive_committee_contact
+  role: executive committee contact
 
 ---
