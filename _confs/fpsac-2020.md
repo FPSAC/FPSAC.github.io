@@ -15,7 +15,7 @@ invited_speakers:
 - name: Arvind Ayyer
   affiliation: Indian Institute of Science
 - name: Karin Baur
-  affiliation: U Graz
+  affiliation: University of Graz
 - name: Anna de Mier
   affiliation: Technical University of Catalonia
 - name: Alex Lubotzky
@@ -25,7 +25,7 @@ invited_speakers:
 - name: Karola Mészáros
   affiliation: Cornell University
 - name: John Shareshian
-  affiliation: Washington University, St. Louis
+  affiliation: Washington University in St. Louis
 - name: Richard Stanley
   affiliation: MIT and University of Miami 
 
@@ -46,11 +46,8 @@ program_committee:
 
 organizing_committee:
 
-- name: Ron Adin
-  affiliation: Bar Ilan University
-  role: cochair
-  name: Yuval Roichman
-  affiliation: Bar Ilan University
+- name: Yuval Roichman
+  affiliation: Bar-Ilan University, Ramat-Gan, Israel
   role: cochair
 
 executive_committee_contact: Nicolas M. Thiéry
