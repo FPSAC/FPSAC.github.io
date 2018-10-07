@@ -46,9 +46,9 @@ program_committee:
 
 organizing_committee:
 
-- name: Yuval Roichman
+- name: Uzi Vishne
   affiliation: Bar-Ilan University, Ramat-Gan, Israel
-  role: cochair
+  role: chair
 
 executive_committee_contact: Nicolas M. Thiéry
 ---
