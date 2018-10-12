@@ -66,14 +66,10 @@ program_committee:
   affiliation: DePaul University, Chicago, IL, USA
 - name: Kilian Raschel
   affiliation: CNRS, University of Tours, France
-- name: Andrew Rechnitzer
-  affiliation: University of British Columbia, Vancouver, Canada
 - name: Bruno Salvy
   affiliation: INRIA and École Normale Supérieure de Lyon, France, France
 - name: Francisco Santos
   affiliation: University of Cantabria, Santander, Spain
-- name: Anne Shepler
-  affiliation: University of North Texas, Denton, TX, USA
 - name: Jonathan Spreer
   affiliation: Free University of Berlin, Germany
 - name: Einar Steingrímsson
