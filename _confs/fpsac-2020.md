@@ -41,19 +41,19 @@ program_committee:
   affiliation: Bar-Ilan University, Ramat-Gan, Israel
   role: cochair
 - name: Michelle Wachs
-  affiliation: University of Miami, USA
+  affiliation: University of Miami, Florida, USA
   role: cochair
 
 organizing_committee:
 
-- name: Uzi Vishne
-  affiliation: Bar-Ilan University, Ramat-Gan, Israel
-  role: chair
 - name: Sarah Mason
   affiliation: Wake Forest University, North Carolina, USA
 - name: Igor Pak
   affiliation: UCLA, California, USA
+- name: Uzi Vishne
+  affiliation: Bar-Ilan University, Ramat-Gan, Israel
+  role: chair
 
 
-executive_committee_contact: Nicolas M. Thiéry
+executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France
 ---
