@@ -49,6 +49,11 @@ organizing_committee:
 - name: Uzi Vishne
   affiliation: Bar-Ilan University, Ramat-Gan, Israel
   role: chair
+- name: Sarah Mason
+  affiliation: Wake Forest University, North Carolina, USA
+- name: Igor Pak
+  affiliation: UCLA, California, USA
+
 
 executive_committee_contact: Nicolas M. Thiéry
 ---
