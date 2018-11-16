@@ -10,23 +10,23 @@ site: http://fpsac2019.fmf.uni-lj.si/
 
 invited_speakers:
 - name: Andrej Bauer
-  affiliation: University of Ljubljana & IMFM
+  affiliation: University of Ljubljana & IMFM, Slovenia
 - name: Alin Bostan
-  affiliation: INRIA
+  affiliation: INRIA, France
 - name: Sandra Di Rocco
-  affiliation: KTH
+  affiliation: KTH, Sweden
 - name: Eric Katz
-  affiliation: The Ohio State University
+  affiliation: The Ohio State University, USA
 - name: Caroline Klivans
-  affiliation: Brown University
+  affiliation: Brown University, USA
 - name: Nataša Pržulj
-  affiliation: University College London
+  affiliation: University College London, UK
 - name: Vic Reiner
-  affiliation: University of Minnesota
+  affiliation: University of Minnesota, USA
 - name: Stephan Wagner
-  affiliation: Stellenbosch University
+  affiliation: Stellenbosch University, South Africa
 - name: Chuanming Zong
-  affiliation: Tianjin University
+  affiliation: Tianjin University, China
 
 
 program_committee:
@@ -35,7 +35,7 @@ program_committee:
   affiliation: University of Washington, Seattle, WA, USA
   role: cochair
 - name: Marko Petkovšek
-  affiliation: University of Ljubljana, Slovenia
+  affiliation: University of Ljubljana & IMFM, Slovenia
   role: cochair
 - name: Günter M. Ziegler
   affiliation: Free University of Berlin, Germany
@@ -92,7 +92,7 @@ program_committee:
 organizing_committee:
 
 - name: Matjaž Konvalinka
-  affiliation: University of Ljubljana, Slovenia
+  affiliation: University of Ljubljana & IMFM, Slovenia
   role: chair
   
 - name: Nicholas Beaton
@@ -100,6 +100,9 @@ organizing_committee:
   
 - name: Roger Behrend
   affiliation: University of Cardiff
+  
+- name: Vesna Iršič
+  affiliation: University of Ljubljana & IMFM, Slovenia 
   
 - name: Joel Lewis 
   affiliation: The George Washington University
@@ -109,6 +112,9 @@ organizing_committee:
   
 - name: Martin Milanič
   affiliation: University of Primorska
+
+- name: Lara Vukšić
+  affiliation: University of Ljubljana & IMFM, Slovenia
   
 - name: Ole Warnaar
   affiliation: The University of Queensland
