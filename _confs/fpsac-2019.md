@@ -71,7 +71,7 @@ program_committee:
 - name: Francisco Santos
   affiliation: University of Cantabria, Santander, Spain
 - name: Jonathan Spreer
-  affiliation: Free University of Berlin, Germany
+  affiliation: (The University of Sydney, Australia
 - name: Einar Steingrímsson
   affiliation: University of Strathclyde, Glasgow, UK
 - name: Armin Straub
@@ -95,24 +95,48 @@ organizing_committee:
   affiliation: University of Ljubljana & IMFM, Slovenia
   role: chair
   
+- name: Luka Avbreht
+  affiliation: University of Ljubljana, Slovenia
+  
 - name: Nicholas Beaton
-  affiliation: University of Melbourne
+  affiliation: University of Melbourne, Australia
   
 - name: Roger Behrend
-  affiliation: University of Cardiff
+  affiliation: University of Cardiff, UK
+  
+- name: Luka Bizjak
+  affiliation: University of Ljubljana, Slovenia
+
+- name: Eva Erzin
+  affiliation: University of Ljubljana, Slovenia
   
 - name: Vesna Iršič
   affiliation: University of Ljubljana & IMFM, Slovenia 
   
+- name: Lara Jerman
+  affiliation: University of Ljubljana, Slovenia
+  
+- name: Samo Kralj
+  affiliation: University of Ljubljana, Slovenia
+  
 - name: Joel Lewis 
   affiliation: The George Washington University
  
+- name: Lidija Magdevska
+  affiliation: University of Ljubljana, Slovenia
+  
 - name: Sarah Mason
   affiliation: Wake Forest University
   
 - name: Martin Milanič
   affiliation: University of Primorska
 
+- name: Jure Slak
+  affiliation: University of Ljubljana & Jožef Stefan Institute, Slovenia
+  
+- name: Tatiana Elisabet Sušnik
+  affiliation: University of Ljubljana, Slovenia
+  
 - name: Lara Vukšić
   affiliation: University of Ljubljana & IMFM, Slovenia
   
