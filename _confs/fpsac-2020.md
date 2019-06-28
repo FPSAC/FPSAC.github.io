@@ -43,6 +43,52 @@ program_committee:
 - name: Michelle Wachs
   affiliation: University of Miami, USA
   role: cochair
+- name: Michael Albert
+  affiliation: University of Otago, New Zealand
+- name: Sami Assaf
+  affiliation: University of Southern California, USA
+- name: Bruno Benedetti
+  affiliation: University of Miami, USA
+- name: Arkady Berenstein
+  affiliation: University of Oregon, USA
+- name: Fabrizio Caselli
+  affiliation: University of Bologna, Italy
+- name: Valentin Féray
+  affiliation: University of Zurich, Switzerland
+- name: Luca Ferrari
+  affiliation: University of Firenze, Italy
+- name: Jason Fulman
+  affiliation: University of Southern California, USA
+- name: Martina Juhnke-Kubitzke
+  affiliation: Osnabrück University, Germany
+- name: Eric Marberg
+  affiliation: HKUST, Hong Kong
+- name: Peter McNamara
+  affiliation: Bucknell University, USA
+- name: Roy Meshulam
+  affiliation: Technion, Israel
+- name: Mikhail Muzychuk
+  affiliation: Ben-Gurion University, Israel
+- name: Nathan Reading
+  affiliation: North Carolina State University, USA
+- name: Martin Rubey
+  affiliation: TU Wien, Austria
+- name: Bruce Sagan
+  affiliation: Michigan State University, USA
+- name: Steven Sam
+  affiliation: UCSD, USA
+- name: Raman Sanyal
+  affiliation: Goethe University Frankfurt, Germany
+- name: Gilles Schaeffer
+  affiliation: CNRS and École Polytechnique, France
+- name: Sheila Sundaram
+  affiliation: Pierrepont School, USA
+- name: Harry Tamvakis
+  affiliation: University of Maryland, USA
+- name: Alek Vainshtein
+  affiliation: University of Haifa, Israel
+- name: Masahiko Yoshinaga
+  affiliation: Hokkaido University, Japan
 
 organizing_committee:
 
