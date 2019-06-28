@@ -32,29 +32,33 @@ invited_speakers:
 program_committee:
 
 - name: Ron Adin
-  affiliation: Bar-Ilan University, Ramat-Gan, Israel
+  affiliation: Bar-Ilan University, Israel
   role: cochair
 - name: Christos Athanasiadis
   affiliation: University of Athens, Greece
   role: cochair
 - name: Yuval Roichman
-  affiliation: Bar-Ilan University, Ramat-Gan, Israel
+  affiliation: Bar-Ilan University, Israel
   role: cochair
 - name: Michelle Wachs
-  affiliation: University of Miami, Florida, USA
+  affiliation: University of Miami, USA
   role: cochair
 
 organizing_committee:
 
 - name: Uzi Vishne
-  affiliation: Bar-Ilan University, Ramat-Gan, Israel
+  affiliation: Bar-Ilan University, Israel
   role: chair
 - name: Jonathan Beck
-  affiliation: Bar-Ilan University, Ramat-Gan, Israel
+  affiliation: Bar-Ilan University, Israel
+- name: Nathan Keller
+  affiliation: Bar-Ilan University, Israel
+- name: Toufik Mansour
+  affiliation: University of Haifa, Israel
 - name: Sarah Mason
-  affiliation: Wake Forest University, North Carolina, USA
+  affiliation: Wake Forest University, USA
 - name: Igor Pak
-  affiliation: UCLA, California, USA
+  affiliation: UCLA, USA
 - name: Nicolas M. Thiéry
   affiliation: Université Paris Sud, France
   role: executive committee liaison
