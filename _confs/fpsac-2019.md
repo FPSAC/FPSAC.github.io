@@ -7,6 +7,10 @@ town: Ljubljana
 country: Slovenia
 dates: July 1--5
 site: http://fpsac2019.fmf.uni-lj.si/
+participants: 248
+countries: 32
+submissions: 162
+financial_support_requests: 109
 
 invited_speakers:
 - name: Andrej Bauer
