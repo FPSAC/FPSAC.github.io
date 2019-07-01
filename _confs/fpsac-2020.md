@@ -32,27 +32,82 @@ invited_speakers:
 program_committee:
 
 - name: Ron Adin
-  affiliation: Bar-Ilan University, Ramat-Gan, Israel
+  affiliation: Bar-Ilan University, Israel
   role: cochair
 - name: Christos Athanasiadis
   affiliation: University of Athens, Greece
   role: cochair
 - name: Yuval Roichman
-  affiliation: Bar-Ilan University, Ramat-Gan, Israel
+  affiliation: Bar-Ilan University, Israel
   role: cochair
 - name: Michelle Wachs
-  affiliation: University of Miami, Florida, USA
+  affiliation: University of Miami, USA
   role: cochair
+- name: Michael Albert
+  affiliation: University of Otago, New Zealand
+- name: Sami Assaf
+  affiliation: University of Southern California, USA
+- name: Bruno Benedetti
+  affiliation: University of Miami, USA
+- name: Arkady Berenstein
+  affiliation: University of Oregon, USA
+- name: Fabrizio Caselli
+  affiliation: University of Bologna, Italy
+- name: Valentin Féray
+  affiliation: University of Zurich, Switzerland
+- name: Luca Ferrari
+  affiliation: University of Firenze, Italy
+- name: Jason Fulman
+  affiliation: University of Southern California, USA
+- name: Martina Juhnke-Kubitzke
+  affiliation: Osnabrück University, Germany
+- name: Eric Marberg
+  affiliation: HKUST, Hong Kong
+- name: Peter McNamara
+  affiliation: Bucknell University, USA
+- name: Roy Meshulam
+  affiliation: Technion, Israel
+- name: Mikhail Muzychuk
+  affiliation: Ben-Gurion University, Israel
+- name: Nathan Reading
+  affiliation: North Carolina State University, USA
+- name: Martin Rubey
+  affiliation: TU Wien, Austria
+- name: Bruce Sagan
+  affiliation: Michigan State University, USA
+- name: Steven Sam
+  affiliation: UCSD, USA
+- name: Raman Sanyal
+  affiliation: Goethe University Frankfurt, Germany
+- name: Gilles Schaeffer
+  affiliation: CNRS and École Polytechnique, France
+- name: Sheila Sundaram
+  affiliation: Pierrepont School, USA
+- name: Harry Tamvakis
+  affiliation: University of Maryland, USA
+- name: Alek Vainshtein
+  affiliation: University of Haifa, Israel
+- name: Masahiko Yoshinaga
+  affiliation: Hokkaido University, Japan
 
 organizing_committee:
 
-- name: Sarah Mason
-  affiliation: Wake Forest University, North Carolina, USA
-- name: Igor Pak
-  affiliation: UCLA, California, USA
 - name: Uzi Vishne
-  affiliation: Bar-Ilan University, Ramat-Gan, Israel
+  affiliation: Bar-Ilan University, Israel
   role: chair
+- name: Jonathan Beck
+  affiliation: Bar-Ilan University, Israel
+- name: Nathan Keller
+  affiliation: Bar-Ilan University, Israel
+- name: Toufik Mansour
+  affiliation: University of Haifa, Israel
+- name: Sarah Mason
+  affiliation: Wake Forest University, USA
+- name: Igor Pak
+  affiliation: UCLA, USA
+- name: Nicolas M. Thiéry
+  affiliation: Université Paris Sud, France
+  role: executive committee liaison
 
 
 executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France

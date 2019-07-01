@@ -2,13 +2,12 @@
 
 ## Summary
 
-The [FPSAC website](http://fpsac.github.io) is hosted as a
+The [FPSAC website](http://fpsac.org/) is hosted as a
 [github page](https://pages.github.com/).
 In short, is built statically from
 plain text files with a wiki like syntax
 ([Markdown](http://en.wikipedia.org/wiki/Markdown)) using
-[Jekyll](http://jekyllrb.com/). It is meant to eventually replace
-[fpsac.org](http://fpsac.org/).
+[Jekyll](http://jekyllrb.com/).
 
 ## Getting started
 
