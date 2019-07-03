@@ -3,6 +3,9 @@ layout: page
 title: Executive Committee
 
 executive_committee:
+  - name: Jang Soo Kim
+    affiliation: Suwon, South Korea
+    url: https://sites.google.com/site/mathjskim/home
   - name: Christian Krattenthaler
     affiliation: Wien, Austria
     url: http://www.mat.univie.ac.at/~kratt/
