@@ -18,7 +18,9 @@ program_committee:
   url:
 
 organizing_committee:
-
+- name: Arvind Ayyer
+  affiliation: Indian Institute of Science
+  role: chair
 - name: Bridget Tenner
   affiliation: DePaul University
   role: executive committee liaison
