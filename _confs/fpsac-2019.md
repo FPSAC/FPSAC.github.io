@@ -7,7 +7,7 @@ town: Ljubljana
 country: Slovenia
 dates: July 1--5
 site: http://fpsac2019.fmf.uni-lj.si/
-poster: poster-2019.png
+poster: poster-2019.jpg
 participants: 248
 countries: 32
 submissions: 162
