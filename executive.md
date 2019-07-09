@@ -12,6 +12,9 @@ executive_committee:
   - name: Jennifer Morse
     affiliation: Philadelphia, USA
     url: http://www.math.drexel.edu/~morsej/
+  - name: Christian Stump
+    affiliation: Bochum, Germany
+    url: https://homepage.rub.de/christian.stump/
   - name: Bridget Tenner
     affiliation: Chicago, USA
     url: http://math.depaul.edu/bridget/
