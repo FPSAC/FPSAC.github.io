@@ -7,6 +7,7 @@ town: Ramat-Gan
 country: Israel
 dates: July 13--17
 site: 
+poster: poster-2019.jpg
 
 invited_speakers:
 
