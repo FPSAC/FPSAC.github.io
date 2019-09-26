@@ -6,7 +6,7 @@ institution: Bar-Ilan University
 town: Ramat-Gan
 country: Israel
 dates: July 13--17
-site: 
+site: https://fpsac2020.math.biu.ac.il/
 poster: poster-2020.jpg
 
 invited_speakers:
