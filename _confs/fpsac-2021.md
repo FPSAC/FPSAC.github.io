@@ -5,13 +5,21 @@ number: 33nd
 institution: Indian Institute of Science
 town: Bangalore
 country: India
-dates: July 5--9 (to be confirmed)
+dates: July 5--9 
 site: 
 
 invited_speakers:
 
 program_committee:
 
+- name: Svante Linusson
+  affiliation: KTH - Royal Institute of Technology, Stockholm
+  role: cochair 
+  url: <https://people.kth.se/~linusson/>
+- name: Ilse Fischer 
+  affiliation: University of Vienna, Austria
+  role: cochair
+  url: <https://www.mat.univie.ac.at/~ifischer/>
 - name:
   affiliation:
   role:
