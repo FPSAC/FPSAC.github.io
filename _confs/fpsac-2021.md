@@ -1,7 +1,7 @@
 ---
 layout: conf
 year: 2021
-number: 33nd
+number: 33rd
 institution: Indian Institute of Science
 town: Bangalore
 country: India
