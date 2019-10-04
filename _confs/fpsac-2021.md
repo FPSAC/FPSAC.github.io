@@ -33,6 +33,9 @@ organizing_committee:
 - name: Amritanshu Prasad
   affiliation: The Institute of Mathematical Sciences, Chennai
   url: https://www.imsc.res.in/%7eamri/
+- name: S. Viswanath 
+  affiliation: The Institute of Mathematical Sciences, Chennai
+  url: https://www.imsc.res.in/%7esvis/
 - name: Venkatesh Rajendran
   affiliation: Indian Institute of Science, Bangalore
   url: http://math.iisc.ac.in/%7ervenkat/
@@ -52,5 +55,8 @@ organizing_committee:
   affiliation: DePaul University
   role: executive committee liaison
   url: https://math.depaul.edu/bridget/
+- name:
+  affiliation:
+  url:
 
 ---
