@@ -30,6 +30,8 @@ organizing_committee:
   affiliation: Indian Institute of Science
   role: chair
   url: http://www.math.iisc.ernet.in/%7earvind/
+- name: Amritanshu Prasad
+  affiliation: The Institute of Mathematical Sciences, Chennai
 - name: Bridget Tenner
   affiliation: DePaul University
   role: executive committee liaison
