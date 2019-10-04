@@ -19,7 +19,7 @@ program_committee:
 - name: Ilse Fischer 
   affiliation: University of Vienna, Austria
   role: cochair
-  url: <https://www.mat.univie.ac.at/%7eifischer/>
+  url: https://www.mat.univie.ac.at/%7eifischer/
 - name:
   affiliation:
   role:
@@ -29,8 +29,10 @@ organizing_committee:
 - name: Arvind Ayyer
   affiliation: Indian Institute of Science
   role: chair
+  url: http://www.math.iisc.ernet.in/%7earvind/
 - name: Bridget Tenner
   affiliation: DePaul University
   role: executive committee liaison
+  url: https://math.depaul.edu/bridget/
 
 ---
