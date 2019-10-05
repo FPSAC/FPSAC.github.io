@@ -27,7 +27,7 @@ program_committee:
 
 organizing_committee:
 - name: Arvind Ayyer
-  affiliation: Indian Institute of Science
+  affiliation: Indian Institute of Science, Bangalore
   role: chair
   url: http://www.math.iisc.ernet.in/%7earvind/
 - name: Amritanshu Prasad
@@ -51,6 +51,9 @@ organizing_committee:
 - name: Narayanan N.
   affiliation: Indian Institute of Technology, Madras
   url: https://home.iitm.ac.in/naru/
+- name: Gaurav Bhatnagar
+  affiliation: University of Vienna, Austria
+  url: https://www.gbhatnagar.com/
 - name: Bridget Tenner
   affiliation: DePaul University
   role: executive committee liaison
