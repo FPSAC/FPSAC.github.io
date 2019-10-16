@@ -52,7 +52,7 @@ organizing_committee:
   affiliation: Indian Institute of Technology, Madras
   url: https://home.iitm.ac.in/naru/
 - name: Gaurav Bhatnagar
-  affiliation: University of Vienna, Austria
+  affiliation: Jawaharlal Nehru University, Delhi
   url: https://www.gbhatnagar.com/
 - name: Bridget Tenner
   affiliation: DePaul University
