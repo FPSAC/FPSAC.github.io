@@ -96,6 +96,8 @@ organizing_committee:
 - name: Uzi Vishne
   affiliation: Bar-Ilan University, Israel
   role: chair
+- name: Eli Bagno
+  affiliation: Jerusalem College of Technology, Israel
 - name: Jonathan Beck
   affiliation: Bar-Ilan University, Israel
 - name: Nathan Keller
