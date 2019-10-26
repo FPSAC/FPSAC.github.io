@@ -30,15 +30,24 @@ organizing_committee:
   affiliation: Indian Institute of Science, Bangalore
   role: chair
   url: http://www.math.iisc.ernet.in/%7earvind/
-- name: Amritanshu Prasad
-  affiliation: The Institute of Mathematical Sciences, Chennai
-  url: https://www.imsc.res.in/%7eamri/
-- name: S. Viswanath 
-  affiliation: The Institute of Mathematical Sciences, Chennai
-  url: https://www.imsc.res.in/%7esvis/
+- name: Basudeb Datta
+  affiliation: Indian Institute of Science, Bangalore
+  url: http://math.iisc.ac.in/%7edattab/
 - name: Venkatesh Rajendran
   affiliation: Indian Institute of Science, Bangalore
   url: http://math.iisc.ac.in/%7ervenkat/
+- name: Pooja Singla
+  affiliation: Indian Institute of Science, Bangalore
+  url: https://sites.google.com/site/poojasingla7/Home
+- name: Amritanshu Prasad
+  affiliation: The Institute of Mathematical Sciences, Chennai
+  url: https://www.imsc.res.in/%7eamri/
+- name: K. N. Raghavan
+  affiliation: The Institute of Mathematical Sciences, Chennai
+  url: https://www.imsc.res.in/%7eknr/
+- name: S. Viswanath 
+  affiliation: The Institute of Mathematical Sciences, Chennai
+  url: https://www.imsc.res.in/%7esvis/
 - name: Atul Dixit
   affiliation: Indian Institute of Technology, Gandhinagar
   url: http://people.iitgn.ac.in/%7eadixit/
