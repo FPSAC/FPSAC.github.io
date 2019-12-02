@@ -63,10 +63,17 @@ organizing_committee:
 - name: Gaurav Bhatnagar
   affiliation: Jawaharlal Nehru University, Delhi
   url: https://www.gbhatnagar.com/
+- name: Gyula O. H. Katona
+  affiliation: Hungarian Academy of Sciences
+  url: https://www.renyi.hu/%7eohkatona/
 - name: Bridget Tenner
   affiliation: DePaul University
   role: executive committee liaison
   url: https://math.depaul.edu/bridget/
+- name: Nathan Williams
+  affiliation: University of Texas at Dallas
+  role: funding coordinator
+  url: https://personal.utdallas.edu/%7enxw170830/
 - name:
   affiliation:
   url:
