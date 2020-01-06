@@ -6,7 +6,7 @@ institution: Bar-Ilan University
 town: Ramat-Gan
 country: Israel
 dates: July 13--17
-site: 
+site: https://fpsac2020.math.biu.ac.il/
 poster: poster-2020.jpg
 
 invited_speakers:
@@ -96,6 +96,8 @@ organizing_committee:
 - name: Uzi Vishne
   affiliation: Bar-Ilan University, Israel
   role: chair
+- name: Eli Bagno
+  affiliation: Jerusalem College of Technology, Israel
 - name: Jonathan Beck
   affiliation: Bar-Ilan University, Israel
 - name: Nathan Keller
