@@ -2,12 +2,13 @@
 layout: conf
 year: 2012
 number: 24th
-institution: 
+institution: Nagoya University
 town: Nagoya
 country: Japan
 dates: July 30 - August 3
 site: http://www.math.nagoya-u.ac.jp/fpsac12/
 icon: Japan.gif
+poster: poster-2012.jpg
 participants: 192
 proceedings:
   title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AR
