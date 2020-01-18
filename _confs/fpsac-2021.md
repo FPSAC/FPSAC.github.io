@@ -20,28 +20,52 @@ program_committee:
   affiliation: University of Vienna, Austria
   role: cochair
   url: https://www.mat.univie.ac.at/%7eifischer/
+- name: Basudeb Datta
+  affiliation: Indian Institute of Science, Bangalore
+  url: http://math.iisc.ac.in/%7edattab/
+- name: Amritanshu Prasad
+  affiliation: The Institute of Mathematical Sciences, Chennai
+  url: https://www.imsc.res.in/%7eamri/
+- name: Jeremie Bouttier
+  affiliation: CEA Saclay, France
+  url: https://www.ipht.fr/en/Pisp/jeremie.bouttier/index_en.php
+- name: Sunil Chhita
+  affiliation: Durham University
+  url: https://community.dur.ac.uk/sunil.chhita/
+- name: Diane Maclagan
+  affiliation: University of Warwick
+  url: https://homepages.warwick.ac.uk/staff/D.Maclagan/
+- name: Steven Klee
+  affiliation: Seattle University 
+  url: http://fac-staff.seattleu.edu/klees/web/
+- name: Philippe Nadeau
+  affiliation: Universit&eacute; Lyon 1
+  url: http://math.univ-lyon1.fr/%7enadeau/
+- name: &Eacute;ric Fusy
+  affiliation: Ecole Polytechnique
+  url: http://www.lix.polytechnique.fr/Labo/Eric.Fusy/
 - name:
   affiliation:
-  role:
   url:
+- name:
+  affiliation:
+  url:
+- name:
+  affiliation:
+  url:
+  
 
 organizing_committee:
 - name: Arvind Ayyer
   affiliation: Indian Institute of Science, Bangalore
   role: chair
   url: http://www.math.iisc.ernet.in/%7earvind/
-- name: Basudeb Datta
-  affiliation: Indian Institute of Science, Bangalore
-  url: http://math.iisc.ac.in/%7edattab/
 - name: Venkatesh Rajendran
   affiliation: Indian Institute of Science, Bangalore
   url: http://math.iisc.ac.in/%7ervenkat/
 - name: Pooja Singla
   affiliation: Indian Institute of Science, Bangalore
   url: https://sites.google.com/site/poojasingla7/Home
-- name: Amritanshu Prasad
-  affiliation: The Institute of Mathematical Sciences, Chennai
-  url: https://www.imsc.res.in/%7eamri/
 - name: K. N. Raghavan
   affiliation: The Institute of Mathematical Sciences, Chennai
   url: https://www.imsc.res.in/%7eknr/
