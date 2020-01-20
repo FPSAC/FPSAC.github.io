@@ -17,7 +17,7 @@ program_committee:
   role: cochair 
   url: https://people.kth.se/%7elinusson/
 - name: Ilse Fischer 
-  affiliation: University of Vienna, Austria
+  affiliation: University of Vienna
   role: cochair
   url: https://www.mat.univie.ac.at/%7eifischer/
 - name: Jean-Christophe Aval 
@@ -27,7 +27,7 @@ program_committee:
   affiliation: Western Washington University
   url: http://faculty.wwu.edu/%7ebergeta/
 - name: Jeremie Bouttier
-  affiliation: CEA Saclay, France
+  affiliation: CEA Saclay
   url: https://www.ipht.fr/en/Pisp/jeremie.bouttier/index_en.php
 - name: Cesar Ceballos
   affiliation: University of Vienna
@@ -66,7 +66,7 @@ program_committee:
   affiliation: Université de Marne-la-Vallée
   url: http://igm.univ-mlv.fr/%7ejosuatv/
 - name: Jang Soo Kim
-  affiliation: Sungkyunkwan University, South Korea
+  affiliation: Sungkyunkwan University
   url: https://sites.google.com/site/mathjskim/
 - name: Steven Klee
   affiliation: Seattle University 
