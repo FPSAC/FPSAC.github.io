@@ -104,12 +104,12 @@ program_committee:
 - name: Philippe di Francesco
   affiliation: University of Illinois at Urbana-Champaign
   url: https://faculty.math.illinois.edu/%7ephilippe/
-- name: 
-  affiliation: 
-  url: 
-- name: 
-  affiliation: 
-  url: 
+- name: Sylvie Corteel
+  affiliation: University of California Berkeley
+  url: https://math.berkeley.edu/%7ecorteel/
+- name: Rafael S. González D'León
+  affiliation: Universidad Sergio Arboleda
+  url: http://dleon.combinatoria.co/
 - name: 
   affiliation: 
   url: 
