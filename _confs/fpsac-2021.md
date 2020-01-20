@@ -39,11 +39,62 @@ program_committee:
   affiliation: Seattle University 
   url: http://fac-staff.seattleu.edu/klees/web/
 - name: Philippe Nadeau
-  affiliation: Universit&eacute; Lyon 1
+  affiliation: Université Lyon 1
   url: http://math.univ-lyon1.fr/%7enadeau/
 - name: Éric Fusy
   affiliation: Ecole Polytechnique
   url: http://www.lix.polytechnique.fr/Labo/Eric.Fusy/
+- name: Armin Straub
+  affiliation: University of South Alabama
+  url: http://arminstraub.com/
+- name: Jang Soo Kim
+  affiliation: Sungkyunkwan University, South Korea
+  url: https://sites.google.com/site/mathjskim/
+- name: Christoph Koutschan
+  affiliation: RICAM, Austria
+  url: http://www.koutschan.de/
+- name: Eran Nevo
+  affiliation: Hebrew University
+  url: http://math.huji.ac.il/%7enevo/
+- name: Matthieu Josuat-Vergès
+  affiliation: Université de Marne-la-Vallée
+  url: http://igm.univ-mlv.fr/%7ejosuatv/
+- name: Guillaume Chapuy
+  affiliation: Université Paris 7
+  url: https://www.irif.fr/%7echapuy/
+- name: Andrew Berget
+  affiliation: Western Washington University
+  url: http://faculty.wwu.edu/%7ebergeta/
+- name: Michael Schlosser
+  affiliation: University of Vienna
+  url: https://www.mat.univie.ac.at/%7eschlosse/
+- name: Hannah Markwig
+  affiliation: Universität Tübingen
+  url: https://www.math.uni-tuebingen.de/user/hannah/
+- name: Jean-Christophe Aval 
+  affiliation: Université de Bordeaux
+  url: https://www.labri.fr/perso/aval/
+- name: Vasu Tewari
+  affiliation: University of Pennsylvania
+  url: https://www.math.upenn.edu/%7evvtewari/
+- name: Jehanne Dousse
+  affiliation: Université Lyon 1
+  url: http://math.univ-lyon1.fr/%7edousse/
+- name: Alejandro Morales
+  affiliation: University of Massachusetts, Amherst
+  url: https://sites.google.com/view/ahmorales/
+- name: 
+  affiliation: 
+  url: 
+- name: 
+  affiliation: 
+  url: 
+- name: 
+  affiliation: 
+  url: 
+- name: 
+  affiliation: 
+  url: 
 
 organizing_committee:
 - name: Arvind Ayyer
