@@ -44,16 +44,6 @@ program_committee:
 - name: Éric Fusy
   affiliation: Ecole Polytechnique
   url: http://www.lix.polytechnique.fr/Labo/Eric.Fusy/
-- name:
-  affiliation:
-  url:
-- name:
-  affiliation:
-  url:
-- name:
-  affiliation:
-  url:
-  
 
 organizing_committee:
 - name: Arvind Ayyer
@@ -98,8 +88,5 @@ organizing_committee:
   affiliation: University of Texas at Dallas
   role: funding coordinator
   url: https://personal.utdallas.edu/%7enxw170830/
-- name:
-  affiliation:
-  url:
 
 ---
