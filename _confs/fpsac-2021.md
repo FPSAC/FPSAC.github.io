@@ -83,9 +83,27 @@ program_committee:
 - name: Alejandro Morales
   affiliation: University of Massachusetts, Amherst
   url: https://sites.google.com/view/ahmorales/
-- name: 
-  affiliation: 
-  url: 
+- name: Viviane Pons
+  affiliation: Université Paris-Sud
+  url: https://www.lri.fr/%7epons/en/
+- name: Mark Dukes
+  affiliation: University College Dublin
+  url: https://maths.ucd.ie/%7edukes/
+- name: Cesar Ceballos
+  affiliation: University of Vienna
+  url: https://www.mat.univie.ac.at/%7ecesar/
+- name: Soichi Okada
+  affiliation: Nagoya University
+  url: https://www.math.nagoya-u.ac.jp/en/people/download/faculty/okada_soichi_en.pdf
+- name: Jia Huang
+  affiliation: University of Nebraska Kearney
+  url: http://www.unk.edu/academics/math/faculty-staff/dr-jia-huang.php
+- name: Jiang Zeng
+  affiliation: Université Lyon 1
+  url: http://math.univ-lyon1.fr/%7ezeng/
+- name: Philippe di Francesco
+  affiliation: University of Illinois at Urbana-Champaign
+  url: https://faculty.math.illinois.edu/%7ephilippe/
 - name: 
   affiliation: 
   url: 
