@@ -85,7 +85,7 @@ limited. It can be more comfortable to work locally on one's computer.
 
 Install ruby; on Ubuntu:
 
-    apt install ruby-dev
+    apt install ruby-dev ruby-bundler
 
 Clone this repository, and go inside. Install jekyll and dependencies:
 
