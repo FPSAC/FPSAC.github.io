@@ -41,7 +41,7 @@ program_committee:
 - name: Philippe Nadeau
   affiliation: Universit&eacute; Lyon 1
   url: http://math.univ-lyon1.fr/%7enadeau/
-- name: &Eacute;ric Fusy
+- name: Éric Fusy
   affiliation: Ecole Polytechnique
   url: http://www.lix.polytechnique.fr/Labo/Eric.Fusy/
 - name:
