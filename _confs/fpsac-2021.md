@@ -33,7 +33,7 @@ program_committee:
   affiliation: University of Vienna
   url: https://www.mat.univie.ac.at/%7ecesar/
 - name: Guillaume Chapuy
-  affiliation: Université Paris 7
+  affiliation: Université de Paris
   url: https://www.irif.fr/%7echapuy/
 - name: Sunil Chhita
   affiliation: Durham University
@@ -63,8 +63,8 @@ program_committee:
   affiliation: University of Nebraska Kearney
   url: http://www.unk.edu/academics/math/faculty-staff/dr-jia-huang.php
 - name: Matthieu Josuat-Vergès
-  affiliation: Université de Marne-la-Vallée
-  url: http://igm.univ-mlv.fr/%7ejosuatv/
+  affiliation: Université de Paris
+  url: https://www.irif.fr/%7ejosuat/
 - name: Jang Soo Kim
   affiliation: Sungkyunkwan University
   url: https://sites.google.com/site/mathjskim/
