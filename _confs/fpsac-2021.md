@@ -21,7 +21,7 @@ program_committee:
   role: cochair
   url: https://www.mat.univie.ac.at/%7eifischer/
 - name: Jean-Christophe Aval 
-  affiliation: Université de Bordeaux
+  affiliation: CNRS, Université de Bordeaux
   url: https://www.labri.fr/perso/aval/
 - name: Andrew Berget
   affiliation: Western Washington University
