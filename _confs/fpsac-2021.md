@@ -27,7 +27,7 @@ program_committee:
   affiliation: Western Washington University
   url: http://faculty.wwu.edu/%7ebergeta/
 - name: Jeremie Bouttier
-  affiliation: CEA Saclay
+  affiliation: CEA Saclay and ENS de Lyon
   url: https://www.ipht.fr/en/Pisp/jeremie.bouttier/index_en.php
 - name: Cesar Ceballos
   affiliation: University of Vienna
