@@ -23,10 +23,10 @@ Algébrique), running since 1988. [Read more...](about)
   {% assign current_year  = current_year  | plus:0 %}
   {% assign current_month = "now" | date: "%-m" %}
   {% assign current_month = current_month | plus:0 %}
-  A{{ current_year}}B{{current_month}}
   {% if current_year >= 2000 %}
-    {% for conf in site.confs %}
+    A{{ current_year}}B{{current_month}}
   {% endif %}
+  {% for conf in site.confs %}
     {% if conf.year >= 2020 %}
       <li>{% include fpsac.html conf=conf %}:
         {{conf.town}} ({{conf.country}}){% if conf.dates %}, {{conf.dates}} {% endif %}
