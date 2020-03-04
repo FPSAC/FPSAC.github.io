@@ -22,9 +22,9 @@ Algébrique), running since 1988. [Read more...](about)
   {% assign current_year  = "now" | date: "%Y" | convert: "int" %}
   {% assign current_month = "now" | date: "%-m" | convert: "int" %}
   {% for conf in site.confs %}
-    {% if conf.year >= 2020 %}
+    {% if conf.year >= current_year %}
       <li>{% include fpsac.html conf=conf %}:
-        {{conf.town}} ({{conf.country}}), (A{{ current_year}}, B{{current_month}})
+        {{conf.town}} ({{conf.country}}), (C{{ current_year}}, B{{current_month}})
         {% if conf.dates %} {{conf.dates}} {% endif %}
       </li>
     {% endif %}
