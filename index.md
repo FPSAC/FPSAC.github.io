@@ -20,11 +20,11 @@ Algébrique), running since 1988. [Read more...](about)
 
 <ul>
   {% assign current_year  = "now" | date: "%Y" %}
-  {% assign current_month = "now" | date: "%m" %}
+  {% assign current_month = "now" | date: "%M" %}
   {% for conf in site.confs %}
     {% if conf.year >= site.year %}
       <li>{% include fpsac.html conf=conf %}:
-        {{conf.town}} ({{conf.country}}) (C{{ current_year }} D{{ current_month }}),
+        {{conf.town}} ({{conf.country}}) (C{{ current_year }} E{{ current_month }}),
         {% if conf.dates %} {{conf.dates}} {% endif %}
       </li>
     {% endif %}
