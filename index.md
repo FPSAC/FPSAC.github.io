@@ -24,7 +24,7 @@ Algébrique), running since 1988. [Read more...](about)
   {% for conf in site.confs %}
     {% if conf.year >= current_year %}
       <li>{% include fpsac.html conf=conf %}:
-        {{conf.town}} ({{conf.country}}) (C{{ current_year }} F{{ current_month >= 1 }}),
+        {{conf.town}} ({{conf.country}}),
         {% if conf.dates %} {{conf.dates}} {% endif %}
       </li>
     {% endif %}
