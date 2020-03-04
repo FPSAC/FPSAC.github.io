@@ -19,12 +19,12 @@ Algébrique), running since 1988. [Read more...](about)
 ## Upcoming conferences
 
 <ul>
-  {% assign current_year  = "now" | date: "%Y" %}
-  {% assign current_month = "now" | date: "%m" %}
+  {% assign current_year  = "now" | date: "%Y" | convert: "int" %}
+  {% assign current_month = "now" | date: "%-m" | convert: "int" %}
   {% for conf in site.confs %}
-    {% if conf.year >= current_year %}
+    {% if conf.year >= 2020 %}
       <li>{% include fpsac.html conf=conf %}:
-        {{conf.town}} ({{conf.country}}),
+        {{conf.town}} ({{conf.country}}), (A{{ current_year}}, B{{current_month}})
         {% if conf.dates %} {{conf.dates}} {% endif %}
       </li>
     {% endif %}
