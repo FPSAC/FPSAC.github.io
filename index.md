@@ -26,9 +26,11 @@ Algébrique), running since 1988. [Read more...](about)
 <ul>
   {% for conf in site.confs %}
     {% if conf.year >= current_year %}
-      <li>{% include fpsac.html conf=conf %}:
-        {{conf.town}} ({{conf.country}}){% if conf.dates %}, {{conf.dates}} {% endif %}
-      </li>
+      {% unless conf.year == current_year and current_month >= 8 %}
+          <li>{% include fpsac.html conf=conf %}:
+            {{conf.town}} ({{conf.country}}){% if conf.dates %}, {{conf.dates}} {% endif %}
+          </li>
+      {% endunless %}
     {% endif %}
   {% endfor %}
 </ul>

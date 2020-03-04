@@ -13,9 +13,11 @@ title: Conferences
 <ul>
   {% for conf in site.confs reversed %}
     {% if conf.year >= current_year %}
-      <li>{% include fpsac.html conf=conf %}: {{conf.town}} ({{conf.country}}),
-        {% if conf.dates %} {{conf.dates}} {% endif %}
-      </li>
+      {% unless conf.year == current_year and current_month >= 8 %}
+          <li>{% include fpsac.html conf=conf %}: {{conf.town}} ({{conf.country}}),
+            {% if conf.dates %} {{conf.dates}} {% endif %}
+          </li>
+      {% endunless %}
     {% endif %}
   {% endfor %}
 </ul>
@@ -24,11 +26,13 @@ title: Conferences
 
 <ul>
   {% for conf in site.confs reversed %}
-    {% if conf.year < current_year %}
-      <li>{% include fpsac.html conf=conf %}:
-        {{conf.town}} ({{conf.country}}),
-        {% if conf.dates %} {{conf.dates}} {% endif %}
-      </li>
+    {% if conf.year <= current_year %}
+      {% unless conf.year == current_year and current_month <= 7 %}
+          <li>{% include fpsac.html conf=conf %}:
+            {{conf.town}} ({{conf.country}}),
+            {% if conf.dates %} {{conf.dates}} {% endif %}
+          </li>
+      {% endunless %}
     {% endif %}
   {% endfor %}
 </ul>
