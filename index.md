@@ -20,7 +20,7 @@ Algébrique), running since 1988. [Read more...](about)
 
 <ul>
   {% for conf in site.confs %}
-    {% if conf.year >= site.year %}
+    {% if conf.year >= 2020 %}
       <li>{% include fpsac.html conf=conf %}:
         {{conf.town}} ({{conf.country}}),
         {% if conf.dates %} {{conf.dates}} {% endif %}
