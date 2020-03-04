@@ -24,7 +24,9 @@ Algébrique), running since 1988. [Read more...](about)
   {% assign current_month = "now" | date: "%-m" %}
   {% assign current_month = current_month | plus:0 %}
   A{{ current_year}}B{{current_month}}
-  {% for conf in site.confs %}
+  {% if current_year >= 2000 %}
+    {% for conf in site.confs %}
+  {% endif %}
     {% if conf.year >= 2020 %}
       <li>{% include fpsac.html conf=conf %}:
         {{conf.town}} ({{conf.country}})
