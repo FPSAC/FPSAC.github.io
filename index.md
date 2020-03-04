@@ -29,8 +29,7 @@ Algébrique), running since 1988. [Read more...](about)
   {% endif %}
     {% if conf.year >= 2020 %}
       <li>{% include fpsac.html conf=conf %}:
-        {{conf.town}} ({{conf.country}})
-        {% if conf.dates %}, {{conf.dates}} {% endif %}
+        {{conf.town}} ({{conf.country}}){% if conf.dates %}, {{conf.dates}} {% endif %}
       </li>
     {% endif %}
   {% endfor %}
