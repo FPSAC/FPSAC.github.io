@@ -23,7 +23,7 @@ Algébrique), running since 1988. [Read more...](about)
   {% for conf in site.confs %}
     {% if conf.year >= site.year %}
       <li>{% include fpsac.html conf=conf %}:
-        {{conf.town}} ({{conf.country}}) (A{{ current_year}}),
+        {{conf.town}} ({{conf.country}}) (B{{ current_year}}),
         {% if conf.dates %} {{conf.dates}} {% endif %}
       </li>
     {% endif %}
