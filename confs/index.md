@@ -5,9 +5,14 @@ title: Conferences
 
 ## Upcoming conferences
 
+{% assign current_year  = "now" | date: "%Y" %}
+{% assign current_year  = current_year  | plus:0 %}
+{% assign current_month = "now" | date: "%-m" %}
+{% assign current_month = current_month | plus:0 %}
+
 <ul>
   {% for conf in site.confs reversed %}
-    {% if conf.year >= site.year %}
+    {% if conf.year >= current_year %}
       <li>{% include fpsac.html conf=conf %}: {{conf.town}} ({{conf.country}}),
         {% if conf.dates %} {{conf.dates}} {% endif %}
       </li>
@@ -19,7 +24,7 @@ title: Conferences
 
 <ul>
   {% for conf in site.confs reversed %}
-    {% if conf.year < site.year %}
+    {% if conf.year < current_year %}
       <li>{% include fpsac.html conf=conf %}:
         {{conf.town}} ({{conf.country}}),
         {% if conf.dates %} {{conf.dates}} {% endif %}
