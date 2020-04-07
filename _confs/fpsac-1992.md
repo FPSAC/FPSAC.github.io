@@ -31,18 +31,18 @@ invited_speakers:
 program_committee:
 - name:   Maylis Delest
   affiliation: Bordeaux, France
-- name:   Gérard Duchamp
+- name:   G&eacute;rard Duchamp
   affiliation: Rouen, France
 - name:   Philippe Flajolet
   affiliation: Rocquencourt, France
 - name:   G. Hahn
-  affiliation: Montréal, Canada
+  affiliation: Montr&eacute;al, Canada
 - name:   D. Jackson
   affiliation: Waterloo, Canada
 - name:   C. Lam
   affiliation: Concordia, Canada
 - name:   Pierre Leroux
-  affiliation: Montréal, Canada
+  affiliation: Montr&eacute;al, Canada
   role: chair
 - name:   Christophe Reutenauer
   affiliation: LACIM, Canada
@@ -53,7 +53,7 @@ program_committee:
   affiliation: Paris, France
 - name:   Richard P. Stanley
   affiliation: Boston, USA
-- name:   Denis Thérien
+- name:   Denis Th&eacute;rien
   affiliation: McGill, Canada
 - name:   Doron Zeilberger
   affiliation: Philadelphia, USA
@@ -77,4 +77,5 @@ organizing_committee:
 ---
 # Papers
 
-- <A HREF="articles.html">Liste des confé;rences</A>
+- <A HREF="http://lacim.uqam.ca/en/les-parutions/">Hosted at UQaM website</A>
+- <A HREF="articles.html">Liste des conf&eacute;rences</A>
