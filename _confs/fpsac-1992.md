@@ -8,7 +8,8 @@ country: Canada
 dates: June 15 - 19
 participants: 201
 
-proceedings: <a href="http://lacim.uqam.ca/wp-content/uploads/Publications/11.pdf">publications of LaCIM</a>
+proceedings:
+- <A HREF="http://lacim.uqam.ca/wp-content/uploads/Publications/11.pdf">publications of LaCIM</A>
 
 invited_speakers:
 - name:   Jean Berstel
