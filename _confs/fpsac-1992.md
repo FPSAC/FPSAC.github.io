@@ -7,9 +7,9 @@ town: Montréal
 country: Canada
 dates: June 15 - 19
 participants: 201
-
 proceedings:
-- <A HREF="http://lacim.uqam.ca/wp-content/uploads/Publications/11.pdf">publications of LaCIM</A>
+  title: publications of LaCIM
+  url: http://lacim.uqam.ca/wp-content/uploads/Publications/11.pdf
 
 invited_speakers:
 - name:   Jean Berstel
