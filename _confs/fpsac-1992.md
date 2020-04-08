@@ -80,4 +80,4 @@ organizing_committee:
 ---
 # Papers
 
-- <A HREF="articles.html">Liste des conf&eacute;rences</A>
+<!-- <A HREF="articles.html">Liste des conf&eacute;rences</A> !-->
