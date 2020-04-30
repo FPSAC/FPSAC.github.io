@@ -3,8 +3,9 @@ layout: post
 title: Virtual presentation of talks and posters of accepted submissions
 ---
 
-Out of the ??? submissions, the program committee selected ??? talks
-and ??? posters for presentation at the conference.
+Recognizing the fine work resulting in so many great submissions,
+and the completion of the refereeing and selection process,
+**this is a call for volunteers and proposals.**
 
 Regrettably, because of the COVID-19 pandemic, it is not possible for
 FPSAC to take place physically in Israel in 2020. After discussions
@@ -18,8 +19,6 @@ will be postponed to this future edition.
 Many of you may wonder about holding FPSAC'20 online in some virtual
 form: presenters have been looking forward to showing their work through
 talks and posters, and the community is eager to see them.
-
-**This is a call for volunteers and proposals.**
 
 We have a creative community, and many of you have gained technical
 and social experience in online activities. We are looking for members
