@@ -40,7 +40,7 @@ given the option to withdraw their submission if they do not wish it
 to be published in SLC. Online participation will be optional.
 
 
-The very tight timeline is:
+**The very tight timeline is:**
 
 **May 8**: Deadline for expressing interest in techical support of the project and for
 submissions of initial written ideas for presentations.
