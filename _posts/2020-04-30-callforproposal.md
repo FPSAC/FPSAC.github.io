@@ -5,7 +5,7 @@ title: Virtual presentation of talks and posters of accepted submissions
 
 Recognizing the fine work resulting in so many great submissions,
 and the completion of the refereeing and selection process,
-**this is a call for volunteers and proposals.**
+**this is a call for volunteers and proposals** for presenting this work online.
 
 Regrettably, because of the COVID-19 pandemic, it is not possible for
 FPSAC to take place physically in Israel in 2020. After discussions
