@@ -21,7 +21,7 @@ invited_speakers:
   affiliation: USA
 - name:  D. Jackson
   affiliation: Canada
-- name:  Gill Kalai
+- name:  Gil Kalai
   affiliation: Israel
 - name:  Sergei Kerov
   affiliation: Russia
