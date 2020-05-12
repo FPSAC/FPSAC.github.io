@@ -5,9 +5,9 @@ number: 32nd
 institution: Bar-Ilan University
 town: Ramat-Gan
 country: Israel
-dates: July 13--17
+dates: July 13--17 2020<br><span style="color:red">Physical meeting at Bar-Ilan University is cancelled.</span><br> There will be a <strong>virtual FPSAC</strong> taking place July 6 - July 24
 site: https://fpsac2020.math.biu.ac.il/
-poster: poster-2020.jpg
+poster: 
 
 invited_speakers:
 
