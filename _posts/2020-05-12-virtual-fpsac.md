@@ -8,7 +8,7 @@ The organizing committees for all three years kindly agreed to shift the venues 
 Together with the current program committee and the executive committee, they agreed on the following plan:
 
 * **FPSAC 2020 Online, July 6 - July 24:** The submitters of the accepted talks and posters will be asked to present their work at a virtual FPSAC meeting.
-  Within these three weeks we will have three sessions per week on **Mondays**, **Wednesdays** and **Fridays**. The exact timing is to be determined, but we are targeting 6am UTC, 2pm UTC, and 10pm UTC in order to accommodate a global audiance. 
+  Within these three weeks we will have three sessions per week on **Mondays**, **Wednesdays** and **Fridays**. The exact timing is to be determined, but we are targeting 6am UTC, 2pm UTC, and 10pm UTC in order to accommodate a global audience. 
 
   Details will be announced on a newly installed website soon.
 
