@@ -6,9 +6,6 @@ executive_committee:
   - name: Jang Soo Kim
     affiliation: Suwon, South Korea
     url: https://sites.google.com/site/mathjskim/home
-  - name: Christian Krattenthaler
-    affiliation: Wien, Austria
-    url: http://www.mat.univie.ac.at/~kratt/
   - name: Jennifer Morse
     affiliation: Philadelphia, USA
     url: http://www.math.drexel.edu/~morsej/
@@ -43,6 +40,9 @@ executive_committee_former:
     url: http://www.i3s.unice.fr/~fedou/
   - name: Alain Goupil
     affiliation: Trois Rivières, Canada
+  - name: Christian Krattenthaler
+    affiliation: Wien, Austria
+    url: http://www.mat.univie.ac.at/~kratt/
   - name: Daniel Krob
     affiliation: Paris, France
     url: http://www.lix.polytechnique.fr/~dk/
