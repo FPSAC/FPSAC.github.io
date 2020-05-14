@@ -32,12 +32,27 @@ invited_speakers:
 
 program_committee:
 
+- name: Francesco Brenti
+  affiliation:  Università di Roma "Tor Vergata"
+  role: cochair
+
+- name: Sylvie Corteel
+  affiliation: University of California Berkeley
+  role: cochair
+
+- name: Roy Meshulam
+  affiliation: Israel Institute of Technology
+  role: cochair
+
+- name: Dan Romik
+  affiliation: University of California Davis
+  role: cochair
+
 organizing_committee:
 
 - name: Nicolas M. Thiéry
   affiliation: Université Paris Sud, France
   role: executive committee liaison
-
 
 executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France
 ---
