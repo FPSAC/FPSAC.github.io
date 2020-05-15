@@ -17,6 +17,8 @@ add_info: This conference was originally planned to be held July 13--17 2020 at
   There will be an <strong>online FPSAC</strong> where the submitters of the accepted talks and posters have the chance to present their work.
   <strong>Details will be announced soon.</strong>
 
+
+
 invited_speakers:
 
 
@@ -83,25 +85,51 @@ program_committee:
 
 organizing_committee:
 
-- name: Uzi Vishne
-  affiliation: Bar-Ilan University, Israel
+- name: Alejandro Morales
+  affiliation: University of Massachusetts Amherst, USA
   role: chair
-- name: Eli Bagno
-  affiliation: Jerusalem College of Technology, Israel
-- name: Jonathan Beck
-  affiliation: Bar-Ilan University, Israel
-- name: Nathan Keller
-  affiliation: Bar-Ilan University, Israel
-- name: Toufik Mansour
-  affiliation: University of Haifa, Israel
-- name: Sarah Mason
-  affiliation: Wake Forest University, USA
-- name: Igor Pak
-  affiliation: UCLA, USA
+
+- name: Dan Betea
+  affiliation: KU Leuven, Belgium
+
+- name: Sara Billey
+  affiliation: University of Washington, USA
+
+- name: Angela Carnevale
+  affiliation: National University of Ireland, Galway, Ireland
+
+- name: Laura Colmenarejo
+  affiliation: University of Massachusetts Amherst, USA
+
+- name: Christian Gaetz
+  affiliation: MIT, USA
+
+- name: Sean Griffin
+  affiliation: University of Washington, USA
+
+- name: Helen Jenne
+  affiliation: University of Oregon, USA
+
+- name: Matjaž Konvalinka
+  affiliation: University of Ljubljana & IMFM, Ljubljana, Slovenia
+
+- name: Jang Soo Kim
+  affiliation: Sungkyunkwan University, South Korea
+  role: executive committee liaison
+
 - name: Nicolas M. Thiéry
   affiliation: Université Paris Sud, France
   role: executive committee liaison
 
+- name: <strong>Original organizing committee</strong> was<br>
+    Uzi Vishne (<strong>chair</strong>, Bar-Ilan University, Israel)<br>
+    Eli Bagno (Jerusalem College of Technology, Israel)<br>
+    Jonathan Beck (Bar-Ilan University, Israel)<br>
+    Nathan Keller (Bar-Ilan University, Israel)<br>
+    Toufik Mansour (University of Haifa, Israel)<br>
+    Sarah Mason (Wake Forest University, USA)<br>
+    Igor Pak (UCLA, USA)<br>
+    Nicolas M. Thiéry (<strong>executive committee liaison</strong>, Université Paris Sud, France)
 
 executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France
 ---
