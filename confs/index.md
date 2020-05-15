@@ -14,8 +14,9 @@ title: Conferences
   {% for conf in site.confs reversed %}
     {% if conf.year >= current_year %}
       {% unless conf.year == current_year and current_month >= 8 %}
-          <li>{% include fpsac.html conf=conf %}: {{conf.town}} ({{conf.country}}),
+          <li>{% include fpsac.html conf=conf %}: {{conf.town}} {% if conf.country %} ({{conf.country}}){% endif %},
             {% if conf.dates %} {{conf.dates}} {% endif %}
+            {% if conf.add_info_short %}<br><span style="color:red">{{conf.add_info_short}}</span>{% endif %}
           </li>
       {% endunless %}
     {% endif %}
