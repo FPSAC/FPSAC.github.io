@@ -2,33 +2,23 @@
 layout: conf
 year: 2020
 number: 32nd
-institution: Bar-Ilan University
-town: Ramat-Gan
-country: Israel
-dates: July 13--17 2020<br><span style="color:red">Physical meeting at Bar-Ilan University is cancelled.</span><br> There will be a <strong>virtual FPSAC</strong> taking place July 6 - July 24
-site: https://fpsac2020.math.biu.ac.il/
+institution:
+town: Virtual meeting
+country:
+dates: July 6 -- 24
 poster: 
+
+add_info_short: Physical meeting in Ramat-Gan, Israel is cancelled!
+
+add_info: This conference was originally planned to be held July 13--17 2020 at
+  Bar-Ilan University, Ramat-Gan, Israel. <strong>The Coronavirus pandemic force us to cancel the physical meeting at Bar-Ilan University</strong>, details may be found <a href="https://fpsac2020.math.biu.ac.il">here</a>.
+  Bar-Ilan University will host FPSAC 2021 and all invited speakers agreed to give their presentation there.<br><br>
+  Recognizing the fine work resulting in so many great submissions, and the completion of the refereeing and selection process, Conference Proceedings will be published as planned.<br><br>
+  There will be an <strong>online FPSAC</strong> where the submitters of the accepted talks and posters have the chance to present their work.
+  <strong>Details will be announced soon.</strong>
 
 invited_speakers:
 
-- name: Noga Alon
-  affiliation: Tel-Aviv University and Princeton University
-- name: Arvind Ayyer
-  affiliation: Indian Institute of Science
-- name: Karin Baur
-  affiliation: University of Graz
-- name: Anna de Mier
-  affiliation: Technical University of Catalonia
-- name: Alex Lubotzky
-  affiliation: Hebrew University of Jerusalem
-- name: Stuart Margolis
-  affiliation: Bar-Ilan University
-- name: Karola Mészáros
-  affiliation: Cornell University
-- name: John Shareshian
-  affiliation: Washington University in St. Louis
-- name: Richard Stanley
-  affiliation: MIT and University of Miami 
 
 program_committee:
 
