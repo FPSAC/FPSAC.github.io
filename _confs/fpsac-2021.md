@@ -50,6 +50,18 @@ program_committee:
 
 organizing_committee:
 
+- name: Ron Adin
+  affiliation: Bar-Ilan University, Israel
+  role: cochair
+
+- name: Yuval Roichman
+  affiliation: Bar-Ilan University, Israel
+  role: cochair
+
+- name: Uzi Vishne
+  affiliation: Bar-Ilan University, Israel
+  role: cochair
+
 - name: Nicolas M. Thiéry
   affiliation: Université Paris Sud, France
   role: executive committee liaison
