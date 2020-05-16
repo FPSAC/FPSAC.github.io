@@ -17,11 +17,6 @@ add_info: This conference was originally planned to be held July 13--17 2020 at
   There will be an <strong>online FPSAC</strong> where the submitters of the accepted talks and posters have the chance to present their work.
   <strong>Details will be announced soon.</strong>
 
-
-
-invited_speakers:
-
-
 program_committee:
 
 - name: Ron Adin
@@ -121,15 +116,17 @@ organizing_committee:
   affiliation: Université Paris Sud, France
   role: executive committee liaison
 
-- name: <strong>Original organizing committee</strong> was<br>
-    Uzi Vishne (<strong>chair</strong>, Bar-Ilan University, Israel)<br>
-    Eli Bagno (Jerusalem College of Technology, Israel)<br>
-    Jonathan Beck (Bar-Ilan University, Israel)<br>
-    Nathan Keller (Bar-Ilan University, Israel)<br>
-    Toufik Mansour (University of Haifa, Israel)<br>
-    Sarah Mason (Wake Forest University, USA)<br>
-    Igor Pak (UCLA, USA)<br>
-    Nicolas M. Thiéry (<strong>executive committee liaison</strong>, Université Paris Sud, France)
-
 executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France
 ---
+
+<h2>Original organizing committee</strong><h2>
+
+- Uzi Vishne (**chair**, Bar-Ilan University, Israel)
+- Eli Bagno (Jerusalem College of Technology, Israel)
+- Jonathan Beck (Bar-Ilan University, Israel)
+- Nathan Keller (Bar-Ilan University, Israel)
+- Toufik Mansour (University of Haifa, Israel)
+- Sarah Mason (Wake Forest University, USA)
+- Igor Pak (UCLA, USA)
+- Nicolas M. Thiéry (**executive committee liaison**, Université Paris Sud, France)
+
