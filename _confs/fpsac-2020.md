@@ -119,7 +119,7 @@ organizing_committee:
 executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France
 ---
 
-<h2>Original organizing committee</strong><h2>
+## Original organizing committee
 
 - Uzi Vishne (**chair**, Bar-Ilan University, Israel)
 - Eli Bagno (Jerusalem College of Technology, Israel)
