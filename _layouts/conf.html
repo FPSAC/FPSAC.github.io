@@ -72,9 +72,10 @@ layout: default
 
   {% include chair_list.html persons=page.organizing_committee %}
 
+  {% if page.invited_speakers %}
   <h2>Invited speakers</h2>
-
   {% include person_list.html persons=page.invited_speakers %}
+  {% endif %}
 
   {%if page.best_student_paper %}
     <h2>Best student paper</h2>
