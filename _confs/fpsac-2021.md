@@ -66,5 +66,9 @@ organizing_committee:
   affiliation: Université Paris Sud, France
   role: executive committee liaison
 
+- name: Sarah Mason
+  affiliation: Wake Forest University, USA
+  role: funding coordinator
+
 executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France
 ---

@@ -3,7 +3,7 @@ layout: conf
 year: 2020
 number: 32nd
 institution:
-town: Virtual meeting
+town: Online
 country:
 dates: July 6 -- 24
 poster: 
@@ -14,8 +14,8 @@ add_info: This conference was originally planned to be held July 13--17 2020 at
   Bar-Ilan University, Ramat-Gan, Israel. <strong>The Coronavirus pandemic force us to cancel the physical meeting at Bar-Ilan University</strong>, details may be found <a href="https://fpsac2020.math.biu.ac.il">here</a>.
   Bar-Ilan University will host FPSAC 2021 and all invited speakers agreed to give their presentation there.<br><br>
   Recognizing the fine work resulting in so many great submissions, and the completion of the refereeing and selection process, Conference Proceedings will be published as planned.<br><br>
-  There will be an <strong>online FPSAC</strong> where the submitters of the accepted talks and posters have the chance to present their work.
-  <strong>Details will be announced soon.</strong>
+  There will be an <strong>online FPSAC</strong> where the submitters of the accepted talks and posters have the chance to present their work.<br><br>
+  <h2><a href="https://sites.google.com/view/fpsac2020online/home">Website of FPSAC 2020 online</a></h2>
 
 program_committee:
 
