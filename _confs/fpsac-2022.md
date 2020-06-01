@@ -5,7 +5,7 @@ number: 34th
 institution: Indian Institute of Science
 town: Bangalore
 country: India
-dates: July 18--22 2022
+dates: July 18-22
 site: 
 
 invited_speakers:
