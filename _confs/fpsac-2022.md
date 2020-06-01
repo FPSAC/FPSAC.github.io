@@ -14,83 +14,6 @@ invited_speakers:
 
 program_committee:
 
-organizing_committee:
-- name: Arvind Ayyer
-  affiliation: Indian Institute of Science, Bangalore
-  role: chair
-  url: http://www.math.iisc.ernet.in/%7earvind/
-- name: Venkatesh Rajendran
-  affiliation: Indian Institute of Science, Bangalore
-  url: http://math.iisc.ac.in/%7ervenkat/
-- name: Pooja Singla
-  affiliation: Indian Institute of Science, Bangalore
-  url: https://sites.google.com/site/poojasingla7/Home
-- name: K. N. Raghavan
-  affiliation: The Institute of Mathematical Sciences, Chennai
-  url: https://www.imsc.res.in/%7eknr/
-- name: S. Viswanath 
-  affiliation: The Institute of Mathematical Sciences, Chennai
-  url: https://www.imsc.res.in/%7esvis/
-- name: Atul Dixit
-  affiliation: Indian Institute of Technology, Gandhinagar
-  url: http://people.iitgn.ac.in/%7eadixit/
-- name: Madhusudan Manjunath
-  affiliation: Indian Institute of Technology, Bombay
-  url: https://madhumath.wordpress.com/2016/05/06/homepage-madhusudan-manjunath/
-- name: Sivaramakrishnan Sivasubramanian
-  affiliation: Indian Institute of Technology, Bombay
-  url: http://www.math.iitb.ac.in/%7ekrishnan/
-- name: Narayanan N.
-  affiliation: Indian Institute of Technology, Madras
-  url: https://home.iitm.ac.in/naru/
-- name: Gaurav Bhatnagar
-  affiliation: Jawaharlal Nehru University, Delhi
-  url: https://www.gbhatnagar.com/
-- name: Gyula O. H. Katona
-  affiliation: Hungarian Academy of Sciences
-  url: https://www.renyi.hu/%7eohkatona/
-- name: Bridget Tenner
-  affiliation: DePaul University
-  role: executive committee liaison
-  url: https://math.depaul.edu/bridget/
-- name: Nathan Williams
-  affiliation: University of Texas at Dallas
-  role: funding coordinator
-  url: https://personal.utdallas.edu/%7enxw170830/
-
-
----
-
-<!--
-
-- name: Omer Angel
-  affiliation: University of British Columbia
-  url: https://www.math.ubc.ca/%7eangel/
-- name: Sen-Peng Eu
-  affiliation: National Taiwan Normal University
-  url: http://math.ntnu.edu.tw/%7espeu/
-- name: Apoorva Khare
-  affiliation: Indian Institute of Science
-  url: http://math.iisc.ac.in/%7ekhare/
-- name: Anton Mellit
-  affiliation: University of Vienna
-  url: https://www.mellit.org/
-- name: Piotr Śniady
-  affiliation: Polish Academy of Sciences
-  url: https://psniady.impan.pl/
-- name: Anne Thomas
-  affiliation: University of Sydney
-  url: https://www.maths.usyd.edu.au/u/athomas/
-- name: Hugh Thomas
-  affiliation: Université du Québec à Montréal
-  url: http://www.lacim.uqam.ca/~hugh/
-- name: Rekha Thomas
-  affiliation: University of Washington 
-  url: https://sites.math.washington.edu/%7ethomas/
-- name: Cynthia Vinzant
-  affiliation: North Carolina State University
-  url: https://clvinzan.math.ncsu.edu/
-
 - name: Svante Linusson
   affiliation: KTH - Royal Institute of Technology, Stockholm
   role: cochair 
@@ -109,7 +32,7 @@ organizing_committee:
   affiliation: CEA Saclay and ENS de Lyon
   url: https://www.ipht.fr/en/Pisp/jeremie.bouttier/index_en.php
 - name: Cesar Ceballos
-  affiliation: University of Vienna
+  affiliation: TU Graz
   url: https://www.mat.univie.ac.at/%7ecesar/
 - name: Guillaume Chapuy
   affiliation: Université de Paris
@@ -189,5 +112,84 @@ organizing_committee:
 - name: Jiang Zeng
   affiliation: Université Lyon 1
   url: http://math.univ-lyon1.fr/%7ezeng/
+
+
+
+organizing_committee:
+- name: Arvind Ayyer
+  affiliation: Indian Institute of Science, Bangalore
+  role: chair
+  url: http://www.math.iisc.ernet.in/%7earvind/
+- name: Venkatesh Rajendran
+  affiliation: Indian Institute of Science, Bangalore
+  url: http://math.iisc.ac.in/%7ervenkat/
+- name: Pooja Singla
+  affiliation: Indian Institute of Science, Bangalore
+  url: https://sites.google.com/site/poojasingla7/Home
+- name: K. N. Raghavan
+  affiliation: The Institute of Mathematical Sciences, Chennai
+  url: https://www.imsc.res.in/%7eknr/
+- name: S. Viswanath 
+  affiliation: The Institute of Mathematical Sciences, Chennai
+  url: https://www.imsc.res.in/%7esvis/
+- name: Atul Dixit
+  affiliation: Indian Institute of Technology, Gandhinagar
+  url: http://people.iitgn.ac.in/%7eadixit/
+- name: Madhusudan Manjunath
+  affiliation: Indian Institute of Technology, Bombay
+  url: https://madhumath.wordpress.com/2016/05/06/homepage-madhusudan-manjunath/
+- name: Sivaramakrishnan Sivasubramanian
+  affiliation: Indian Institute of Technology, Bombay
+  url: http://www.math.iitb.ac.in/%7ekrishnan/
+- name: Narayanan N.
+  affiliation: Indian Institute of Technology, Madras
+  url: https://home.iitm.ac.in/naru/
+- name: Gaurav Bhatnagar
+  affiliation: Jawaharlal Nehru University, Delhi
+  url: https://www.gbhatnagar.com/
+- name: Gyula O. H. Katona
+  affiliation: Hungarian Academy of Sciences
+  url: https://www.renyi.hu/%7eohkatona/
+- name: Bridget Tenner
+  affiliation: DePaul University
+  role: executive committee liaison
+  url: https://math.depaul.edu/bridget/
+- name: Nathan Williams
+  affiliation: University of Texas at Dallas
+  role: funding coordinator
+  url: https://personal.utdallas.edu/%7enxw170830/
+
+
+---
+
+<!--
+
+- name: Omer Angel
+  affiliation: University of British Columbia
+  url: https://www.math.ubc.ca/%7eangel/
+- name: Sen-Peng Eu
+  affiliation: National Taiwan Normal University
+  url: http://math.ntnu.edu.tw/%7espeu/
+- name: Apoorva Khare
+  affiliation: Indian Institute of Science
+  url: http://math.iisc.ac.in/%7ekhare/
+- name: Anton Mellit
+  affiliation: University of Vienna
+  url: https://www.mellit.org/
+- name: Piotr Śniady
+  affiliation: Polish Academy of Sciences
+  url: https://psniady.impan.pl/
+- name: Anne Thomas
+  affiliation: University of Sydney
+  url: https://www.maths.usyd.edu.au/u/athomas/
+- name: Hugh Thomas
+  affiliation: Université du Québec à Montréal
+  url: http://www.lacim.uqam.ca/~hugh/
+- name: Rekha Thomas
+  affiliation: University of Washington 
+  url: https://sites.math.washington.edu/%7ethomas/
+- name: Cynthia Vinzant
+  affiliation: North Carolina State University
+  url: https://clvinzan.math.ncsu.edu/
 
 -->
