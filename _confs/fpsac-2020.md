@@ -6,7 +6,7 @@ institution:
 town: Online
 country:
 dates: July 6 -- 24
-poster: 
+poster: poster-2020.jpg
 
 add_info_short: Physical meeting in Ramat-Gan, Israel is cancelled!
 
