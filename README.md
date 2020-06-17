@@ -28,6 +28,14 @@ Sources of the conference descriptions:
 
 - [_confs/](_confs/)
 
+- [public](public): folder contains
+
+  - favicon
+  - css folder
+  - posters of conferences
+  - thumbnail folder for the posters
+    the thumbnails are built from the main directory using `make thumbnails`
+
 ## Main design goals
 
 - Easy collaborative edition by the FPSAC executive committee. This
