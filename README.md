@@ -33,8 +33,7 @@ Sources of the conference descriptions:
   - favicon
   - css folder
   - posters of conferences
-  - thumbnail folder for the posters
-    the thumbnails are built from the main directory using `make thumbnails`
+  - thumbnail folder for the posters (these are built from the main directory using `make thumbnails`)
 
 ## Main design goals
 
