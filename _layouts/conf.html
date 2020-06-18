@@ -5,8 +5,8 @@ layout: default
 <div class="page">
 
   {% if page.poster %}
-    <a href="{{ page.site }}">
-      <img class="sideicon" src="{{site.baseurl}}/public/thumbnails/{{page.poster}}" alt="icon">
+    <a href="{{site.baseurl}}/public/{{page.poster}}">
+      <img class="sideicon" src="{{site.baseurl}}/public/thumbnails/{{page.poster | split: "." | first}}.jpg" alt="icon">
     </a>
   {% endif %}
 

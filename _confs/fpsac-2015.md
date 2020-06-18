@@ -7,7 +7,7 @@ town: Daejeon
 country: South Korea
 dates: July 6 - 10
 site: http://fpsac.combinatorics.kr/
-poster: poster-2015.jpg
+poster: poster-2015.pdf
 
 proceedings:
   title: Discrete Mathematics and Theoretical Computer Science Proceedings

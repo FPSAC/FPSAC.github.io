@@ -7,7 +7,7 @@ town: Dartmouth College, Hanover
 country: USA
 dates: July 16--20
 site: http://2018.fpsac.org
-poster: poster-2018.jpg
+poster: poster-2018.pdf
 participants: 230
 submissions: 140
 invited_talks: 9

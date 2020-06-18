@@ -43,7 +43,7 @@ Algébrique), running since 1988. [Read more...](about)
 <div>
 {% for conf in site.confs reversed %}
   {% if conf.poster %}
-    <a href="{{ conf.url }}"><img class="posterarray" src="{{site.baseurl}}/public/thumbnails/{{conf.poster}}" alt="icon"></a>
+    <a href="{{ conf.url }}"><img class="posterarray" src="{{site.baseurl}}/public/thumbnails/{{conf.poster | split: "." | first}}.jpg" alt="icon"></a>
   {% endif %}
 {% endfor %}
 </div>
