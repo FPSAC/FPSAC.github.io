@@ -48,6 +48,93 @@ program_committee:
   affiliation: University of California Davis
   role: cochair
 
+- name: Marie Albenque
+  affiliation: CNRS
+
+- name: Margaret Bayer
+  affiliation: University of Kansas
+
+- name: Alin Bostan
+  affiliation: INRIA
+
+- name: Erik Carlsson
+  affiliation: University of California, Davis
+
+- name: Angela Carnevale
+  affiliation: National University of Ireland, Galway
+
+- name: Bill Chen
+  affiliation: Nankai University, Tianjin University
+
+- name: Richard Ehrenborg
+  affiliation: University of Kentucky
+
+- name: Sergi Elizalde
+  affiliation: Dartmouth
+
+- name: Jan De Gier
+  affiliation: University of Melbourne
+
+- name: Axel Hultman
+  affiliation: Linköping University
+
+- name: Matjaz Konvalinka
+  affiliation: University of Ljubljana
+
+- name: Martina Lanini
+  affiliation: Università di Roma Tor Vergata
+
+- name: Luc Lapointe
+  affiliation: Universidad de Talca
+
+- name: Fu Liu
+  affiliation: University of California, Davis
+
+- name: Olya Mandelshtam
+  affiliation: Brown University
+
+- name: Mario Marietti
+  affiliation: Università Politecnica delle Marche
+
+- name: Sarah Mason
+  affiliation: Wake Forest University
+
+- name: Satoshi Murai
+  affiliation: Waseda University
+
+- name: Isabella Novik
+  affiliation: University of Washington
+
+- name: Leonid Petrov
+  affiliation: University of Virginia
+
+- name: Pavlo Pylyavskyy
+  affiliation: University of Minnesota
+
+- name: Margaret Readdy
+  affiliation: University of Kentucky
+
+- name: Brendon Rhoades
+  affiliation: University of California, San Diego
+
+- name: Felipe Rincon
+  affiliation: Queen Mary University of London
+
+- name: Piotr Sniady
+  affiliation: Polish Academy of Sciences
+
+- name: Volkmar Welker
+  affiliation: Philipps-Universität Marburg
+
+- name: Catherine Yan
+  affiliation: Texas A&M University
+
+- name: Meesue Yoo
+  affiliation: Chungbuk National University
+
+- name: Ben Young
+  affiliation: University of Oregon
+
 organizing_committee:
 
 - name: Ron Adin

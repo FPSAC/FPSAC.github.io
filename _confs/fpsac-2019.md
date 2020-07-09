@@ -15,6 +15,7 @@ demos: 6
 financial_support_requests: 109
 
 invited_speakers:
+
 - name: Andrej Bauer
   affiliation: University of Ljubljana & IMFM, Slovenia
 - name: Alin Bostan
