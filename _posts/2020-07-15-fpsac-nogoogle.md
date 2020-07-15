@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FPSAC 2020 Online: participating without using Google
+title: "FPSAC 2020 Online: participating without using Google"
 ---
 
 For those of you wishing to participate in FPSAC 2020 Online without using
