@@ -6,7 +6,7 @@ institution: Bar-Ilan University
 town: Ramat-Gan
 country: Israel
 dates: July 5--9
-site: https://fpsac2020.math.biu.ac.il/
+site: https://fpsac2021.math.biu.ac.il/
 poster: 
 
 invited_speakers:
@@ -16,7 +16,7 @@ invited_speakers:
 - name: Arvind Ayyer
   affiliation: Indian Institute of Science
 - name: Karin Baur
-  affiliation: University of Graz
+  affiliation: University of Graz and University of Leeds
 - name: Anna de Mier
   affiliation: Technical University of Catalonia
 - name: Alex Lubotzky
@@ -46,6 +46,10 @@ program_committee:
 
 - name: Dan Romik
   affiliation: University of California Davis
+  role: cochair
+
+- name: Rosa Orellana
+  affiliation: Dartmouth College
   role: cochair
 
 - name: Marie Albenque
