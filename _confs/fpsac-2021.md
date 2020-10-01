@@ -44,12 +44,12 @@ program_committee:
   affiliation: Israel Institute of Technology
   role: cochair
 
-- name: Dan Romik
-  affiliation: University of California Davis
-  role: cochair
-
 - name: Rosa Orellana
   affiliation: Dartmouth College
+  role: cochair
+
+- name: Dan Romik
+  affiliation: University of California Davis
   role: cochair
 
 - name: Marie Albenque
@@ -153,13 +153,16 @@ organizing_committee:
   affiliation: Bar-Ilan University, Israel
   role: cochair
 
-- name: Nicolas M. Thiéry
-  affiliation: Université Paris Sud, France
-  role: executive committee liaison
+- name: Jonathan Beck
+  affiliation: Bar-Ilan University, Israel
 
 - name: Sarah Mason
   affiliation: Wake Forest University, USA
   role: funding coordinator
+
+- name: Nicolas M. Thiéry
+  affiliation: Université Paris Sud, France
+  role: executive committee liaison
 
 executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France
 ---
