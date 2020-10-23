@@ -39,20 +39,17 @@ layout: default
 
   {%if page.add_info %}
     <br><br>
-    <div>
     {{ page.add_info }}
-    </div><br>
   {% endif %}
 
   {%if page.site %}
-  <h2>Website: {%if page.site %}
+  <h2>Website:
         <a href="{{ page.site }}">hosted at {{page.town}}</a> 
          {% comment %} and {% endcomment %}
-      {% endif %}
       {% comment %} <a href="http://fpsac.org/FPSAC{{ page.year }}/fpsac{{ page.year }}.html">local copy</a> {% endcomment %}
   </h2>
   {% else %}
-        <br>
+  <br>
   {% endif %}
 
   {% if page.proceedings %}
@@ -61,6 +58,9 @@ layout: default
       {{ page.proceedings.title }}
       {% if page.proceedings.url %}</a>{% endif %}
     </h2>
+    {% if page.proceedings.editors %}
+    <strong>Editor:</strong> {{ page.proceedings.editors }}
+    {% endif %}
   {% endif %}
 
   <h2>Chairs of the program committee</h2>

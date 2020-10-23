@@ -10,8 +10,9 @@ site: http://2017.fpsac.org
 poster: poster-2017.jpg
 participants: 217
 proceedings:
-  title: Séminaire Lotharingien de Combinatoire, vol.78B
-  url: http://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/
+  title: SLC vol. 78B
+  url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/
+  editors: Nicolas Beaton
 
 best_student_paper:
 - name: Gaku Liu

@@ -8,6 +8,10 @@ country: USA
 dates: July 16--20
 site: http://2018.fpsac.org
 poster: poster-2018.pdf
+proceedings:
+  title: SLC vol. 80B
+  url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2018/
+  editors: Apoorva Khare
 participants: 230
 submissions: 140
 invited_talks: 9
