@@ -8,9 +8,11 @@ country: Canada
 dates: July 4 - 8
 site: https://sites.google.com/site/fpsac2016/
 poster: poster-2016.jpg
+
 proceedings:
   title: hosted on Sciencesconf.org
   url: https://fpsac2016.sciencesconf.org/
+  editors: Vincent Pilaud
 
 best_student_paper:
 - name: Maria Gillespie

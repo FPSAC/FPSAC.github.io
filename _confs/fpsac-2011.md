@@ -8,9 +8,11 @@ country: Iceland
 dates: June 13 - 17
 site: http://combinatorics.cis.strath.ac.uk/fpsac2011/
 participants: 205
+
 proceedings:
-  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AO
+  title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/260
+  editors: Anders Claesson
 
 best_student_paper:
 - name: Greta Panova

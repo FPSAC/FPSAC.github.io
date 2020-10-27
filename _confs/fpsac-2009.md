@@ -9,9 +9,11 @@ dates: July 20 - 24
 site: http://www.risc.uni-linz.ac.at/about/conferences/fpsac2009/
 icon: Austria.gif
 participants: 198
+
 proceedings:
-  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AK
+  title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/256
+  editors: Manuel Kauers
 
 best_student_paper:
 - name: Guillaume Chapuy

@@ -16,7 +16,7 @@ proceedings:
 
 best_student_paper:
 - name: Gaku Liu
-  affiliation: Massachusetts Institute of Technology
+  affiliation: Massachusetts Institute of Technology, USA
 
 invited_speakers:
 - name: Drew Armstrong

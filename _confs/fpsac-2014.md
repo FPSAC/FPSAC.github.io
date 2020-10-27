@@ -13,9 +13,11 @@ obituary: 1
 # 28
 talks: 5+9+3+5+6
 demos: 1
+
 proceedings:
-  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AT
+  title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/265
+  editors: Caroline Klivans
 
 best_student_paper:
 - name: Austin Roberts

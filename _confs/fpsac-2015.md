@@ -10,8 +10,9 @@ site: http://fpsac.combinatorics.kr/
 poster: poster-2015.pdf
 
 proceedings:
-  title: Discrete Mathematics and Theoretical Computer Science Proceedings
+  title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/285
+  editors: Jang Soo Kim and Jae-Hoon Kwon
 
 best_student_paper:
 - name: Masaki Watanabe

@@ -9,9 +9,11 @@ dates: June 23 - 27
 site: http://inst-mat.utalca.cl/fpsac2008/
 icon: Chile.gif
 participants: 130
+
 proceedings:
-  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AJ
+  title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/255
+  editors: Luc Lapointe
 
 best_student_paper:
 - name: Valentin Féray
