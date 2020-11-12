@@ -36,10 +36,6 @@ program_committee:
   affiliation:  Università di Roma "Tor Vergata"
   role: cochair
 
-- name: Sylvie Corteel
-  affiliation: University of California Berkeley
-  role: cochair
-
 - name: Roy Meshulam
   affiliation: Israel Institute of Technology
   role: cochair
