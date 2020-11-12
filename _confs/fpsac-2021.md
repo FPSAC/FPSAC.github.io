@@ -150,7 +150,7 @@ organizing_committee:
   role: cochair
 
 - name: Eli Bagno
-  affiliation: Jerusalem college of technology, Israel
+  affiliation: Jerusalem College of Technology, Israel
 
 - name: Tomer Bauer
   affiliation: Bar-Ilan University, Israel
