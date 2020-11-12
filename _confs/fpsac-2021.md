@@ -149,6 +149,12 @@ organizing_committee:
   affiliation: Bar-Ilan University, Israel
   role: cochair
 
+- name: Eli Bagno
+  affiliation: Jerusalem college of technology, Israel
+
+- name: Tomer Bauer
+  affiliation: Bar-Ilan University, Israel
+
 - name: Jonathan Beck
   affiliation: Bar-Ilan University, Israel
 
