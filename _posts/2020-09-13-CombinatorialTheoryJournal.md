@@ -4,7 +4,7 @@ title: "Combinatorial Theory: a new mathematician-owned and fully open access jo
 ---
 
 I am writing to inform you of an exciting development: a new journal,
-Combinatorial Theory <http://math.sfsu.edu/beck/ct>, which is
+Combinatorial Theory <https://www.combinatorial-theory.org>, which is
 mathematician-owned, and fully open access, with no charges for
 authors or readers.
 
