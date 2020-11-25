@@ -6,7 +6,12 @@ institution:
 town: Online
 country:
 dates: July 6 -- 24
+site: https://sites.google.com/view/fpsac2020online/home
 poster: poster-2020.jpg
+proceedings:
+  title: SLC vol. 84B
+  url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2020/
+  editors: Eli Bagno and Olya Mandelshtam
 
 add_info_short: Physical meeting in Ramat-Gan, Israel is cancelled!
 
@@ -15,7 +20,6 @@ add_info: This conference was originally planned to be held July 13--17 2020 at
   Bar-Ilan University will host FPSAC 2021 and all invited speakers agreed to give their presentation there.<br><br>
   Recognizing the fine work resulting in so many great submissions, and the completion of the refereeing and selection process, Conference Proceedings will be published as planned.<br><br>
   There will be an <strong>online FPSAC</strong> where the submitters of the accepted talks and posters have the chance to present their work.<br><br>
-  <h2><a href="https://sites.google.com/view/fpsac2020online/home">Website of FPSAC 2020 online</a></h2>
 
 program_committee:
 
@@ -31,6 +35,7 @@ program_committee:
 - name: Michelle Wachs
   affiliation: University of Miami, USA
   role: cochair
+
 - name: Michael Albert
   affiliation: University of Otago, New Zealand
 - name: Sami Assaf

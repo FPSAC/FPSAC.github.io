@@ -36,20 +36,16 @@ program_committee:
   affiliation:  Università di Roma "Tor Vergata"
   role: cochair
 
-- name: Sylvie Corteel
-  affiliation: University of California Berkeley
-  role: cochair
-
 - name: Roy Meshulam
   affiliation: Israel Institute of Technology
   role: cochair
 
-- name: Dan Romik
-  affiliation: University of California Davis
-  role: cochair
-
 - name: Rosa Orellana
   affiliation: Dartmouth College
+  role: cochair
+
+- name: Dan Romik
+  affiliation: University of California Davis
   role: cochair
 
 - name: Marie Albenque
@@ -153,13 +149,22 @@ organizing_committee:
   affiliation: Bar-Ilan University, Israel
   role: cochair
 
-- name: Nicolas M. Thiéry
-  affiliation: Université Paris Sud, France
-  role: executive committee liaison
+- name: Eli Bagno
+  affiliation: Jerusalem College of Technology, Israel
+
+- name: Tomer Bauer
+  affiliation: Bar-Ilan University, Israel
+
+- name: Jonathan Beck
+  affiliation: Bar-Ilan University, Israel
 
 - name: Sarah Mason
   affiliation: Wake Forest University, USA
   role: funding coordinator
+
+- name: Nicolas M. Thiéry
+  affiliation: Université Paris Sud, France
+  role: executive committee liaison
 
 executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France
 ---

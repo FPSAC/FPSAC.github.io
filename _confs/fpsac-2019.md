@@ -8,6 +8,10 @@ country: Slovenia
 dates: July 1--5
 site: http://fpsac2019.fmf.uni-lj.si/
 poster: poster-2019.pdf
+proceedings:
+  title: SLC vol. 82B
+  url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/
+  editors: Nicholas Beaton
 participants: 248
 countries: 32
 submissions: 162
@@ -34,7 +38,6 @@ invited_speakers:
   affiliation: Stellenbosch University, South Africa
 - name: Chuanming Zong
   affiliation: Tianjin University, China
-
 
 program_committee:
 

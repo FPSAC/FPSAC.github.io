@@ -10,9 +10,11 @@ site: http://www.math.nagoya-u.ac.jp/fpsac12/
 icon: Japan.gif
 poster: poster-2012.pdf
 participants: 192
+
 proceedings:
-  title: Discrete Mathematics and Theoretical Computer Science Proceedings, vol. AR
+  title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/263
+  editors: Masao Ishikawa, Sho Matsumoto and Hiroshi Mizukawa
 
 best_student_paper:
 - name: Joel Lewis
