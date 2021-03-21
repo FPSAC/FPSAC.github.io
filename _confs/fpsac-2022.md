@@ -162,6 +162,8 @@ organizing_committee:
 
 ---
 
+This is a satellite conference of <a href="https://icm2022.org/">ICM 2022</a>.
+
 <!--
 
 - name: Omer Angel
