@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FPSAC '21 -- an update
+title: an update on FPSAC 2021
 ---
 
 Dear colleagues and friends of FPSAC,
