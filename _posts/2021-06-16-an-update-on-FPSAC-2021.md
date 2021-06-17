@@ -3,6 +3,16 @@ layout: post
 title: an update on FPSAC 2021
 ---
 
+UPDATE June 16, 2021:
+
+The dates of the FPSAC '21 conference are
+* Physical component: Monday-Thursday, January 10-13, 2022, at Bar Ilan University
+* Virtual component: starting Monday, January 17, 2022.
+
+Conference website: https://fpsac2021.math.biu.ac.il/ 
+
+ANNOUNCMENT on April 30, 2021:
+
 Dear colleagues and friends of FPSAC,
 
 Due to the worldwide pandemic and its consistent but unexpected influence on flights, we are forced to announce that FPSAC '21 will NOT take place as a physical meeting on July 5-9, 2021.
