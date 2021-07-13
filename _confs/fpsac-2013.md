@@ -3,7 +3,7 @@ layout: conf
 year: 2013
 number: 25th
 institution: LIAFA
-url: http://www.liafa.univ-paris-diderot.fr/
+url: https://www.irif.fr/~chapuy/Archives/fpsac13/
 town: Paris
 country: France
 dates: June 24 - 28
