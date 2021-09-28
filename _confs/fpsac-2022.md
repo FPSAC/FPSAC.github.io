@@ -149,7 +149,7 @@ organizing_committee:
   role: chair
   url: http://www.math.iisc.ernet.in/%7earvind/
 - name: Gaurav Bhatnagar
-  affiliation: Jawaharlal Nehru University, Delhi
+  affiliation: Ashoka University, Delhi
   url: https://www.gbhatnagar.com/
 - name: Atul Dixit
   affiliation: Indian Institute of Technology, Gandhinagar
