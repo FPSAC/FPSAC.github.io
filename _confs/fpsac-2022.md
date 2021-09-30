@@ -35,8 +35,8 @@ invited_speakers:
   affiliation: University of Washington 
   url: https://sites.math.washington.edu/%7ethomas/
 - name: Cynthia Vinzant
-  affiliation: North Carolina State University
-  url: https://clvinzan.math.ncsu.edu/
+  affiliation: University of Washington
+  url: http://sites.math.washington.edu/~vinzant/
 
 
 
@@ -136,7 +136,7 @@ program_committee:
   url: http://arminstraub.com/
 - name: Vasu Tewari
   affiliation: University of Pennsylvania
-  url: https://www.math.upenn.edu/%7evvtewari/
+  url: https://math.hawaii.edu/%7evvtewari/
 - name: Jiang Zeng
   affiliation: Université Lyon 1
   url: http://math.univ-lyon1.fr/%7ezeng/
