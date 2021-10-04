@@ -6,7 +6,7 @@ institution: Indian Institute of Science
 town: Bangalore
 country: India
 dates: July 18-22
-site: 
+site: http://math.iisc.ac.in/fpsac2022/
 
 invited_speakers:
 
