@@ -8,6 +8,10 @@ country: Israel
 dates: July 5--9
 site: https://fpsac2021.math.biu.ac.il/
 poster: 
+proceedings:
+  title: SLC vol. 85B
+  url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/
+  editors: Tomer Bauer and Gaku Liu
 
 invited_speakers:
 
