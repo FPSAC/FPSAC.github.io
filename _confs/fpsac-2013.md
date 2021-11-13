@@ -7,7 +7,7 @@ url: http://www.liafa.univ-paris-diderot.fr/
 town: Paris
 country: France
 dates: June 24 - 28
-site: http://www.liafa.univ-paris-diderot.fr/fpsac13/
+site: https://www.irif.fr/~chapuy/Archives/fpsac13/
 participants: 310
 
 proceedings:
