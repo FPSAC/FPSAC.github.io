@@ -6,9 +6,38 @@ institution: Indian Institute of Science
 town: Bangalore
 country: India
 dates: July 18-22
-site: 
+site: http://math.iisc.ac.in/fpsac2022/
+poster: poster-2022.pdf
 
 invited_speakers:
+
+- name: Omer Angel
+  affiliation: University of British Columbia
+  url: https://www.math.ubc.ca/%7eangel/
+- name: Sen-Peng Eu
+  affiliation: National Taiwan Normal University
+  url: http://math.ntnu.edu.tw/%7espeu/
+- name: Apoorva Khare
+  affiliation: Indian Institute of Science
+  url: http://math.iisc.ac.in/%7ekhare/
+- name: Daniela Kuhn
+  affiliation: University of Birmingham
+  url: http://web.mat.bham.ac.uk/D.Kuehn/
+- name: Anton Mellit
+  affiliation: University of Vienna
+  url: https://www.mellit.org/
+- name: Piotr Śniady
+  affiliation: Polish Academy of Sciences
+  url: https://psniady.impan.pl/
+- name: Hugh Thomas
+  affiliation: Université du Québec à Montréal
+  url: http://www.lacim.uqam.ca/~hugh/
+- name: Rekha Thomas
+  affiliation: University of Washington 
+  url: https://sites.math.washington.edu/%7ethomas/
+- name: Cynthia Vinzant
+  affiliation: University of Washington
+  url: http://sites.math.washington.edu/~vinzant/
 
 
 
@@ -108,7 +137,7 @@ program_committee:
   url: http://arminstraub.com/
 - name: Vasu Tewari
   affiliation: University of Pennsylvania
-  url: https://www.math.upenn.edu/%7evvtewari/
+  url: https://math.hawaii.edu/%7evvtewari/
 - name: Jiang Zeng
   affiliation: Université Lyon 1
   url: http://math.univ-lyon1.fr/%7ezeng/
@@ -121,7 +150,7 @@ organizing_committee:
   role: chair
   url: http://www.math.iisc.ernet.in/%7earvind/
 - name: Gaurav Bhatnagar
-  affiliation: Jawaharlal Nehru University, Delhi
+  affiliation: Ashoka University, Delhi
   url: https://www.gbhatnagar.com/
 - name: Atul Dixit
   affiliation: Indian Institute of Technology, Gandhinagar
@@ -162,34 +191,5 @@ organizing_committee:
 
 ---
 
-<!--
+This is a satellite conference of <a href="https://icm2022.org/">ICM 2022</a>.
 
-- name: Omer Angel
-  affiliation: University of British Columbia
-  url: https://www.math.ubc.ca/%7eangel/
-- name: Sen-Peng Eu
-  affiliation: National Taiwan Normal University
-  url: http://math.ntnu.edu.tw/%7espeu/
-- name: Apoorva Khare
-  affiliation: Indian Institute of Science
-  url: http://math.iisc.ac.in/%7ekhare/
-- name: Anton Mellit
-  affiliation: University of Vienna
-  url: https://www.mellit.org/
-- name: Piotr Śniady
-  affiliation: Polish Academy of Sciences
-  url: https://psniady.impan.pl/
-- name: Anne Thomas
-  affiliation: University of Sydney
-  url: https://www.maths.usyd.edu.au/u/athomas/
-- name: Hugh Thomas
-  affiliation: Université du Québec à Montréal
-  url: http://www.lacim.uqam.ca/~hugh/
-- name: Rekha Thomas
-  affiliation: University of Washington 
-  url: https://sites.math.washington.edu/%7ethomas/
-- name: Cynthia Vinzant
-  affiliation: North Carolina State University
-  url: https://clvinzan.math.ncsu.edu/
-
--->
