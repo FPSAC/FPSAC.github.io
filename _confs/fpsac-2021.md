@@ -7,7 +7,7 @@ town: Ramat-Gan
 country: Israel
 dates: January 10--15 of 2022
 site: https://fpsac2021.math.biu.ac.il/
-poster: 
+poster: poster-2021.pdf
 proceedings:
   title: SLC vol. 85B
   url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/
