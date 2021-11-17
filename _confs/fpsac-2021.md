@@ -1,11 +1,11 @@
 ---
 layout: conf
-year: 2022
+year: 2021
 number: 33rd
 institution: Bar-Ilan University
 town: Ramat-Gan
 country: Israel
-dates: January 10--15
+dates: January 10--15 of 2022
 site: https://fpsac2021.math.biu.ac.il/
 poster: 
 proceedings:
