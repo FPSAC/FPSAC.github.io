@@ -167,8 +167,8 @@ organizing_committee:
   role: funding coordinator
 
 - name: Nicolas M. Thiéry
-  affiliation: Université Paris Sud, France
+  affiliation: Université Paris-Saclay, France
   role: executive committee liaison
 
-executive_committee_contact: Nicolas M. Thiéry, Université Paris Sud, France
+executive_committee_contact: Nicolas M. Thiéry, Université Paris-Saclay, France
 ---
