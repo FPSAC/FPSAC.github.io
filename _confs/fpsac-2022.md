@@ -8,6 +8,8 @@ country: India
 dates: July 18-22
 site: http://math.iisc.ac.in/fpsac2022/
 poster: poster-2022.pdf
+proceedings:
+  editors: Travis Scrimshaw
 
 invited_speakers:
 
