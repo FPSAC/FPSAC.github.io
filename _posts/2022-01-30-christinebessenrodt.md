@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Death of Christine Bessenrodt
+title: "Death of Christine Bessenrodt"
 ---
 
 The FPSAC community is mourning the loss of Christine Bessenrodt, a long time contributer to the field of algebraic
