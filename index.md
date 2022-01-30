@@ -20,7 +20,6 @@ Algébrique), running since 1988. [Read more...](about)
 
 {% assign current_year  = "now" | date: "%Y" %}
 {% assign current_year  = current_year  | plus:0 %}
-{% assign current_year  = 2020 %}
 {% assign current_month = "now" | date: "%-m" %}
 {% assign current_month = current_month | plus:0 %}
 
