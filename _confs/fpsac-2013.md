@@ -8,6 +8,7 @@ town: Paris
 country: France
 dates: June 24 - 28
 site: https://www.irif.fr/~chapuy/Archives/fpsac13/
+poster: poster-2013.pdf
 participants: 310
 
 proceedings:
