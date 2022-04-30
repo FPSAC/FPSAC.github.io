@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Death of Georgia Benkart"
+---
 It has been a sad year for the FPSAC community to receive the news that
 [Georgia Benkart](https://en.wikipedia.org/wiki/Georgia_Benkart) has died.
 She worked in Lie Algebras and combinatorial representation
