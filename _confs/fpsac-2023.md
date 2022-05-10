@@ -30,7 +30,7 @@ invited_speakers:
 
 program_committee:
 - name: Thomas Lam
-  affiliation: University of Michigan)
+  affiliation: University of Michigan
   role: co-chair
 - name: Hugh Thomas
   affiliation: UQAM
