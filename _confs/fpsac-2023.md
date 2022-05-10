@@ -29,6 +29,15 @@ invited_speakers:
   affiliation: Melbourne University
 
 program_committee:
+- name: Thomas Lam
+  affiliation: University of Michigan)
+  role: co-chair
+- name: Hugh Thomas
+  affiliation: UQAM
+  role: co-chair
+- name: Josephine Yu
+  affiliation: Georgia Tech
+  role: co-chair
 
 organizing_committee:
 - name: Monica Vazirani
