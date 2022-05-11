@@ -7,6 +7,9 @@ town: Davis
 country: USA
 dates: July 17-21
 site: http://fpsac23.math.ucdavis.edu/
+proceedings:
+  editors: Ben Salisbury
+
 
 invited_speakers:
 - name: Karim Adiprasito
@@ -31,21 +34,21 @@ invited_speakers:
 program_committee:
 - name: Thomas Lam
   affiliation: University of Michigan
-  role: co-chair
+  role: cochair
 - name: Hugh Thomas
   affiliation: UQAM
-  role: co-chair
+  role: cochair
 - name: Josephine Yu
   affiliation: Georgia Tech
-  role: co-chair
+  role: cochair
 
 organizing_committee:
 - name: Monica Vazirani
   affiliation: UC Davis
-  role: co-chair
+  role: cochair
 - name: Anne Schilling
   affiliation: UC Davis
-  role: co-chair
+  role: cochair
 - name: Erik Carlsson
   affiliation: UC Davis
 - name: Jesus DeLoera
