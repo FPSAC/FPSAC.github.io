@@ -24,7 +24,7 @@ invited_speakers:
   affiliation: Chiba University
 - name: Mohamed Omar
   affiliation: Harvey Mudd College
-- name: Sybille Schroll
+- name: Sibylle Schroll
   affiliation: Universitaet Koeln
 - name: Anna Weigandt
   affiliation: MIT
