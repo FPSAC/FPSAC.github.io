@@ -12,6 +12,7 @@ proceedings:
   title: SLC vol. 85B
   url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/
   editors: Tomer Bauer and Gaku Liu
+participants: 429
 
 invited_speakers:
 

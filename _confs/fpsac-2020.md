@@ -12,6 +12,7 @@ proceedings:
   title: SLC vol. 84B
   url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2020/
   editors: Eli Bagno and Olya Mandelshtam
+participants: 629
 
 add_info_short: Physical meeting in Ramat-Gan, Israel is cancelled!
 
