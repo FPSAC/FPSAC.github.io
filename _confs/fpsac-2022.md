@@ -11,6 +11,10 @@ poster: poster-2022.pdf
 proceedings:
   editors: Travis Scrimshaw
 
+best_student_paper:
+- name: Houcine Ben Dali
+  affiliation: IECL (Université de Lorraine) and IRIF (Université de Paris)
+
 invited_speakers:
 
 - name: Omer Angel
