@@ -22,6 +22,14 @@ add_info: This conference was originally planned to be held July 13--17 2020 at
   Recognizing the fine work resulting in so many great submissions, and the completion of the refereeing and selection process, Conference Proceedings will be published as planned.<br><br>
   There will be an <strong>online FPSAC</strong> where the submitters of the accepted talks and posters have the chance to present their work.<br><br>
 
+best_student_paper:
+- name: Christian Gaetz
+  affiliation: Massachusetts Institute of Technology, USA
+- name: Yibo Gao
+  affiliation: Massachusetts Institute of Technology, USA
+- name: Sean Griffin
+  affiliation: University of Washington
+
 program_committee:
 
 - name: Ron Adin
