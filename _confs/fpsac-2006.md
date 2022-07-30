@@ -13,7 +13,8 @@ proceedings:
   title: hosted at IGM
   url: http://igm.univ-mlv.fr/~fpsac/FPSAC06/contrib_papers.html
 
-best_poster: Janvier Nzeutchap
+best_student_paper:
+- name: Janvier Nzeutchap and Huilan Li
 
 invited_speakers:
 - name: Marge Bayer
@@ -81,7 +82,7 @@ program_committee:
   url: http://erdos.math.unb.ca/~hugh/
   affiliation: <a href="http://www.math.unb.ca/">University of New Brunswick</a>
 - name: Mike Zabrocki
-  url: http://garsia.math.yorku.ca:16080/~zabrocki/
+  url: http://garsia.math.yorku.ca/~zabrocki/
   affiliation: <a href="http://www.math.yorku.ca/">York University</a>
 
 organizing_committee:
@@ -117,15 +118,14 @@ organizing_committee:
   affiliation: <a href="http://www.math.ucsd.edu/">UC San Diego</a>
   role: cochair
 - name: Mike Zabrocki
-  url: http://garsia.math.yorku.ca:16080/~zabrocki/
+  url: http://garsia.math.yorku.ca/~zabrocki/
   affiliation: <a href="http://www.math.yorku.ca/">York University</a>
   role: cochair
 
 ---
 # Papers, posters and software demonstrations
 
-- <A HREF="contrib_papers.html">List of papers</A><BR>
-- <A HREF="contrib_posters.html">List of posters</A><BR>
-- <A HREF="contrib_software.html">Software demonstrations</A><BR>
-- <A HREF="SITE06/papers/fpsac06_proceedings.pdf">The complete conference proceedings in a pdf file</A><BR>
-- <A HREF="SITE06/en/program.html">Conference program</A> (with talk presentations)
+- [List of papers and posters](https://garsia.math.yorku.ca/fpsac06/en/contrib_papers.html)
+- [Software demonstrations](https://garsia.math.yorku.ca/fpsac06/en/program.html)
+- [complete conference proceedings](https://garsia.math.yorku.ca/fpsac06/papers/fpsac06_proceedings.pdf)
+- [Conference program](https://garsia.math.yorku.ca/fpsac06/en/program.html)
