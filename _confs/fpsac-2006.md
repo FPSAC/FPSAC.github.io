@@ -14,7 +14,10 @@ proceedings:
   url: http://igm.univ-mlv.fr/~fpsac/FPSAC06/contrib_papers.html
 
 best_student_paper:
-- name: Janvier Nzeutchap and Huilan Li
+- name: Janvier Nzeutchap
+  affiliation: Institut Gaspard-Monge, Laboratoire d’informatique
+- name: Huilan Li
+  affiliation: York Univeristy
 
 invited_speakers:
 - name: Marge Bayer
