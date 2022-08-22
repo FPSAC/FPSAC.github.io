@@ -14,6 +14,10 @@ proceedings:
   editors: Tomer Bauer and Gaku Liu
 participants: 429
 
+best_student_paper:
+- name: Sarah Brauner
+  affiliation: University of Minnesota
+
 invited_speakers:
 
 - name: Noga Alon

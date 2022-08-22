@@ -18,6 +18,10 @@ submissions: 162
 demos: 6
 financial_support_requests: 109
 
+best_student_paper:
+- name: Christopher Eur
+  affiliation: University of California Berkeley
+
 invited_speakers:
 
 - name: Andrej Bauer

@@ -21,6 +21,11 @@ posters: 72
 demos: 1
 # 69 presented
 
+best_student_paper:
+- name: Tair Akhmejanov
+  affiliation: Cornell University
+- name: Pavel Galashin
+  affiliation: Massachusetts Institute of Technology, USA
 
 invited_speakers:
 
