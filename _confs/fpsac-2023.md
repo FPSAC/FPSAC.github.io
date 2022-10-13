@@ -6,7 +6,8 @@ institution: UC Davis
 town: Davis
 country: USA
 dates: July 17-21
-site: http://fpsac23.math.ucdavis.edu/poster: poster-2023.pdf
+site: http://fpsac23.math.ucdavis.edu/
+poster: poster-2023.pdf
 proceedings:
   editors: Ben Salisbury
 
