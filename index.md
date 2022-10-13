@@ -9,7 +9,7 @@ FPSAC / SFCA is a series of international conferences on Formal Power
 Series and Algebraic Combinatorics (Séries Formelles et Combinatoire
 Algébrique), running since 1988. [Read more...](about)
 
-## Upcoming conferences
+## Upcoming and previous conferences
 
 {% assign current_year  = "now" | date: "%Y" %}
 {% assign current_year  = current_year  | plus:0 %}
