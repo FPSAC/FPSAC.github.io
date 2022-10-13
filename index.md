@@ -27,6 +27,7 @@ Algébrique), running since 1988. [Read more...](about)
       {% endunless %}
     {% endif %}
   {% endfor %}
+  <li>[All conferences](confs)</li>
 </ul>
 
 ## News
@@ -35,9 +36,6 @@ Algébrique), running since 1988. [Read more...](about)
 {{ post.date | date_to_string }}
 : [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
-
-
-## [All conferences](confs)
 
 ## Posters
 
