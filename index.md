@@ -27,8 +27,9 @@ Algébrique), running since 1988. [Read more...](about)
       {% endunless %}
     {% endif %}
   {% endfor %}
-  <li>[All conferences](confs)</li>
 </ul>
+
+[All conferences](confs)
 
 ## News
 
