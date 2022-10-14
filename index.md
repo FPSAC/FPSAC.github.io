@@ -29,7 +29,7 @@ Algébrique), running since 1988. [Read more...](about)
   {% endfor %}
 </ul>
 
-[All conferences](confs)
+* [All conferences](confs)
 
 ## News
 
