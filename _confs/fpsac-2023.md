@@ -42,10 +42,14 @@ program_committee:
 - name: Josephine Yu
   affiliation: Georgia Tech
   role: cochair
+- name: Per Alexandersson
+  affiliation: Stockholm University
 - name: Omer Angel
   affiliation: University of British Columbia
 - name: Olga Azenhas
   affiliation: Universidade de Coimbra
+- name: Miklos Bona
+  affiliation: University of Florida
 - name: Mireille Bousquet-Mélou
   affiliation: Université de Bordeaux
 - name: Swee Hong Chan
@@ -56,8 +60,6 @@ program_committee:
   affiliation: Max Planck Institute for Mathematics in the Sciences, Leipzig
 - name: Alex Fink
   affiliation: Queen Mary University of London
-- name: Jason Fulman
-  affiliation: University of Southern California
 - name: Zachary Hamaker
   affiliation: University of Florida
 - name: Christophe Hohlweg
@@ -66,12 +68,22 @@ program_committee:
   affiliation: Howard University
 - name: Takeshi Ikeda
   affiliation: Okayama University of Science
+- name: Joel Kamnitzer
+  affiliation: McGill University
 - name: Christian Krattenthaler
   affiliation: Universität Wien
 - name: Jake Levinson
   affiliation: Simon Fraser University
+- name: Ricky Liu
+  affiliation: University of Washington
 - name: Tomoo Matsumura
   affiliation: International Christian University, Japan
+- name: Thomas McConville
+  affiliation: Kennesaw State University
+- name: Stephen Melczer
+  affiliation: University of Waterloo
+- name: Karola Mészáros
+  affiliation: Cornell
 - name: Elizabeth Milicevic
   affiliation: Haverford College
 - name: Vincent Pilaud
@@ -79,7 +91,7 @@ program_committee:
 - name: Jenna Rajchgot
   affiliation: McMaster University
 - name: Khrystyna Serhiyenko
-  affiliation: UC Berkeley
+  affiliation: University of Kentucky
 - name: Liam Solus
   affiliation: KTH Royal Institute of Technology
 - name: Ngoc Mai Tran
