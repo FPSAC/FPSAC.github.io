@@ -90,7 +90,7 @@ program_committee:
   affiliation: LIX Laboratoire d'Informatique de l'École polytechnique, Paris, France
 - name: Viviane Pons
   affiliation: Université Paris Sud, France
-- name: Brendan Rhoades
+- name: Brendon Rhoades
   affiliation: UC San Diego, USA
 - name: Christian Stump
   affiliation: Freie Universität Berlin, Germany
