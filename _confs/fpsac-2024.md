@@ -6,13 +6,6 @@ institution: Ruhr-Universität Bochum
 town: Bochum
 country: Germany
 dates: July 22-26 (tentative)
-site:
-poster:
-proceedings:
-  editors:
-
-
-invited_speakers:
 
 program_committee:
 - name: Marni Mishna
