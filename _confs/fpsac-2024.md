@@ -31,10 +31,8 @@ organizing_committee:
   role: chair
 - name: Deniz Kuz
   affiliation: Ruhr-Universität Bochum
-  role: cochair
 - name: Christoph Thäle
   affiliation: Ruhr-Universität Bochum
-  role: cochair
 - name: Galen Dorpalen-Barry
   affiliation: Ruhr-Universität Bochum
 ---
