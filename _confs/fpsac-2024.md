@@ -8,6 +8,26 @@ country: Germany
 dates: July 22-26 (tentative)
 site: https://fpsac2024.rub.de
 
+invited_speakers:
+- name: Carolina Benedetti
+  affiliation: Universidad de los Andes, Colombia
+- name: Michael Joswig
+  affiliation: Technischen Universität Berlin, Germany
+- name: Satoshi Murai
+  affiliation: Waseda University, Japan
+- name: Rosa Orellana
+  affiliation: Dartmouth College, United States
+- name: Nicholas Proudfoot
+  affiliation: University of Oregon, United States
+- name: Markus Reineke
+  affiliation: Ruhr-Universität Bochum, Germany
+- name: Lisa Sauermann
+  affiliation: Massachusetts Institute of Technology, United States
+  name: Kris Shaw
+  affiliation: University of Oslo, Norway
+- name: Josephine Yu
+  affiliation: Georgia Institute of Technology, United States
+
 program_committee:
 - name: Marni Mishna
   affiliation: Simon Fraser University
