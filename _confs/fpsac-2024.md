@@ -6,6 +6,7 @@ institution: Ruhr-Universität Bochum
 town: Bochum
 country: Germany
 dates: July 22-26 (tentative)
+site: https://fpsac2024.rub.de
 
 program_committee:
 - name: Marni Mishna
@@ -22,7 +23,7 @@ organizing_committee:
 - name: Christian Stump
   affiliation: Ruhr-Universität Bochum
   role: chair
-- name: Deniz Kuz
+- name: Deniz Kuş
   affiliation: Ruhr-Universität Bochum
 - name: Christoph Thäle
   affiliation: Ruhr-Universität Bochum
