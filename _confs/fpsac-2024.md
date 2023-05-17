@@ -23,7 +23,7 @@ invited_speakers:
   affiliation: Ruhr-Universität Bochum, Germany
 - name: Lisa Sauermann
   affiliation: Massachusetts Institute of Technology, United States
-  name: Kris Shaw
+- name: Kris Shaw
   affiliation: University of Oslo, Norway
 - name: Josephine Yu
   affiliation: Georgia Institute of Technology, United States
