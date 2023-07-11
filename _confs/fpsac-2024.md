@@ -44,17 +44,17 @@ organizing_committee:
   affiliation: Ruhr-Universität Bochum
   role: chair
 - name: Mike Zabrocki
-  role: Executive Committee Liason
+  role: executive committee liason
   affiliation: York University
 - name: Nathan Williams
-  role: NSF Funding Coordinator
+  role: NSF funding coordinator
   affiliation: University of Texas at Dallas
 - name: Deniz Kuş
   affiliation: Ruhr-Universität Bochum
 - name: Christoph Thäle
   affiliation: Ruhr-Universität Bochum
 - name: Annika Schulte
-  role: Staff
+  role: staff
   affiliation: Ruhr-Universität Bochum
 - name: Galen Dorpalen-Barry
   affiliation: Ruhr-Universität Bochum
