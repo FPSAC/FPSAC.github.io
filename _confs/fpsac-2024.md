@@ -43,10 +43,20 @@ organizing_committee:
 - name: Christian Stump
   affiliation: Ruhr-Universität Bochum
   role: chair
+- name: Mike Zabrocki (Executive Committee Liason)
+  affiliation: York University
+- name: Nathan Williams (NSF Funding Coordinator)
+  affiliation: University of Texas at Dallas
 - name: Deniz Kuş
   affiliation: Ruhr-Universität Bochum
 - name: Christoph Thäle
   affiliation: Ruhr-Universität Bochum
+- name: Annika Schulte (Staff)
+  affiliation: Ruhr-Universität Bochum
 - name: Galen Dorpalen-Barry
+  affiliation: Ruhr-Universität Bochum
+- name: Thomas Gerber
+  affiliation: Ruhr-Universität Bochum
+- name: Elena Hoster
   affiliation: Ruhr-Universität Bochum
 ---
