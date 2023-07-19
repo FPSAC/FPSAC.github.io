@@ -114,8 +114,6 @@ organizing_committee:
   affiliation: UC Davis
 - name: Sean T. Griffin
   affiliation: UC Davis
-- name: Matthias Koeppe
-  affiliation: UC Davis
 - name: Fu Liu
   affiliation: UC Davis
 - name: Gladis Lopez
