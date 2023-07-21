@@ -7,6 +7,8 @@ town: Bochum
 country: Germany
 dates: July 22-26 (tentative)
 site: https://fpsac2024.rub.de
+proceedings:
+  editors: Christian Gaetz
 
 invited_speakers:
 - name: Carolina Benedetti
@@ -49,6 +51,9 @@ organizing_committee:
 - name: Nathan Williams
   role: NSF funding coordinator
   affiliation: University of Texas at Dallas
+- name: Christian Gaetz
+- affiliation: Cornell University
+- role: proceedings editor
 - name: Deniz Kuş
   affiliation: Ruhr-Universität Bochum
 - name: Christoph Thäle
