@@ -45,26 +45,26 @@ organizing_committee:
 - name: Christian Stump
   affiliation: Ruhr-Universität Bochum
   role: chair
-- name: Mike Zabrocki
-  role: executive committee liason
-  affiliation: York University
-- name: Nathan Williams
-  role: NSF funding coordinator
-  affiliation: University of Texas at Dallas
+- name: Galen Dorpalen-Barry
+  affiliation: Ruhr-Universität Bochum
 - name: Christian Gaetz
   affiliation: Cornell University
   role: proceedings editor
-- name: Deniz Kuş
-  affiliation: Ruhr-Universität Bochum
-- name: Christoph Thäle
-  affiliation: Ruhr-Universität Bochum
-- name: Annika Schulte
-  role: staff
-  affiliation: Ruhr-Universität Bochum
-- name: Galen Dorpalen-Barry
-  affiliation: Ruhr-Universität Bochum
 - name: Thomas Gerber
   affiliation: Ruhr-Universität Bochum
 - name: Elena Hoster
   affiliation: Ruhr-Universität Bochum
+- name: Deniz Kuş
+  affiliation: Ruhr-Universität Bochum
+- name: Annika Schulte
+  role: staff
+  affiliation: Ruhr-Universität Bochum
+- name: Christoph Thäle
+  affiliation: Ruhr-Universität Bochum
+- name: Nathan Williams
+  role: NSF funding coordinator
+  affiliation: University of Texas at Dallas
+- name: Mike Zabrocki
+  role: executive committee liason
+  affiliation: York University
 ---
