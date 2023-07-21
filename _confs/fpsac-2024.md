@@ -52,8 +52,8 @@ organizing_committee:
   role: NSF funding coordinator
   affiliation: University of Texas at Dallas
 - name: Christian Gaetz
-- affiliation: Cornell University
-- role: proceedings editor
+  affiliation: Cornell University
+  role: proceedings editor
 - name: Deniz Kuş
   affiliation: Ruhr-Universität Bochum
 - name: Christoph Thäle
