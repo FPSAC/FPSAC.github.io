@@ -5,7 +5,7 @@ number: 36th
 institution: Ruhr-Universität Bochum
 town: Bochum
 country: Germany
-dates: July 22-26 (tentative)
+dates: July 22-26
 site: https://fpsac2024.rub.de
 proceedings:
   editors: Christian Gaetz
