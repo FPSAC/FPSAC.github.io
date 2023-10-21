@@ -31,6 +31,10 @@ Algébrique), running since 1988. [Read more...](about)
 
 * [All conferences](confs)
 
+## Mailing List
+
+To receive conference announcements and updates, please sign up for the [FPSAC Mailing List](https://lists.ruhr-uni-bochum.de/mailman/listinfo/fpsac-announcements).
+
 ## News
 
 {% for post in site.posts %}
