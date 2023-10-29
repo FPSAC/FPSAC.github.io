@@ -6,7 +6,7 @@ institution: University of Toronto
 town: Toronto
 country: Canada
 dates: June
-site: http://www.math.yorku.ca/bergeron/FPSAC98.html
+site:
 icon:
 participants: 145
 proceedings:
