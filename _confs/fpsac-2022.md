@@ -9,6 +9,8 @@ dates: July 18-22
 site: http://math.iisc.ac.in/fpsac2022/
 poster: poster-2022.pdf
 proceedings:
+  title: SLC vol. 86B
+  url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2022/
   editors: Travis Scrimshaw
 
 best_student_paper:

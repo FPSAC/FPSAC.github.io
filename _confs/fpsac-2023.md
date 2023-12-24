@@ -9,6 +9,8 @@ dates: July 17-21
 site: http://fpsac23.math.ucdavis.edu/
 poster: poster-2023.pdf
 proceedings:
+  title: SLC vol. 89B
+  url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2023/
   editors: Ben Salisbury
 
 best_student_paper:
