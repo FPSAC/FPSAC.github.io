@@ -11,6 +11,9 @@ poster: poster-2023.pdf
 proceedings:
   editors: Ben Salisbury
 
+best_student_paper:
+- name: Hsin-Chieh Liao
+  affiliation: University of Miami
 
 invited_speakers:
 - name: Karim Adiprasito
