@@ -94,7 +94,7 @@ organizing_committee:
   role: chair
 
 ---
-# Papers
 
-- <A HREF="ARTICLES/Content.tex">Table of contents</A> (preliminary version in tex)
-- <A HREF="articles.html">List of papers</A>
+# Papers, posters and software demonstrations
+
+- [Articles](https://fpsac-archive.github.io/FPSAC98/articles.html)

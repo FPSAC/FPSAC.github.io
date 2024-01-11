@@ -106,4 +106,4 @@ organizing_committee:
 ---
 # Papers, posters and software demonstrations
 
-- <A HREF="articles.html">List of Papers</A></em></H3>
+- [Articles](https://fpsac-archive.github.io/FPSAC99/articles.html)

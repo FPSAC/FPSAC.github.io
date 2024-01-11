@@ -7,9 +7,6 @@ town: Paris
 country: France
 dates: June
 participants: 205
-proceedings:
-  title: Discrete Mathematics 139
-  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/139/issue/1
 
 invited_speakers:
 - name:  Didier Arquès
@@ -95,6 +92,7 @@ organizing_committee:
   affiliation: Marne-la-Vallée, France
 
 ---
-# Papers
 
-- <A HREF="articles.html">List of Papers</A>
+# Papers, posters and software demonstrations
+
+- [Articles](https://fpsac-archive.github.io/FPSAC95/articles.html)

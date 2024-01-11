@@ -53,6 +53,6 @@ organizing_committee:
   affiliation: Rouen, France
 
 ---
-# Papers
+# Papers, posters and software demonstrations
 
-- <A HREF="articles.html">List of papers</A>
+- [Articles](https://fpsac-archive.github.io/FPSAC91/articles.html)

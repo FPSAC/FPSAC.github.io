@@ -77,10 +77,7 @@ organizing_committee:
   role: chair
 
 ---
+
 # Papers, posters and software demonstrations
 
-Two lists of <A HREF="elist.fpsac96">e-mail</A> and <A HREF="slist.fpsac96">surface-mail</A> from
-the <A HREF="http://www.math.umn.edu/~stanton/">Dennis Stanton</A>'s WEB site<BR>
-
-
-- <A HREF="articles.html">List of papers</A>
+- [Articles](https://fpsac-archive.github.io/FPSAC96/articles.html)

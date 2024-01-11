@@ -8,8 +8,8 @@ country: Canada
 dates: June 15 - 19
 participants: 201
 proceedings:
-  title: publications of LaCIM
-  url: http://lacim.uqam.ca/wp-content/uploads/Publications/11.pdf
+  title: Discrete Mathematics 139
+  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/139/issue/1
 
 invited_speakers:
 - name:   Jean Berstel
@@ -78,8 +78,8 @@ organizing_committee:
   role: chair
 
 ---
-<!--
-# Papers
 
- <A HREF="articles.html">Liste des conf&eacute;rences</A>
- !-->
+# Papers, posters and software demonstrations
+
+- [Articles](https://fpsac-archive.github.io/FPSAC92/articles.html)
+- [Complete proceedings](https://fpsac-archive.github.io/FPSAC92/proceedings.pdf)

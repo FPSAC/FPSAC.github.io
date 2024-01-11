@@ -83,6 +83,7 @@ organizing_committee:
   mail: simion@math.gwu.edu
 
 ---
-# Papers
 
-- <A HREF="articles.html">List of Papers</A>
+# Papers, posters and software demonstrations
+
+- [Articles](https://fpsac-archive.github.io/FPSAC94/articles.html)

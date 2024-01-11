@@ -22,4 +22,6 @@ organizing_committee:
   role: chair
 
 ---
-# [Abstracts](/archive/fpsac-1988/abstracts.pdf)
+# Papers, posters and software demonstrations
+
+- [Articles](https://fpsac-archive.github.io/FPSAC88/articles.html)

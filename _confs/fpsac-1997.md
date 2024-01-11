@@ -85,6 +85,7 @@ organizing_committee:
   role: chair
 
 ---
-# Papers
 
-- <A HREF="articles.html">List of papers</A>
+# Papers, posters and software demonstrations
+
+- [Articles](https://fpsac-archive.github.io/FPSAC97/articles.html)
