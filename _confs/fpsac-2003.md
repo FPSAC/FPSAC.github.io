@@ -9,9 +9,6 @@ dates: June 23 - 27
 site: http://www.mai.liu.se/fpsac/
 icon: Sweden.gif
 participants: 150
-proceedings:
-  title: hosted at IGM
-  url: http://igm.univ-mlv.fr/~fpsac/FPSAC03/articles.html
 
 local_site: https://fpsac-archive.github.io/FPSAC03/SITE03/index.html
 

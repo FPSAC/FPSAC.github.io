@@ -103,4 +103,4 @@ organizing_committee:
 
 ---
 
-Gilbert Labelle (UQAM, Canada) will give the lecture <em>Mes aventures mathématiques avec Pierre Leroux</em> dedicated to the memory of Pierre Leroux. 
+- Gilbert Labelle (UQAM, Canada) will give the lecture <em>Mes aventures mathématiques avec Pierre Leroux</em> dedicated to the memory of Pierre Leroux. 

@@ -9,9 +9,6 @@ dates: June 20 - 25
 site: http://ww2.unime.it/fpsac05/index2.html
 icon: Italie.gif
 participants: 198
-proceedings:
-  title: hosted at IGM
-  url: http://igm.univ-mlv.fr/~fpsac/FPSAC05/articles.html
 
 best_student_paper:
 - name: Thomas Lam

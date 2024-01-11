@@ -9,9 +9,6 @@ dates: June 19 - 23
 site: http://garsia.math.yorku.ca/fpsac06/
 icon: USA.gif
 participants: 150
-proceedings:
-  title: hosted at IGM
-  url: http://igm.univ-mlv.fr/~fpsac/FPSAC06/contrib_papers.html
 
 local_site: https://fpsac-archive.github.io/FPSAC06/SITE06/index.html
 
