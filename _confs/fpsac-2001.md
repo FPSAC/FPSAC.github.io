@@ -11,6 +11,8 @@ icon: USA.gif
 best_student_paper:
 participants: 150
 
+local_site: https://fpsac-archive.github.io/FPSAC01/SITE01/index.html
+
 invited_speakers:
 - name: Sanjeev Arora
   affiliation: USA
@@ -97,6 +99,7 @@ organizing_committee:
   affiliation: Germany
 
 ---
-# Papers
 
-- <A HREF="articles.html">List of Papers</A>
+# Papers, posters and software demonstrations
+
+- [Articles](https://fpsac-archive.github.io/FPSAC01/articles.html)

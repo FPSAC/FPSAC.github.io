@@ -13,6 +13,8 @@ proceedings:
   title: Discrete Mathematics 298
   url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/298/issue/1
 
+local_site: https://fpsac-archive.github.io/FPSAC02/SITE02/index.html
+
 best_student_paper:
 
 invited_speakers:
@@ -97,5 +99,5 @@ organizing_committee:
 ---
 # Papers, posters and software demonstrations
 
-- <A HREF="articles.html">List of Papers and posters</A>
-- <A HREF="fpsac02.pdf">Complete PDF File</A>
+- [Articles](https://fpsac-archive.github.io/FPSAC02/articles.html)
+- [Complete proceedings](https://fpsac-archive.github.io/FPSAC02/fpsac02.pdf) 

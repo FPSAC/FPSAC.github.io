@@ -13,6 +13,8 @@ proceedings:
   title: hosted at IGM
   url: http://igm.univ-mlv.fr/~fpsac/FPSAC03/articles.html
 
+local_site: https://fpsac-archive.github.io/FPSAC03/SITE03/index.html
+
 best_student_paper:
 
 invited_speakers:
@@ -97,3 +99,6 @@ organizing_committee:
   affiliation: Sweden
 
 ---
+
+# Papers, posters and software demonstrations
+- [Articles](https://fpsac-archive.github.io/FPSAC03/articles.html)

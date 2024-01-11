@@ -108,6 +108,10 @@ organizing_committee:
 
 ---
 
+# Papers, posters and software demonstrations
+- [Papers](https://fpsac-archive.github.io/FPSAC05/articles.html)
+- [Complete proceedings](https://fpsac-archive.github.io/FPSAC05/FPSAC05.pdf)
+
 # Special Session in honour of Adriano Garsia's 75th birthday
 
 - Ed Allen

@@ -13,6 +13,8 @@ proceedings:
   title: hosted at IGM
   url: http://igm.univ-mlv.fr/~fpsac/FPSAC06/contrib_papers.html
 
+local_site: https://fpsac-archive.github.io/FPSAC06/SITE06/index.html
+
 best_student_paper:
 - name: Janvier Nzeutchap
   affiliation: Institut Gaspard-Monge, Laboratoire d’informatique
@@ -128,7 +130,6 @@ organizing_committee:
 ---
 # Papers, posters and software demonstrations
 
-- [List of papers and posters](https://garsia.math.yorku.ca/fpsac06/en/contrib_papers.html)
-- [Software demonstrations](https://garsia.math.yorku.ca/fpsac06/en/program.html)
-- [complete conference proceedings](https://garsia.math.yorku.ca/fpsac06/papers/fpsac06_proceedings.pdf)
-- [Conference program](https://garsia.math.yorku.ca/fpsac06/en/program.html)
+- [Talks](https://fpsac-archive.github.io/FPSAC06/contrib_papers.html)
+- [Posters](https://fpsac-archive.github.io/FPSAC06/contrib_posters.html)
+- [Complete  proceedings](https://fpsac-archive.github.io/FPSAC06/SITE06/papers/fpsac06_proceedings.pdf)

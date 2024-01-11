@@ -13,6 +13,8 @@ proceedings:
   title: hosted at IGM
   url: http://igm.univ-mlv.fr/~fpsac/FPSAC07/fpsac07.html
 
+local_site: https://fpsac-archive.github.io/FPSAC07/SITE07/index.html
+
 best_student_paper:
 
 invited_speakers:
@@ -143,6 +145,5 @@ organizing_committee:
 
 # Papers, posters and software demonstrations
 
-- <A HREF="contrib_papers.html">List of papers</A>
-- <A HREF="contrib_posters.html">List of posters</A>
-- <A HREF="SITE07/conpro.htm">Conference program</A> (with talk presentations and photos)
+- <A HREF="https://fpsac-archive.github.io/FPSAC07/contrib_papers.html">List of taks</A>
+- <A HREF="https://fpsac-archive.github.io/FPSAC07/contrib_posters.html">List of posters</A>

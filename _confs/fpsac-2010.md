@@ -116,4 +116,6 @@ organizing_committee:
 
 ---
 
+# Papers, posters and software demonstrations
+
 <li><A HREF="https://fpsac-archive.github.io/FPSAC10/local_proceedings.pdf">Local proceedings</A>

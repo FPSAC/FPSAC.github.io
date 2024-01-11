@@ -96,9 +96,9 @@ organizing_committee:
 
 # Papers, posters and software demonstrations
 
-- <A HREF="articles.html">List of Papers</A>
-- <A HREF="papers.pdf">Papers in a pdf file</A>
-- <A HREF="posters.pdf">Posters in a pdf file</A>
+- [Papers](https://fpsac-archive.github.io/FPSAC04/articles.html)
+- [Complete proceedings](https://fpsac-archive.github.io/FPSAC04/papers.pdf)
+- [Posters](https://fpsac-archive.github.io/FPSAC04/posters.pdf)
 
 # Sponsors of FPSAC'04
 

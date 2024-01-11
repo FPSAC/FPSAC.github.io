@@ -15,6 +15,8 @@ proceedings:
 
 participants: 120
 
+local_site: https://fpsac-archive.github.io/FPSAC00/SITE00/index.html
+
 invited_speakers:
 - name: P. Di Francesco
   affiliation: France
@@ -118,4 +120,3 @@ organizing_committee:
   affiliation: MSU, Russia
 
 ---
-# Papers, posters and software demonstrations
