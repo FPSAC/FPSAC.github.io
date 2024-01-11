@@ -9,6 +9,8 @@ dates: June 13 - 17
 site: http://combinatorics.cis.strath.ac.uk/fpsac2011/
 participants: 205
 
+local_site: https://fpsac-archive.github.io/FPSAC11/SITE2011/index.html
+
 proceedings:
   title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/260
@@ -119,7 +121,4 @@ organizing_committee:
 
 # Papers, posters and software demonstrations
 
-<li><A HREF="SITE2011/program/">Programm</A>
-<li><A HREF="contrib_posters.html">List of posters</A>
-<li><A HREF="participants.html">List of participants</A>
-<li><A HREF="SITE2011/proceedings/">Local proceedings</A>
+<li><A HREF="https://fpsac-archive.github.io/FPSAC11/SITE2011/proceedings/local.pdf">Local proceedings</A>

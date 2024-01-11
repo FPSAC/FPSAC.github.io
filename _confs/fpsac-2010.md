@@ -9,6 +9,8 @@ dates: August 2 - 6
 site: http://math.sfsu.edu/fpsac/
 participants: 210
 
+local_site: https://fpsac-archive.github.io/FPSAC10/SITE2010/index.html
+
 proceedings:
   title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/259
@@ -114,5 +116,4 @@ organizing_committee:
 
 ---
 
-<li><A HREF="contrib_papers_posters.html">List of papers and posters</A>
-<li><A HREF="participants.html">List of participants</A>
+<li><A HREF="https://fpsac-archive.github.io/FPSAC10/local_proceedings.pdf">Local proceedings</A>

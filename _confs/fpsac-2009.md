@@ -124,7 +124,3 @@ staff_assistants:
   affiliation: DK Computational Mathematics, Johannes Kepler University Linz, Austria
 
 ---
-<li><A HREF="contrib_papers.html">List of papers</A>
-<li><A HREF="contrib_posters.html">List of posters</A> 
-<li><A HREF="participants.html">List of participants</A>
-<li><A HREF="contrib_software.html">List of software presentations</A> 

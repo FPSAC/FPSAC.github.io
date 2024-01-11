@@ -10,6 +10,8 @@ site: http://inst-mat.utalca.cl/fpsac2008/
 icon: Chile.gif
 participants: 130
 
+local_site: https://fpsac-archive.github.io/FPSAC08/SITE08/index.html
+
 proceedings:
   title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/255
@@ -102,12 +104,3 @@ organizing_committee:
 ---
 
 Gilbert Labelle (UQAM, Canada) will give the lecture <em>Mes aventures mathématiques avec Pierre Leroux</em> dedicated to the memory of Pierre Leroux. 
-
-# Papers, posters and software demonstrations
-
-<li><A HREF="SITE08/schedule2.htm">Conference program</A> (with the list of papers and posters)
-<li><A HREF="SITE08/marco_centro_slides.html">List of presentations</A> (with slides)
-<li><A HREF="participants.html">List of participants</A>
-<p></p>
-<li><A HREF="http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/100">Publication of the proceedings at DMTCS Proceedings</A> 
-    (see <A HREF="http://www.dmtcs.org/dmtcs-ojs/index.php/proceedings/issue/view/100/showToc">Table of Contents</A>)

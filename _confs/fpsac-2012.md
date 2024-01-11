@@ -11,7 +11,7 @@ icon: Japan.gif
 poster: poster-2012.pdf
 participants: 192
 
-local_site: https://fpsac.org/archive/FPSAC12/SITE2012/index.html
+local_site: https://fpsac-archive.github.io/FPSAC12/SITE2012/index.html
 
 proceedings:
   title: DMTCS Proceedings
