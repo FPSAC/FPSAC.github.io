@@ -52,6 +52,10 @@ layout: default
   <br>
   {% endif %}
 
+  {%if page.local_site %}
+  <h2>Local copy of website: <a href="{{ page.local_site }}">link</a> </h2>
+  {% endif %}
+
   {% if page.proceedings %}
     <h2>Proceedings: 
       {% if page.proceedings.url %}<a href="{{ page.proceedings.url }}">{% endif %}

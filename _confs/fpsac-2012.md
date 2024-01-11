@@ -11,6 +11,8 @@ icon: Japan.gif
 poster: poster-2012.pdf
 participants: 192
 
+local_site: https://fpsac.org/archive/FPSAC12/SITE2012/index.html
+
 proceedings:
   title: DMTCS Proceedings
   url: https://dmtcs.episciences.org/volume/view/id/263
@@ -103,9 +105,3 @@ organizing_committee:
 
 ---
 
-# Papers, posters and software demonstrations
-
-<li><A HREF="SITE2012/program.html">Programm</A>
-<li><A HREF="SITE2012/posters.html">List of posters</A>
-<li><A HREF="SITE2012/participants.html">List of participants</A>
-<li><A HREF="SITE2012/proceedings.html">Local proceedings</A>

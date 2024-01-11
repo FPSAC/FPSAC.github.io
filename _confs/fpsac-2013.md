@@ -120,7 +120,4 @@ organizing_committee:
 
 # Papers, posters and software demonstrations
 
-<li><A HREF="SITE2013/program.html">Programm</A>
-<li><A HREF="SITE2013/posters.html">List of posters</A>
-<li><A HREF="SITE2013/participants.html">List of participants</A>
-<li><A HREF="SITE2013/proceedings.html">Local proceedings</A>
+<li><A HREF="https://fpsac-archive.github.io/FPSAC13/proceedings.pdf">Local proceedings</A>
