@@ -2,10 +2,10 @@
 layout: conf
 year: 1990
 number: 2nd
-institution: University of Paris
-town: Paris
+institution: University of Rouen
+town: Rouen
 country: France
-dates: April 3--4
+dates: April 3-4
 participants: 25
 
 proceedings:
@@ -17,20 +17,20 @@ invited_speakers:
 
 program_committee:
 - name:   G&eacute;rard Duchamp
-  affiliation: Rouen, France
+  affiliation: LITP/LIR/Université de Rouen, France
   role: chair
 - name:   G&eacute;rard Jacob
-  affiliation: Lille, France
+  affiliation: LIFL/Université de Lille 1, France
 - name:   Daniel Krob
-  affiliation: Rouen, France
+  affiliation: LITP/LIR/Université de Rouen, France
   role: chair
 
 organizing_committee:
 - name:   G&eacute;rard Duchamp
-  affiliation: Rouen, France
+  affiliation: LITP/LIR/Université de Rouen, France
   role: chair
 - name:   Daniel Krob
-  affiliation: Rouen, France
+  affiliation: LITP/LIR/Université de Rouen, France
   role: chair
 
 ---

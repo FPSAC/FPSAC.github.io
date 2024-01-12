@@ -5,7 +5,7 @@ number: 1st
 institution: University of Lille
 town: Lille
 country: France
-dates: December 12--13
+dates: December 12-13
 participants: 30
 
 proceedings:
@@ -15,15 +15,15 @@ proceedings:
 
 program_committee:
 - name:   Gérard Jacob
-  affiliation: France
+  affiliation: LIFL/Université de Lille 1, France
   role: chair
 - name:   Christophe Reutenauer
-  affiliation: Canada
+  affiliation: LITP/Université de Paris 7, France
   role: chair
 
 organizing_committee:
 - name:   Gérard Jacob
-  affiliation: France
+  affiliation: LIFL/Université de Lille 1, France
   role: chair
 
 ---
