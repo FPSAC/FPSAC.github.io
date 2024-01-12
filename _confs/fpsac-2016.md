@@ -10,8 +10,8 @@ site: https://sites.google.com/site/fpsac2016/
 poster: poster-2016.jpg
 
 proceedings:
-  title: hosted on Sciencesconf.org
-  url: https://fpsac2016.sciencesconf.org/
+  title: DMTCS Proceedings
+  url: https://dmtcs.episciences.org/volume/view/id/379
   editors: Vincent Pilaud
 
 best_student_paper:
