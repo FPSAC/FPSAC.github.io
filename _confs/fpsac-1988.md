@@ -8,6 +8,11 @@ country: France
 dates: December 12--13
 participants: 30
 
+proceedings:
+  title: Theoretical Computer Science 79(1)
+  url: https://www.sciencedirect.com/journal/theoretical-computer-science/vol/79/issue/1
+  editors: Gérard Jacob and Christophe Reutenauer
+
 program_committee:
 - name:   Gérard Jacob
   affiliation: France
