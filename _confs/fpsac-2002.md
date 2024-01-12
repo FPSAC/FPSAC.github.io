@@ -12,6 +12,7 @@ participants: 115
 proceedings:
   title: Discrete Mathematics 298
   url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/298/issue/1
+  editors: Omar Foda and Tony Guttmann
 
 local_site: https://fpsac-archive.github.io/FPSAC02/SITE02/index.html
 

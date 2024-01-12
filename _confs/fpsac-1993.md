@@ -8,6 +8,11 @@ country: Italy
 dates: June
 participants: 204
 
+proceedings:
+  title: Discrete Mathematics 153
+  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/153/issue/1
+  editors: Maylis Delest and Renzo Pinzani
+
 invited_speakers:
 - name:  François Bergeron
   affiliation: Montréal, Canada

@@ -12,7 +12,7 @@ participants: 210
 local_site: https://fpsac-archive.github.io/FPSAC10/SITE2010/index.html
 
 proceedings:
-  title: DMTCS Proceedings
+  title: DMTCS Proceedings AN
   url: https://dmtcs.episciences.org/volume/view/id/259
   editors: Peter McNamara
 

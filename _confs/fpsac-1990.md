@@ -8,6 +8,11 @@ country: France
 dates: April 3--4
 participants: 25
 
+proceedings:
+  title: Theoretical Computer Science 98(1)
+  url: https://www.sciencedirect.com/journal/theoretical-computer-science/vol/98/issue/1
+  editors: Gérard Duchamp, Gérard Jacob and Daniel Krob
+
 invited_speakers:
 
 program_committee:

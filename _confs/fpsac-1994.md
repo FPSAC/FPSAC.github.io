@@ -7,8 +7,11 @@ town: Piscataway
 country: USA
 dates: May 23 - 27
 participants: 160
+
 proceedings:
-  title: "DIMACS - Series in Discrete Mathematics and Theoretical Computer Science; Volume: 24; 1996; 198 pp;"
+  title: Discrete Mathematics 157
+  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/157/issue/1
+  editor: Rodica Simion
 
 invited_speakers:
 - name:  Anders Bj&#246;rner
@@ -87,3 +90,4 @@ organizing_committee:
 # Papers, posters and software demonstrations
 
 - [Articles](https://fpsac-archive.github.io/FPSAC94/articles.html)
+- [Invited lectures published in "DIMACS 24"](http://archive.dimacs.rutgers.edu/Volumes/Vol24.html)

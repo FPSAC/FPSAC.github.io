@@ -13,7 +13,7 @@ participants: 130
 local_site: https://fpsac-archive.github.io/FPSAC08/SITE08/index.html
 
 proceedings:
-  title: DMTCS Proceedings
+  title: DMTCS Proceedings AJ
   url: https://dmtcs.episciences.org/volume/view/id/255
   editors: Luc Lapointe
 

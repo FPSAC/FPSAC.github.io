@@ -8,6 +8,11 @@ country: France
 dates: June
 participants: 205
 
+proceedings:
+  title: Discrete Mathematics 180
+  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/180/issue/1
+  editors: Bernard Leclerc and Jean-Yves Thibon
+
 invited_speakers:
 - name:  Didier Arquès
   affiliation: Marne-la-Vallée, France

@@ -11,7 +11,7 @@ icon: Austria.gif
 participants: 198
 
 proceedings:
-  title: DMTCS Proceedings
+  title: DMTCS Proceedings AK
   url: https://dmtcs.episciences.org/volume/view/id/256
   editors: Manuel Kauers
 

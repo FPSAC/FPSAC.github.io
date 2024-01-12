@@ -12,7 +12,7 @@ participants: 205
 local_site: https://fpsac-archive.github.io/FPSAC11/SITE2011/index.html
 
 proceedings:
-  title: DMTCS Proceedings
+  title: DMTCS Proceedings AO
   url: https://dmtcs.episciences.org/volume/view/id/260
   editors: Anders Claesson
 

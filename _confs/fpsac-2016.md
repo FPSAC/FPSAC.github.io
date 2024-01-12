@@ -10,7 +10,7 @@ site: https://sites.google.com/site/fpsac2016/
 poster: poster-2016.jpg
 
 proceedings:
-  title: DMTCS Proceedings
+  title: DMTCS Proceedings FPSAC2016
   url: https://dmtcs.episciences.org/volume/view/id/379
   editors: Vincent Pilaud
 

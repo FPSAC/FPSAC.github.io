@@ -8,6 +8,11 @@ country: USA
 dates: June
 participants: 130
 
+proceedings:
+  title: Discrete Mathematics 210
+  url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/210/issue/1
+  editors: Pierre Leroux and Dennis Stanton
+
 invited_speakers:
 - name:  Noga Alon
   affiliation: Israel

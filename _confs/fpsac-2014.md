@@ -15,7 +15,7 @@ talks: 5+9+3+5+6
 demos: 1
 
 proceedings:
-  title: DMTCS Proceedings
+  title: DMTCS Proceedings AT
   url: https://dmtcs.episciences.org/volume/view/id/265
   editors: Caroline Klivans
 

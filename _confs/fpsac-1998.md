@@ -12,6 +12,7 @@ participants: 145
 proceedings:
   title: Discrete Mathematics 225
   url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/225/issue/1
+  editors: Nantel Bergeron, Ian Goulden and Frank Sottile
 
 best_student_paper:
 

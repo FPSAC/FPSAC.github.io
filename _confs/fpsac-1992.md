@@ -10,6 +10,7 @@ participants: 201
 proceedings:
   title: Discrete Mathematics 139
   url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/139/issue/1
+  editors: Pierre Leroux and Christophe Reutenauer
 
 invited_speakers:
 - name:   Jean Berstel

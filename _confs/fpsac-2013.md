@@ -12,7 +12,7 @@ poster: poster-2013.pdf
 participants: 310
 
 proceedings:
-  title: DMTCS Proceedings
+  title: DMTCS Proceedings AS
   url: https://dmtcs.episciences.org/volume/view/id/264
   editors: Vincent Pilaud
 

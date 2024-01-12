@@ -10,7 +10,7 @@ site: http://fpsac.combinatorics.kr/
 poster: poster-2015.pdf
 
 proceedings:
-  title: DMTCS Proceedings
+  title: DMTCS Proceedings FPSAC2015
   url: https://dmtcs.episciences.org/volume/view/id/285
   editors: Jang Soo Kim and Jae-Hoon Kwon
 

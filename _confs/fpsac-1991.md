@@ -8,6 +8,11 @@ country: France
 dates: May 2 - 4
 participants: 110
 
+proceedings:
+  title: Theoretical Computer Science 117
+  url: https://www.sciencedirect.com/journal/theoretical-computer-science/vol/117/issue/1
+  editors: Maylis Delest, Gérard Jacob, and Pierre Leroux
+
 invited_speakers:
 - name: Pierre Cartier
   affiliation: Paris, France

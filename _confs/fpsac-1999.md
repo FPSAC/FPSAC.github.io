@@ -12,6 +12,7 @@ participants: 152
 proceedings:
   title: Discrete Mathematics 246
   url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/246/issue/1-3
+  editors: Robert Cori and Marc Noy
 
 best_student_paper:
 

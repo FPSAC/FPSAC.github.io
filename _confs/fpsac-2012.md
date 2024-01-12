@@ -14,7 +14,7 @@ participants: 192
 local_site: https://fpsac-archive.github.io/FPSAC12/SITE2012/index.html
 
 proceedings:
-  title: DMTCS Proceedings
+  title: DMTCS Proceedings AR
   url: https://dmtcs.episciences.org/volume/view/id/263
   editors: Masao Ishikawa, Sho Matsumoto and Hiroshi Mizukawa
 
