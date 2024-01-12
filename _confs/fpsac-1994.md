@@ -11,7 +11,7 @@ participants: 160
 proceedings:
   title: Discrete Mathematics 157
   url: https://www.sciencedirect.com/journal/discrete-mathematics/vol/157/issue/1
-  editor: Rodica Simion
+  editors: Rodica Simion
 
 invited_speakers:
 - name:  Anders Bj&#246;rner

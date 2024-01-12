@@ -10,8 +10,9 @@ site:
 icon: Russia.gif
 best_student_paper:
 proceedings:
-  title: Daniel Krob, Alexander A. Mikhalev, Alexander V. Mikhalev (eds.); Springer-Verlag Berlin Heidelberg, 2000
+  title: Formal Power Series and Algebraic Combinatorics; 12 th International Conference, FPSAC '00, Moscow, Russia, June 2000, Proceedings; Springer-Verlag Berlin Heidelberg, 2000
   url: http://www.springer.com/de/book/9783540672470
+  editors: Daniel Krob, Alexander A. Mikhalev, Alexander V. Mikhalev
 
 participants: 120
 
