@@ -13,6 +13,11 @@ participants: 150
 
 local_site: https://fpsac-archive.github.io/FPSAC01/SITE01/index.html
 
+proceedings:
+  title: Advances in Applied Mathematics 30
+  url: https://www.sciencedirect.com/journal/advances-in-applied-mathematics/vol/30/issue/1
+  editors: Hélène Barcelo, Joseph P.S. Kung, and Volkmar Welker
+
 invited_speakers:
 - name: Sanjeev Arora
   affiliation: USA
