@@ -5,7 +5,7 @@ number: 3rd
 institution: University of Bordeaux
 town: Bordeaux
 country: France
-dates: May 2 - 4
+dates: May 2 - 5
 participants: 110
 
 proceedings:
