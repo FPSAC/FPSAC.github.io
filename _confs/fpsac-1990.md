@@ -2,8 +2,8 @@
 layout: conf
 year: 1990
 number: 2nd
-institution: University of Rouen
-town: Rouen
+institution: ENS de Paris
+town: Paris
 country: France
 dates: April 3-4
 participants: 25
