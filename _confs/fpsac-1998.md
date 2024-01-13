@@ -5,7 +5,7 @@ number: 10th
 institution: University of Toronto
 town: Toronto
 country: Canada
-dates: June
+dates: June 15-19
 site:
 icon:
 participants: 145

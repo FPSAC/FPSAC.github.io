@@ -5,7 +5,7 @@ number: 8-th
 institution: University of Minneapolis
 town: Minneapolis
 country: USA
-dates: June
+dates: June 25-29
 participants: 130
 
 proceedings:

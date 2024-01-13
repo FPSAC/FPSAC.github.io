@@ -5,7 +5,7 @@ number: 5th
 institution: University of Florence
 town: Firenze
 country: Italy
-dates: June
+dates: June 21-25
 participants: 204
 
 proceedings:

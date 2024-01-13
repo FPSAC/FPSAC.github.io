@@ -5,7 +5,7 @@ number: 7th
 institution: 
 town: Paris
 country: France
-dates: June
+dates: May 29 - June 2
 participants: 205
 
 proceedings:
