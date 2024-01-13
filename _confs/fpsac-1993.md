@@ -78,6 +78,6 @@ organizing_committee:
   mail: mailto:pire@ingfi1.ing.unifi.it
 
 ---
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - [Articles](https://fpsac-archive.github.io/FPSAC93/articles.html)

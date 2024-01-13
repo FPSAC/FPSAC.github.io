@@ -97,7 +97,6 @@ organizing_committee:
   affiliation: Marne-la-Vallée, France
 
 ---
-
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - [Articles](https://fpsac-archive.github.io/FPSAC95/articles.html)

@@ -86,8 +86,7 @@ organizing_committee:
   mail: simion@math.gwu.edu
 
 ---
-
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - [Articles](https://fpsac-archive.github.io/FPSAC94/articles.html)
 - [Invited lectures published in "DIMACS 24"](http://archive.dimacs.rutgers.edu/Volumes/Vol24.html)

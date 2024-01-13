@@ -79,8 +79,7 @@ organizing_committee:
   role: chair
 
 ---
-
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - [Articles](https://fpsac-archive.github.io/FPSAC92/articles.html)
 - [Complete proceedings](https://fpsac-archive.github.io/FPSAC92/proceedings.pdf)

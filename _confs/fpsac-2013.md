@@ -117,7 +117,6 @@ organizing_committee:
   affiliation: LeHigh, USA
 
 ---
-
-# Papers, posters and software demonstrations
+# Supplementary files
 
 <li><A HREF="https://fpsac-archive.github.io/FPSAC13/proceedings.pdf">Local proceedings</A>

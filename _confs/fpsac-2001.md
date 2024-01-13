@@ -104,7 +104,6 @@ organizing_committee:
   affiliation: Germany
 
 ---
-
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - [Articles](https://fpsac-archive.github.io/FPSAC01/articles.html)

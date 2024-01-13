@@ -125,7 +125,7 @@ organizing_committee:
   role: cochair
 
 ---
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - [Talks](https://fpsac-archive.github.io/FPSAC06/contrib_papers.html)
 - [Posters](https://fpsac-archive.github.io/FPSAC06/contrib_posters.html)

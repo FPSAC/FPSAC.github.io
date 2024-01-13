@@ -98,7 +98,7 @@ organizing_committee:
   affiliation: Melbourne
 
 ---
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - [Articles](https://fpsac-archive.github.io/FPSAC02/articles.html)
 - [Complete proceedings](https://fpsac-archive.github.io/FPSAC02/fpsac02.pdf) 

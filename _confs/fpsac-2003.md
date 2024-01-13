@@ -96,6 +96,6 @@ organizing_committee:
   affiliation: Sweden
 
 ---
+# Supplementary files
 
-# Papers, posters and software demonstrations
 - [Articles](https://fpsac-archive.github.io/FPSAC03/articles.html)

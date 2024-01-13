@@ -115,7 +115,6 @@ organizing_committee:
   affiliation: York University, Canada
 
 ---
-
-# Papers, posters and software demonstrations
+# Supplementary files
 
 <li><A HREF="https://fpsac-archive.github.io/FPSAC10/local_proceedings.pdf">Local proceedings</A>

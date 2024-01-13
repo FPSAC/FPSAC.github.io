@@ -104,8 +104,8 @@ organizing_committee:
   affiliation: France
 
 ---
+# Supplementary files
 
-# Papers, posters and software demonstrations
 - [Papers](https://fpsac-archive.github.io/FPSAC05/articles.html)
 - [Complete proceedings](https://fpsac-archive.github.io/FPSAC05/FPSAC05.pdf)
 

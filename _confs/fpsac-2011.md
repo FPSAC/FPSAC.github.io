@@ -119,6 +119,6 @@ organizing_committee:
 
 <H4>This year's conference is dedicated to the memory of Philippe Flajolet, (<a href="SITE2011/PFobituary.pdf">obituary</a>).</H4>
 
-# Papers, posters and software demonstrations
+# Supplementary files
 
 <li><A HREF="https://fpsac-archive.github.io/FPSAC11/SITE2011/proceedings/local.pdf">Local proceedings</A>

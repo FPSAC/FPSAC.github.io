@@ -90,8 +90,7 @@ organizing_committee:
   affiliation: Canada
 
 ---
-
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - [Papers](https://fpsac-archive.github.io/FPSAC04/articles.html)
 - [Complete proceedings](https://fpsac-archive.github.io/FPSAC04/papers.pdf)

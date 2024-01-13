@@ -142,8 +142,7 @@ organizing_committee:
   affiliation: <a href="http://www.yorku.ca/web/index.htm">York University, Canada)</a>
 
 ---
-
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - <A HREF="https://fpsac-archive.github.io/FPSAC07/contrib_papers.html">List of taks</A>
 - <A HREF="https://fpsac-archive.github.io/FPSAC07/contrib_posters.html">List of posters</A>

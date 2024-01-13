@@ -105,6 +105,6 @@ organizing_committee:
   affiliation: UPC, Barcelona
 
 ---
-# Papers, posters and software demonstrations
+# Supplementary files
 
 - [Articles](https://fpsac-archive.github.io/FPSAC99/articles.html)
