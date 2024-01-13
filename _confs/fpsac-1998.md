@@ -48,7 +48,7 @@ program_committee:
 - name: Serge Dulucq
   affiliation: France
 - name: Kimmo Eriksson
-  affiliation: Sweeden
+  affiliation: Sweden
 - name: Omar Foda
   affiliation: Australia
 - name: Sergey Fomin
