@@ -7,7 +7,7 @@ town: Bochum
 country: Germany
 dates: July 22-26
 site: https://fpsac2024.rub.de
-poster: poster-2024.pdf
+poster: poster-2024.jpg
 proceedings:
   editors: Christian Gaetz
 
