@@ -35,7 +35,9 @@ Algébrique), running since 1988. [Read more...](about)
 
 To receive conference announcements and updates, please sign up for the [FPSAC Mailing List](https://lists.ruhr-uni-bochum.de/mailman/listinfo/fpsac-announcements).
 
-## Open Call 
+## Open call for future FPSAC organization
+
+Starting with FPSAC 2027, we have an [open call to organize FPSAC](2024/02/15/opencallvenue).
 
 ## News
 
