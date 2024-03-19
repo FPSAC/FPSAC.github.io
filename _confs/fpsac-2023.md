@@ -115,7 +115,7 @@ organizing_committee:
   role: cochair
 - name: Erik Carlsson
   affiliation: UC Davis
-- name: Jesus DeLoera
+- name: Jesús A. De Loera
   affiliation: UC Davis
 - name: Sean T. Griffin
   affiliation: UC Davis
