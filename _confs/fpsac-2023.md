@@ -59,7 +59,7 @@ program_committee:
   affiliation: Université de Bordeaux
 - name: Swee Hong Chan
   affiliation: Rutgers University
-- name: Fédéric Chapoton
+- name: Frédéric Chapoton
   affiliation: Université de Strasbourg
 - name: Nick Early
   affiliation: Max Planck Institute for Mathematics in the Sciences, Leipzig
