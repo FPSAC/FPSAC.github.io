@@ -86,7 +86,7 @@ program_committee:
 - name: Basudeb Datta
   affiliation: Indian Institute of Science, Bangalore
   url: http://math.iisc.ac.in/%7edattab/
-- name: Philippe di Francesco
+- name: Philippe Di Francesco
   affiliation: University of Illinois at Urbana-Champaign
   url: https://faculty.math.illinois.edu/%7ephilippe/
 - name: Jehanne Dousse

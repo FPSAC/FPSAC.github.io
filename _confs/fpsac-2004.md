@@ -64,7 +64,7 @@ program_committee:
   affiliation: USA
 - name: Frank Sottile
   affiliation: USA
-- name: Einar Steingrimsson
+- name: Einar Steingrímsson
   affiliation: Sweden
 - name: Julian West
   affiliation: Canada

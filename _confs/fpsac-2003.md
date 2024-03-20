@@ -63,7 +63,7 @@ program_committee:
   affiliation: France
 - name: Dennis Stanton
   affiliation: USA
-- name: Einar Steingrimsson
+- name: Einar Steingrímsson
   affiliation: Sweden
 - name: Bob Sulanke
   affiliation: USA

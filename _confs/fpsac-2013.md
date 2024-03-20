@@ -52,7 +52,7 @@ program_committee:
   role: chair
 - name: Alin Bostan
   affiliation: INRIA, France
-- name: Petter Bränden
+- name: Petter Brändén
   affiliation: KTH, Sweden
 - name: Frédéric Chapoton
   affiliation: CNRS Lyon, France
@@ -80,15 +80,15 @@ program_committee:
   affiliation: Sevila, Spain
 - name: Michael Schlosser
   affiliation: Wien, Austria
-- name: Piotr Sniady
+- name: Piotr Śniady
   affiliation: Wroclaw, Poland
-- name: Einar Steingrimsson
+- name: Einar Steingrímsson
   affiliation: Strathclyde, UK
 - name: Bridget Tenner
   affiliation: DePaul, USA
 - name: Volkmar Welker
   affiliation: Marburg, Germany
-- name: Paul Zinn -Justin
+- name: Paul Zinn-Justin
   affiliation: CNRS Paris 6, France
 
 organizing_committee:

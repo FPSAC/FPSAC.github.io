@@ -129,7 +129,7 @@ program_committee:
 - name: Felipe Rincon
   affiliation: Queen Mary University of London
 
-- name: Piotr Sniady
+- name: Piotr Śniady
   affiliation: Polish Academy of Sciences
 
 - name: Volkmar Welker

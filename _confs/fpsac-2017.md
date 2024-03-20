@@ -12,7 +12,7 @@ participants: 217
 proceedings:
   title: SLC vol. 78B
   url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/
-  editors: Nicolas Beaton
+  editors: Nicholas Beaton
 
 best_student_paper:
 - name: Gaku Liu

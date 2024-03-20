@@ -99,7 +99,7 @@ program_committee:
   affiliation: Virginia Tech
 - name: Bridget Tenner
   affiliation: DePaul University
-- name: Nicolas Thiery
+- name: Nicolas M. Thiéry
   affiliation: Université Paris Sud
 - name: Ole Warnaar
   affiliation: University of Queensland
