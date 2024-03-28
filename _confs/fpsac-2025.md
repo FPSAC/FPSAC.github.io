@@ -8,7 +8,24 @@ country: Japan
 dates: July 21-25
 
 invited_speakers:
-- tba
+- name: Matthias Beck
+  affiliation: San Francisco State University, USA
+- name: Joanna Ellis-Monaghan
+  affiliation: Korteweg-de Vries Instituut voor Wiskunde, Universiteit van Amsterdam, Netherlands
+- name: Christoph Koutschan
+  affiliation: RICAM, Austrian Academy of Sciences, Austria
+- name: Jae-Hoon Kwon
+  affiliation: Seoul National University, South Korea
+- name: Stephen Melczer
+  affiliation: University of Waterloo, Canada
+- name: Mateusz Michałek
+  affiliation: Universität Konstanz, Germany
+- name: Maki Nakasuji
+  affiliation: Sophia University, Japan
+- name: Jessica Striker
+  affiliation: North Dakota State University, USA
+- name: Karen Yeats
+  affiliation: University of Waterloo, Canada
 
 program_committee:
 - name: Satoshi Murai
