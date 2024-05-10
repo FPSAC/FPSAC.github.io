@@ -3,26 +3,26 @@ layout: page
 title: Executive Committee
 
 executive_committee:
+  - name: Arvind Ayyer
+    affiliation: Indian Institute of Science, Bangalore, India. 
+    url: http://Nicolas.Thiery.name/
   - name: Jang Soo Kim
-    affiliation: Suwon, South Korea
+    affiliation: Sungkyunkwan University, Suwon, South Korea
     url: https://sites.google.com/site/mathjskim/home
   - name: Jennifer Morse
-    affiliation: Philadelphia, USA
-    url: http://www.math.drexel.edu/~morsej/
+    affiliation: University of Virginia, Charlottesville, USA
+    url: https://morsej123.github.io/
   - name: Christian Stump
-    affiliation: Bochum, Germany
+    affiliation: Ruhr University Bochum, Germany
     url: https://homepage.rub.de/christian.stump/
   - name: Bridget Tenner
-    affiliation: Chicago, USA
+    affiliation: DePaul University, Chicago, USA
     url: http://math.depaul.edu/bridget/
-  - name: Nicolas M. Thiéry
-    affiliation: Orsay, France
-    url: http://Nicolas.Thiery.name/
   - name: Ole Warnaar
-    affiliation: Brisbane, Australia
+    affiliation: University of Queensland, Brisbane, Australia
     url: http://www.maths.uq.edu.au/~uqowarna/
   - name: Mike Zabrocki
-    affiliation: Toronto, Canada
+    affiliation: York University, Toronto, Canada
     url: http://garsia.math.yorku.ca/~zabrocki/
 
 executive_committee_former:
@@ -58,7 +58,9 @@ executive_committee_former:
   - name: Jean-Yves Thibon
     affiliation: Paris, France
     url: http://www-igm.univ-mlv.fr/~jyt/
-
+  - name: Nicolas M. Thiéry
+    affiliation: Orsay, France
+    url: http://Nicolas.Thiery.name/
 ---
 
 {% include person_list.html persons=page.executive_committee %}
