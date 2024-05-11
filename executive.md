@@ -5,10 +5,10 @@ title: Executive Committee
 executive_committee:
   - name: Arvind Ayyer
     affiliation: Indian Institute of Science, Bangalore, India. 
-    url: http://Nicolas.Thiery.name/
+    url: https://math.iisc.ac.in/~arvind/
   - name: Jang Soo Kim
     affiliation: Sungkyunkwan University, Suwon, South Korea
-    url: https://sites.google.com/site/mathjskim/home
+    url: https://jangsookim.github.io/
   - name: Jennifer Morse
     affiliation: University of Virginia, Charlottesville, USA
     url: https://morsej123.github.io/
