@@ -16,6 +16,7 @@ proceedings:
 local_site: https://fpsac-archive.github.io/FPSAC07/SITE07/index.html
 
 best_student_paper:
+- The Best Student Award was not given in 2007.
 
 invited_speakers:
 - name: Bruce C. Berndt
