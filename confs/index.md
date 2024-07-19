@@ -41,5 +41,5 @@ title: Conferences
 ## FPSAC archive
 
 <ul>
-  <li> [Link](https://fpsac-archive.github.io/) </li>
+  <li> <a href="https://fpsac-archive.github.io/">Link</a> </li>
 </ul>
