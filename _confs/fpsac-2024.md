@@ -11,6 +11,10 @@ poster: poster-2024.pdf
 proceedings:
   editors: Christian Gaetz
 
+best_student_paper:
+- name: Patricia Commins
+  affiliation: University of Minnesota
+
 invited_speakers:
 - name: Carolina Benedetti
   affiliation: Universidad de los Andes, Colombia
