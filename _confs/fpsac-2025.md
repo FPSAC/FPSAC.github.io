@@ -6,6 +6,7 @@ institution: Hokkaido University
 town: Sapporo
 country: Japan
 dates: July 21-25
+site: https://www.math.sci.hokudai.ac.jp/sympo/fpsac2025/
 
 invited_speakers:
 - name: Matthias Beck
@@ -37,6 +38,65 @@ program_committee:
 - name: Mercedes Rosas
   affiliation: Universidad de Sevilla
   role: cochair
+
+- name: Arvind Ayyer
+  affiliation: Indian Institute of Science
+- name: Olga Azhenas
+  affiliation: University of Coimbra, Portugal
+- name: Bruno Beneditti
+  affiliation: University of Miami
+- name: Frédéric Chapoton
+  affiliation: Université de Strasbourg
+- name: Laura Colmenarejo
+  affiliation: North Carolina State University
+- name: Jan de Gier
+  affiliation: University of Melbourne
+- name: Maciej Dolega
+  affiliation: Polish Academy of Sciences
+- name: Sen-Peng Eu
+  affiliation: National Taiwan Normal University
+- name: Christopher Eur
+  affiliation: Carnegie Mellon University
+- name: Wenjie Fang
+  affiliation: Universite Gustave Eiffel
+- name: Ilse Fischer
+  affiliation: Universität Wien
+- name: Angèle Foley
+  affiliation: Wilfrid Laurier University
+- name: Matthieu Josuat-Verges
+  affiliation: Université Paris Cite
+- name: Manuel Kauers
+  affiliation: Johannes Kepler Universität
+- name: Cristian Lenart
+  affiliation: State University of New York at Albany
+- name: Gregg Musiker
+  affiliation: University of Minnesota
+- name: Eric Marberg
+  affiliation: Hong Kong University of Science and Technology
+- name: Sho Matsumoto
+  affiliation: Kagoshima University
+- name: Claudia Malvenuto
+  affiliation: Sapienza Universita di Roma
+- name: Fatemeh Mohammadi
+  affiliation: KU Leuven
+- name: Arnau Padrol
+  affiliation: Universitat de Barcelona
+- name: Seonjeong Park
+  affiliation: Jeonju University
+- name: Viviane Pons
+  affiliation: Université Paris Saclay
+- name: Nathan Reading
+  affiliation: North Carolina State University
+- name: Hjalmar Rosengren
+  affiliation: Chalmers University of Technology
+- name: Sheila Sundaram
+  affiliation: University of Minnesota
+- name: Anna Weigandt
+  affiliation: University of Minnesota
+- name: Volkmar Welker
+  affiliation: Philipps-Universitat Marburg
+- name: Ae Ja Yee
+  affiliation: Pennsylvania State University
 
 organizing_committee:
 - name: Yasuhide Numata
