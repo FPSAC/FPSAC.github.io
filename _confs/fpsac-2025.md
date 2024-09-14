@@ -45,12 +45,18 @@ program_committee:
   affiliation: University of Coimbra, Portugal
 - name: Bruno Beneditti
   affiliation: University of Miami
+- name: Angela Carnevale
+  affiliation: University of Galway
 - name: Frédéric Chapoton
   affiliation: Université de Strasbourg
 - name: Laura Colmenarejo
   affiliation: North Carolina State University
+- name: Sabino Di Trani
+  affiliation: Università di Roma
 - name: Jan de Gier
   affiliation: University of Melbourne
+- name: Bérénice Delcroix-Oger
+  affiliation: Université de Montpellier
 - name: Maciej Dolega
   affiliation: Polish Academy of Sciences
 - name: Sen-Peng Eu
@@ -77,6 +83,8 @@ program_committee:
   affiliation: Kagoshima University
 - name: Claudia Malvenuto
   affiliation: Sapienza Universita di Roma
+- name: Olya Mandelshtam
+  affiliation: University of Waterloo
 - name: Fatemeh Mohammadi
   affiliation: KU Leuven
 - name: Arnau Padrol
@@ -87,6 +95,8 @@ program_committee:
   affiliation: Université Paris Saclay
 - name: Nathan Reading
   affiliation: North Carolina State University
+- name: Felipe Rincón
+  affiliation: Queen Mary University of London
 - name: Hjalmar Rosengren
   affiliation: Chalmers University of Technology
 - name: Sheila Sundaram
@@ -97,6 +107,8 @@ program_committee:
   affiliation: Philipps-Universitat Marburg
 - name: Ae Ja Yee
   affiliation: Pennsylvania State University
+- name: Benjamin Young
+  affiliation: University of Oregon
 
 organizing_committee:
 - name: Yasuhide Numata
