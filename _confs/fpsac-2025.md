@@ -22,7 +22,7 @@ invited_speakers:
 - name: Mateusz Michałek
   affiliation: Universität Konstanz, Germany
 - name: Maki Nakasuji
-  affiliation: Sophia University, Japan
+  affiliation: Sophia University and Tohoku University, Japan
 - name: Jessica Striker
   affiliation: North Dakota State University, USA
 - name: Karen Yeats
@@ -57,36 +57,36 @@ program_committee:
   affiliation: University of Melbourne
 - name: Bérénice Delcroix-Oger
   affiliation: Université de Montpellier
-- name: Maciej Dolega
+- name: Maciej Dołęga
   affiliation: Polish Academy of Sciences
 - name: Sen-Peng Eu
   affiliation: National Taiwan Normal University
 - name: Christopher Eur
   affiliation: Carnegie Mellon University
 - name: Wenjie Fang
-  affiliation: Universite Gustave Eiffel
+  affiliation: Université Gustave Eiffel
 - name: Ilse Fischer
   affiliation: Universität Wien
 - name: Angèle Foley
   affiliation: Wilfrid Laurier University
-- name: Matthieu Josuat-Verges
+- name: Matthieu Josuat-Vergés
   affiliation: Université Paris Cite
 - name: Manuel Kauers
   affiliation: Johannes Kepler Universität
 - name: Cristian Lenart
   affiliation: State University of New York at Albany
-- name: Gregg Musiker
-  affiliation: University of Minnesota
+- name: Claudia Malvenuto
+  affiliation: Sapienza Universitá di Roma
+- name: Olya Mandelshtam
+  affiliation: University of Waterloo
 - name: Eric Marberg
   affiliation: Hong Kong University of Science and Technology
 - name: Sho Matsumoto
   affiliation: Kagoshima University
-- name: Claudia Malvenuto
-  affiliation: Sapienza Universita di Roma
-- name: Olya Mandelshtam
-  affiliation: University of Waterloo
 - name: Fatemeh Mohammadi
   affiliation: KU Leuven
+- name: Gregg Musiker
+  affiliation: University of Minnesota
 - name: Arnau Padrol
   affiliation: Universitat de Barcelona
 - name: Seonjeong Park
@@ -98,13 +98,13 @@ program_committee:
 - name: Felipe Rincón
   affiliation: Queen Mary University of London
 - name: Hjalmar Rosengren
-  affiliation: Chalmers University of Technology
+  affiliation: Chalmers University of Technology and the University of Gothenburg
 - name: Sheila Sundaram
   affiliation: University of Minnesota
 - name: Anna Weigandt
   affiliation: University of Minnesota
 - name: Volkmar Welker
-  affiliation: Philipps-Universitat Marburg
+  affiliation: Philipps-Universität Marburg
 - name: Ae Ja Yee
   affiliation: Pennsylvania State University
 - name: Benjamin Young
