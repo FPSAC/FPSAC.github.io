@@ -41,7 +41,7 @@ program_committee:
 
 - name: Arvind Ayyer
   affiliation: Indian Institute of Science
-- name: Olga Azhenas
+- name: Olga Azenhas
   affiliation: University of Coimbra, Portugal
 - name: Bruno Beneditti
   affiliation: University of Miami
