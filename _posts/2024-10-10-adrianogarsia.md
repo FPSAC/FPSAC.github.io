@@ -11,3 +11,5 @@ Adriano made many valuable contributions to algebraic combinatorics
 and his 36 students and many descendants will continue to influence the field.
 
 Wikipedia page for [Adriano Garsia](https://en.wikipedia.org/wiki/Adriano_Garsia)
+
+A pdf of [a cookbook of Adriano's recipes](https://garsia.math.yorku.ca/Garsiafest_cookbook.pdf)
