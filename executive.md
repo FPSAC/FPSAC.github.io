@@ -17,7 +17,7 @@ executive_committee:
     url: https://homepage.rub.de/christian.stump/
   - name: Bridget Tenner
     affiliation: DePaul University, Chicago, USA
-    url: http://math.depaul.edu/bridget/
+    url: https://sites.google.com/view/bridget-tenner
   - name: Ole Warnaar
     affiliation: University of Queensland, Brisbane, Australia
     url: http://www.maths.uq.edu.au/~uqowarna/
