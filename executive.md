@@ -4,7 +4,7 @@ title: Executive Committee
 
 executive_committee:
   - name: Arvind Ayyer
-    affiliation: Indian Institute of Science, Bangalore, India. 
+    affiliation: Indian Institute of Science, Bangalore, India
     url: https://math.iisc.ac.in/~arvind/
   - name: Jang Soo Kim
     affiliation: Sungkyunkwan University, Suwon, South Korea
