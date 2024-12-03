@@ -43,7 +43,7 @@ program_committee:
   affiliation: Indian Institute of Science
 - name: Olga Azenhas
   affiliation: University of Coimbra, Portugal
-- name: Bruno Beneditti
+- name: Bruno Benedetti
   affiliation: University of Miami
 - name: Angela Carnevale
   affiliation: University of Galway
