@@ -5,5 +5,5 @@ number: 38th
 institution: University of Washington
 town: Seattle
 country: USA
-dates: to be decided
+dates: July 13-17
 ---
