@@ -7,6 +7,7 @@ town: Sapporo
 country: Japan
 dates: July 21-25
 site: https://www.math.sci.hokudai.ac.jp/sympo/fpsac2025/
+poster: poster-2025.pdf
 
 invited_speakers:
 - name: Matthias Beck
