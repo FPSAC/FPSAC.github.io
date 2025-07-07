@@ -114,15 +114,24 @@ organizing_committee:
 - name: Yasuhide Numata
   affiliation: Hokkaido University
   role: chair
+- name: Alessandro Iraci
+  affiliation: Università di Pisa
+  role: Proceedings Editor
 - name: Kyouko Kimura
   affiliation: Shizuoka University
 - name: Nanao Kita
   affiliation: Nagoya University
 - name: Tomoo Matsumura
   affiliation: International Christian University
+- name: Marino Romero
+  affiliation: Universität Wien
+  role: Proceedings Editor
 - name: Travis Scrimshaw
   affiliation: Hokkaido University
 - name: Ole Warnaar
   affiliation: The University of Queensland
   role: executive committee liason
+- name: Anna Weigandt
+  affiliation: University of Minnesota
+  role: NSF funding coordinator
 ---
