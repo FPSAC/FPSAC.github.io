@@ -36,17 +36,21 @@ program_committee:
   role: cochair
 
 - name: Marie Albenque
-  affiliation: Institut de Recherche en Informatique Fondamentale
+  affiliation: Université Paris Cité
 - name: Christos Athanasiadis
   affiliation: University of Athens
+- name: Jonah Blasiak
+  affiliation: Drexel University
 - name: Melody Chan
   affiliation: Brown University
 - name: Jehanne Dousse
   affiliation: University of Geneva
 - name: Laura Escobar
-  affiliation: University of California Santa Cruz
+  affiliation: University of California, Santa Cruz
 - name: Valentin Féray
-  affiliation: Université de Lorraine / CNRS
+  affiliation: University of Lorraine
+- name: Yibo Gao
+  affiliation: Peking University
 - name: Darij Grinberg
   affiliation: Drexel University
 - name: Apoorva Khare
@@ -68,13 +72,13 @@ program_committee:
 - name: Chenqi Mou
   affiliation: Beihang University
 - name: Philippe Nadeau
-  affiliation: University of Lyon
+  affiliation: University of Lyon 1
 - name: Eran Nevo
   affiliation: Hebrew University of Jerusalem
 - name: Ezgi Kantarcı Oğuz
   affiliation: Galatasaray University
 - name: Jaeseong Oh
-  affiliation: Korea Institute for Advanced Study
+  affiliation: Sungkyunkwan University
 - name: Dun Qiu
   affiliation: Beijing Jiaotong University
 - name: Eric Ramos
