@@ -17,12 +17,16 @@ invited_speakers:
   affiliation: Universität Osnabrück, Germany
 - name: Seung Jin Lee
   affiliation: Seoul National University, South Korea
+- name: Jennifer Morse
+  affiliation: University of Virginia, United States of America
 - name: Vincent Pilaud
   affiliation: Universitat de Barcelona, Spain
 - name: Felipe Rincón
   affiliation: Queen Mary University of London, United Kingdom
 - name: Mehtaab Sawhney
   affiliation: Columbia University, United States of America
+- name: Mike Zabrocki
+  affiliation: York University, Canada
 
 program_committee:
 - name: Per Alexandersson
