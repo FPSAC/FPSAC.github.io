@@ -134,12 +134,16 @@ organizing_committee:
   role: executive committee liaison
 - name: Michael Tang
   affiliation: University of Washington
+- name: Vasu Tewari
+  affiliation: University of Toronto
+  role: proceedings editor
 - name: Rekha Thomas
   affiliation: University of Washington
 - name: Cynthia Vinzant
   affiliation: University of Washington
 - name: Anna Weigandt
   affiliation: University of Minnesota
+  role: NSF funding coordinator
 - name: Yirong Yang
   affiliation: University of Washington 
 ---
