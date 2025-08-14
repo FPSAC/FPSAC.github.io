@@ -8,6 +8,12 @@ country: Japan
 dates: July 21-25
 site: https://www.math.sci.hokudai.ac.jp/sympo/fpsac2025/
 poster: poster-2025.pdf
+proceedings:
+  editors: Alessandro Iraci and Marino Romero
+
+best_student_paper:
+- name: Grant Barkley
+  affiliation: Harvard University
 
 invited_speakers:
 - name: Matthias Beck
