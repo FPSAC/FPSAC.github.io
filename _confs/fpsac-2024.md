@@ -10,6 +10,7 @@ site: https://fpsac2024.rub.de
 poster: poster-2024.pdf
 proceedings:
   editors: Christian Gaetz
+participants: 282
 
 best_student_paper:
 - name: Patricia Commins
