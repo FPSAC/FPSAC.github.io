@@ -12,6 +12,7 @@ proceedings:
   title: SLC vol. 89B
   url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2023/
   editors: Ben Salisbury
+participants: 260
 
 best_student_paper:
 - name: Hsin-Chieh Liao
