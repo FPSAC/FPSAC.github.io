@@ -12,6 +12,7 @@ proceedings:
   title: SLC vol. 86B
   url: https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2022/
   editors: Travis Scrimshaw
+participants: 119
 
 best_student_paper:
 - name: Houcine Ben Dali
