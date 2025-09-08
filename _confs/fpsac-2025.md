@@ -10,6 +10,7 @@ site: https://www.math.sci.hokudai.ac.jp/sympo/fpsac2025/
 poster: poster-2025.pdf
 proceedings:
   editors: Alessandro Iraci and Marino Romero
+Participants: 315
 
 best_student_paper:
 - name: Grant Barkley
