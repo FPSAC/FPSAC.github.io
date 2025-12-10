@@ -5,5 +5,5 @@ number: 39th
 institution: University of Galway
 town: Galway
 country: Ireland
-dates: to be decided
+dates: July 5-9
 ---
