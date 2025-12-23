@@ -8,7 +8,7 @@ country: Ireland
 dates: July 5-9
 
 program_committee:
-- name: Michele D'addario
+- name: Michele D'adderio
   affiliation: University of Pisa
   role: cochair
 - name: Vincent Pilaud
