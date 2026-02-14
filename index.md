@@ -37,7 +37,7 @@ To receive conference announcements and updates, please sign up for the [FPSAC M
 
 ## Open call for future FPSAC organization
 
-Starting with FPSAC 2027, we have an [open call to organize FPSAC](2024/02/15/opencallvenue).
+Starting with FPSAC 2028, we have an [open call to organize FPSAC](2024/02/15/opencallvenue).
 
 ## News
 
