@@ -86,7 +86,7 @@ program_committee:
 - name: Jaeseong Oh
   affiliation: Sungkyunkwan University
 - name: Dun Qiu
-  affiliation: Beijing Jiaotong University
+  affiliation: Nankai University
 - name: Eric Ramos
   affiliation: Stevens Institute of Technology
 - name: Vic Reiner
@@ -125,6 +125,9 @@ organizing_committee:
   affiliation: University of Washington
 - name: Patricia Hersh
   affiliation: University of Oregon
+- name: Trevor Karn
+  affiliation: Texas A&M University
+  role: proceedings editor
 - name: Gaku Liu
   affiliation: University of Washington
 - name: Isabella Novik
