@@ -36,6 +36,9 @@ invited_speakers:
   affiliation: University of Michigan, USA
 - name: Nets Katz
   affiliation: Indiana University, USA
+- name: Bernard Leclerc
+  affiliation: Université de Caen, France
+  role: memorial for Alain Lascoux
 - name: Eran Nevo
   affiliation: Ben-Gurion University of the Negev, Israel
 - name: Nathan Reading

@@ -35,6 +35,9 @@ invited_speakers:
   affiliation: University of California, Davis, USA
 - name: Ioana Dumitriu
   affiliation: University of Washington, USA
+- name: Jim Haglund
+  affiliation: University of Pennsylvania, USA
+  role: memorial for Jeffrey Remmel
 - name: Jang Soo Kim
   affiliation: Sungkyunkwan University, South Korea
 - name: Diane Maclagan

@@ -23,6 +23,7 @@ best_student_paper:
 invited_speakers:
 - name: François Bergeron
   affiliation: Université du Québec à Montréal, Canada
+  role: memorial for Philippe Flajolet
 - name: Richard Ehrenborg
   affiliation: University of Kentucky, USA
 - name: Stefan Felsner
