@@ -10,7 +10,7 @@ title: All time invited speakers (alphabetical)
     {% for speaker in conf.invited_speakers %}
       {% assign last = speaker.name | split: ' ' | last %}
       {% capture speaker_string %}
-          {{last}}|{{speaker.name}}, {{speaker.affiliation}}: {% include fpsac.html conf=conf %}
+          {{last}}|{{speaker.name}}, {{speaker.affiliation}}: {% include fpsac.html conf=conf %}{% if speaker.role %} <b>({{speaker.role}})</b>{% endif %}
       {% endcapture %}
       {% if speakers %}
           {% assign speakers = speakers | append: '||' | append: speaker_string %}

@@ -19,7 +19,7 @@ invited_speakers:
   affiliation: Seoul National University, South Korea
 - name: Jennifer Morse
   affiliation: University of Virginia, United States of America
-  role: memorial lecturer
+  role: memorial for Adriano Garsia
 - name: Vincent Pilaud
   affiliation: Universitat de Barcelona, Spain
 - name: Felipe Rincón
@@ -28,7 +28,7 @@ invited_speakers:
   affiliation: Columbia University, United States of America
 - name: Mike Zabrocki
   affiliation: York University, Canada
-  role: memorial lecturer
+  role: memorial for Adriano Garsia
 
 program_committee:
 - name: Per Alexandersson

@@ -32,6 +32,9 @@ invited_speakers:
   affiliation: Universität Bremen, Germany
 - name: Ian Grojnowski
   affiliation: University of Cambridge, UK
+- name: Gilbert Labelle
+  affiliation: Université du Québec à Montréal, Canada
+  role: memorial for Pierre Leroux
 - name: Alexander Postnikov
   affiliation: MIT, USA
 - name: María Ronco

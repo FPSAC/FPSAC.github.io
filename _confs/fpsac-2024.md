@@ -27,6 +27,9 @@ invited_speakers:
   affiliation: Dartmouth College, United States
 - name: Nicholas Proudfoot
   affiliation: University of Oregon, United States
+- name: Arun Ram
+  affiliation: University of Melbourne, Australia
+  role: memorial for Ian G. Macdonald
 - name: Markus Reineke
   affiliation: Ruhr-Universität Bochum, Germany
 - name: Lisa Sauermann

@@ -23,6 +23,10 @@ invited_speakers:
 - name: Omer Angel
   affiliation: University of British Columbia
   url: https://www.math.ubc.ca/%7eangel/
+- name: Chris Bowman
+  affiliation: University of York
+  url: https://www.york.ac.uk/maths/people/chris-bowman/
+  role: memorial for Christine Bessenrodt
 - name: Sen-Peng Eu
   affiliation: National Taiwan Normal University
   url: http://math.ntnu.edu.tw/%7espeu/

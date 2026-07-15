@@ -27,6 +27,9 @@ invited_speakers:
   affiliation: Brown University
 - name: Eric Fusy
   affiliation: Marne-la-Vall`ee
+- name: Tom Halverson
+  affiliation: Macalester College
+  role: memorial for Georgia Benkart
 - name: Rei Inoue
   affiliation: Chiba University
 - name: Mohamed Omar
