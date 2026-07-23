@@ -8,6 +8,10 @@ country: USA
 dates: July 13-17
 site: https://sites.math.washington.edu/fpsac2026/
 
+best_student_paper:
+- name: Ruizhen Liu
+  affiliation: University of Toronto
+
 invited_speakers:
 - name: Nantel Bergeron
   affiliation: York University, Canada
