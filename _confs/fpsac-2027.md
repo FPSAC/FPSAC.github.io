@@ -8,6 +8,22 @@ country: Ireland
 dates: July 5-9
 site: https://maths.universityofgalway.ie/fpsac2027/commit/
 
+invited_speakers:
+- name: Mathilde Bouvel
+  affiliation: CNRS & LORIA, France
+- name: Alex Fink
+  affiliation: Queen Mary University of London, UK
+- name: Mark Haiman
+  affiliation: UC Berkeley, USA
+- name: Osamu Iyama
+  affiliation: University of Tokyo, Japan
+- name: Mario Marietti
+  affiliation: Università Politecnica delle Marche, Italy
+- name: Marni Mishna
+  affiliation: Simon Fraser University, Canada
+- name: Martha Yip
+  affiliation: University of Kentucky, USA
+
 program_committee:
 - name: Michele D'Adderio
   affiliation: University of Pisa
