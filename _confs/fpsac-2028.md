@@ -22,4 +22,11 @@ organizing_committee:
 - name: Yibo Gao
   affiliation: Peking University
   role: chair
+- name: Jang Soo Kim
+  affiliation: Sungkyunkwan University, South Korea
+  role: Executive Committee Liaison
+- name: Shaoshi Chen
+  affiliation: Chinese Academy of Sciences
+- name: Botong Wang
+  affiliation: Peking University
 ---
