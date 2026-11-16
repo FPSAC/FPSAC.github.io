@@ -20,8 +20,8 @@ invited_speakers:
   affiliation: Melbourne, Australia
 - name:  Francesco Brenti
   affiliation: Perugia, Italy
-- name:  D. Jackson
-  affiliation: Waterloo, Canada
+- name:  Jeff Kahn
+  affiliation: Rutgers University, USA
 - name:  Bernard Leclerc
   affiliation: Caen, France
 - name:  Victor Reiner
