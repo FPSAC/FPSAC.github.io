@@ -28,5 +28,5 @@ organizing_committee:
 - name: Shaoshi Chen
   affiliation: Chinese Academy of Sciences
 - name: Botong Wang
-  affiliation: Peking University
+  affiliation: University of Wisconsin-Madison
 ---
